@@ -9,6 +9,8 @@
 [![Problem Entries](https://img.shields.io/badge/🧩%20Problem%20Entries-17K%2B-16a34a?style=for-the-badge)](#-what-you-get)
 [![License](https://img.shields.io/badge/⚖️%20License-MIT-f59e0b?style=for-the-badge)](LICENSE)
 
+[🚀 Open Dashboard](index.html) • [📊 Browse Data](#-what-you-get) • [🧭 Study Plans](#-suggested-study-plans)
+
 <br />
 
 **Prepare smarter. Practice with intent. Crack interviews with a plan.**
@@ -237,3 +239,6 @@ This project is available under the [MIT License](LICENSE).
 **Keep solving. Keep revising. Keep getting interview-ready.**
 
 </div>
+
+
+

@@ -1,0 +1,5572 @@
+[
+  {
+    "slug": "1kosmos",
+    "name": "1kosmos",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "6sense",
+    "name": "6sense",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "accelya",
+    "name": "Accelya",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "accenture",
+    "name": "Accenture",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "accolite",
+    "name": "Accolite",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "acko",
+    "name": "Acko",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "acorns",
+    "name": "Acorns",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "activision",
+    "name": "Activision",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "adobe",
+    "name": "Adobe",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "adp",
+    "name": "Adp",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "aetion",
+    "name": "Aetion",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "affinity",
+    "name": "Affinity",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "affirm",
+    "name": "Affirm",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "agoda",
+    "name": "Agoda",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "airbnb",
+    "name": "Airbnb",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "airbus",
+    "name": "Airbus",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "airtel",
+    "name": "Airtel",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "airwallex",
+    "name": "Airwallex",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "akamai",
+    "name": "Akamai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "akuna-capital",
+    "name": "Akuna Capital",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "alibaba",
+    "name": "Alibaba",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "allincall",
+    "name": "Allincall",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "alphonso",
+    "name": "Alphonso",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "alten",
+    "name": "Alten",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "altimetrik",
+    "name": "Altimetrik",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "amadeus",
+    "name": "Amadeus",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "amazon",
+    "name": "Amazon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "amd",
+    "name": "Amd",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "amdocs",
+    "name": "Amdocs",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "american-airlines",
+    "name": "American Airlines",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "american-express",
+    "name": "American Express",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "amplitude",
+    "name": "Amplitude",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "analytics-quotient",
+    "name": "Analytics Quotient",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "andela",
+    "name": "Andela",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "anduril",
+    "name": "Anduril",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "anyscale",
+    "name": "Anyscale",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "aon",
+    "name": "Aon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "apolloio",
+    "name": "Apolloio",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "appdynamics",
+    "name": "Appdynamics",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "appfolio",
+    "name": "Appfolio",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "apple",
+    "name": "Apple",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "applied-intuition",
+    "name": "Applied Intuition",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "aqr-capital-management",
+    "name": "Aqr Capital Management",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "arcesium",
+    "name": "Arcesium",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "argo-ai",
+    "name": "Argo Ai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "arista-networks",
+    "name": "Arista Networks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "asana",
+    "name": "Asana",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "ascend",
+    "name": "Ascend",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "athenahealth",
+    "name": "Athenahealth",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "atlassian",
+    "name": "Atlassian",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "att",
+    "name": "Att",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "attentive",
+    "name": "Attentive",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "audible",
+    "name": "Audible",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "auriga",
+    "name": "Auriga",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "aurora",
+    "name": "Aurora",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "autodesk",
+    "name": "Autodesk",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "avalara",
+    "name": "Avalara",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "avito",
+    "name": "Avito",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "axis-bank",
+    "name": "Axis Bank",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "axon",
+    "name": "Axon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "baidu",
+    "name": "Baidu",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bank-of-america",
+    "name": "Bank Of America",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "barclays",
+    "name": "Barclays",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bcg",
+    "name": "Bcg",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "bending-spoons",
+    "name": "Bending Spoons",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bill-com",
+    "name": "Bill Com",
+    "files": [
+      "all.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "bitgo",
+    "name": "Bitgo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "blackbuck",
+    "name": "Blackbuck",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "blackrock",
+    "name": "Blackrock",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "blackstone",
+    "name": "Blackstone",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "blend",
+    "name": "Blend",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "blinkit",
+    "name": "Blinkit",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bloomberg",
+    "name": "Bloomberg",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "bloomreach",
+    "name": "Bloomreach",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "blue-origin",
+    "name": "Blue Origin",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bnp-paribas",
+    "name": "Bnp Paribas",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bny-mellon",
+    "name": "Bny Mellon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "boeing",
+    "name": "Boeing",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bolt",
+    "name": "Bolt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bookingcom",
+    "name": "Bookingcom",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "box",
+    "name": "Box",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "bp",
+    "name": "Bp",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "braze",
+    "name": "Braze",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "bridgewater-associates",
+    "name": "Bridgewater Associates",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "brillio",
+    "name": "Brillio",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "broadcom",
+    "name": "Broadcom",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "browserstack",
+    "name": "Browserstack",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bt-group",
+    "name": "Bt Group",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "buyhatke",
+    "name": "Buyhatke",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "bytedance",
+    "name": "Bytedance",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "c3-ai",
+    "name": "C3 Ai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cadence",
+    "name": "Cadence",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "canonical",
+    "name": "Canonical",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "canva",
+    "name": "Canva",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "capgemini",
+    "name": "Capgemini",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "capital-one",
+    "name": "Capital One",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "careem",
+    "name": "Careem",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "cars24",
+    "name": "Cars24",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "carwale",
+    "name": "Carwale",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "cashfree",
+    "name": "Cashfree",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "caterpillar",
+    "name": "Caterpillar",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cerner",
+    "name": "Cerner",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "chalo",
+    "name": "Chalo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "chargebee",
+    "name": "Chargebee",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "checkpoint",
+    "name": "Checkpoint",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "chewy",
+    "name": "Chewy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "chime",
+    "name": "Chime",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "chubb",
+    "name": "Chubb",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ciena",
+    "name": "Ciena",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "circle",
+    "name": "Circle",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cisco",
+    "name": "Cisco",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "citadel",
+    "name": "Citadel",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "citi",
+    "name": "Citi",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "citrix",
+    "name": "Citrix",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "clari",
+    "name": "Clari",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cleartrip",
+    "name": "Cleartrip",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "clevertap",
+    "name": "Clevertap",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "cloudera",
+    "name": "Cloudera",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cloudflare",
+    "name": "Cloudflare",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "clutter",
+    "name": "Clutter",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cme-group",
+    "name": "Cme Group",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cockroach-labs",
+    "name": "Cockroach Labs",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "code-studio",
+    "name": "Code Studio",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "coditas",
+    "name": "Coditas",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cognizant",
+    "name": "Cognizant",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "cohesity",
+    "name": "Cohesity",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "coinbase",
+    "name": "Coinbase",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "coindcx",
+    "name": "Coindcx",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "coinswitch-kuber",
+    "name": "Coinswitch Kuber",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "comcast",
+    "name": "Comcast",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "commvault",
+    "name": "Commvault",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "compass",
+    "name": "Compass",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "confluent",
+    "name": "Confluent",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "couchbase",
+    "name": "Couchbase",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "coupa",
+    "name": "Coupa",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "coupang",
+    "name": "Coupang",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "coursera",
+    "name": "Coursera",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "coveo",
+    "name": "Coveo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cred",
+    "name": "Cred",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "criteo",
+    "name": "Criteo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "crowdstrike",
+    "name": "Crowdstrike",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "cruise-automation",
+    "name": "Cruise Automation",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ctc",
+    "name": "Ctc",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "curefit",
+    "name": "Curefit",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cvent",
+    "name": "Cvent",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "cyntexa",
+    "name": "Cyntexa",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "cyware",
+    "name": "Cyware",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dailyhunt",
+    "name": "Dailyhunt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "darwinbox",
+    "name": "Darwinbox",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dassault-sysetmes",
+    "name": "Dassault Sysetmes",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dataart",
+    "name": "Dataart",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "databricks",
+    "name": "Databricks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "datadog",
+    "name": "Datadog",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dataminr",
+    "name": "Dataminr",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "de-shaw",
+    "name": "De Shaw",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "deepmind",
+    "name": "Deepmind",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "delhivery",
+    "name": "Delhivery",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "deliveroo",
+    "name": "Deliveroo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "dell",
+    "name": "Dell",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "deloitte",
+    "name": "Deloitte",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "deltax",
+    "name": "Deltax",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "devrev",
+    "name": "Devrev",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dialpad",
+    "name": "Dialpad",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "directi",
+    "name": "Directi",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "discord",
+    "name": "Discord",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "discovery",
+    "name": "Discovery",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "disney",
+    "name": "Disney",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dji",
+    "name": "Dji",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "docusign",
+    "name": "Docusign",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "doordash",
+    "name": "Doordash",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "dp-world",
+    "name": "Dp World",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "drawbridge",
+    "name": "Drawbridge",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dream11",
+    "name": "Dream11",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dropbox",
+    "name": "Dropbox",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "druva",
+    "name": "Druva",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "drw",
+    "name": "Drw",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dtcc",
+    "name": "Dtcc",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "dunzo",
+    "name": "Dunzo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "duolingo",
+    "name": "Duolingo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "earnin",
+    "name": "Earnin",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "ebay",
+    "name": "Ebay",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "edelweiss",
+    "name": "Edelweiss",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "electronic-arts",
+    "name": "Electronic Arts",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "elitmus",
+    "name": "Elitmus",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "envoy",
+    "name": "Envoy",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "epam-systems",
+    "name": "Epam Systems",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "epic-games",
+    "name": "Epic Games",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "epic-systems",
+    "name": "Epic Systems",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "epifi",
+    "name": "Epifi",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "equinix",
+    "name": "Equinix",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "ericsson",
+    "name": "Ericsson",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "etsy",
+    "name": "Etsy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "exl",
+    "name": "Exl",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "expedia",
+    "name": "Expedia",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "ey",
+    "name": "Ey",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "f5-networks",
+    "name": "F5 Networks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "factset",
+    "name": "Factset",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "faire",
+    "name": "Faire",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fallible",
+    "name": "Fallible",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fanatics",
+    "name": "Fanatics",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "fast",
+    "name": "Fast",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fastenal",
+    "name": "Fastenal",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fico",
+    "name": "Fico",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fidelity",
+    "name": "Fidelity",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fidessa",
+    "name": "Fidessa",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "fiverr",
+    "name": "Fiverr",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fivetran",
+    "name": "Fivetran",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "flatiron-health",
+    "name": "Flatiron Health",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fleetx",
+    "name": "Fleetx",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "flexera",
+    "name": "Flexera",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "flexport",
+    "name": "Flexport",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "flipkart",
+    "name": "Flipkart",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "fortinet",
+    "name": "Fortinet",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "forusall",
+    "name": "Forusall",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fourkites",
+    "name": "Fourkites",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fpt",
+    "name": "Fpt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "fractal-analytics",
+    "name": "Fractal Analytics",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "freecharge",
+    "name": "Freecharge",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "freshworks",
+    "name": "Freshworks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "fynd",
+    "name": "Fynd",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "gainsight",
+    "name": "Gainsight",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "gameskraft",
+    "name": "Gameskraft",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "garena",
+    "name": "Garena",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "garmin",
+    "name": "Garmin",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "gartner",
+    "name": "Gartner",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ge-digital",
+    "name": "Ge Digital",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ge-healthcare",
+    "name": "Ge Healthcare",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "geico",
+    "name": "Geico",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "general-electric",
+    "name": "General Electric",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "general-motors",
+    "name": "General Motors",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "gilt-groupe",
+    "name": "Gilt Groupe",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "github",
+    "name": "Github",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "glassdoor",
+    "name": "Glassdoor",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "globallogic",
+    "name": "Globallogic",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "glovo",
+    "name": "Glovo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "godaddy",
+    "name": "Godaddy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "gojek",
+    "name": "Gojek",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "goldman-sachs",
+    "name": "Goldman Sachs",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "google",
+    "name": "Google",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "gopuff",
+    "name": "Gopuff",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "goto",
+    "name": "Goto",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "grab",
+    "name": "Grab",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "graviton",
+    "name": "Graviton",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "groupon",
+    "name": "Groupon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "groww",
+    "name": "Groww",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "grubhub",
+    "name": "Grubhub",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "gsa-capital",
+    "name": "Gsa Capital",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "gsn-games",
+    "name": "Gsn Games",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "guidewire",
+    "name": "Guidewire",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "gusto",
+    "name": "Gusto",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "harness",
+    "name": "Harness",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "hashedin",
+    "name": "Hashedin",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "hbo",
+    "name": "Hbo",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "hcl",
+    "name": "Hcl",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "helix",
+    "name": "Helix",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "highspot",
+    "name": "Highspot",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hilabs",
+    "name": "Hilabs",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hive",
+    "name": "Hive",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "honey",
+    "name": "Honey",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "honeywell",
+    "name": "Honeywell",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hopper",
+    "name": "Hopper",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hotstar",
+    "name": "Hotstar",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "houzz",
+    "name": "Houzz",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hp",
+    "name": "Hp",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hpe",
+    "name": "Hpe",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hrt",
+    "name": "Hrt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hsbc",
+    "name": "Hsbc",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "htc",
+    "name": "Htc",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "huawei",
+    "name": "Huawei",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "hubspot",
+    "name": "Hubspot",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "hulu",
+    "name": "Hulu",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ibm",
+    "name": "Ibm",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "iit-bombay",
+    "name": "Iit Bombay",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "imc",
+    "name": "Imc",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "impact-analytics",
+    "name": "Impact Analytics",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "impetus",
+    "name": "Impetus",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "increff",
+    "name": "Increff",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "indeed",
+    "name": "Indeed",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "info-edge",
+    "name": "Info Edge",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "informatica",
+    "name": "Informatica",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "infosys",
+    "name": "Infosys",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "inmobi",
+    "name": "Inmobi",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "innovaccer",
+    "name": "Innovaccer",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "instabase",
+    "name": "Instabase",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "instacart",
+    "name": "Instacart",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "intel",
+    "name": "Intel",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "interactive-brokers",
+    "name": "Interactive Brokers",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "intercom",
+    "name": "Intercom",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "intuit",
+    "name": "Intuit",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "ivp",
+    "name": "Ivp",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ixigo",
+    "name": "Ixigo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ixl",
+    "name": "Ixl",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "jane-street",
+    "name": "Jane Street",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "jd",
+    "name": "Jd",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "jeavio",
+    "name": "Jeavio",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "jingchi",
+    "name": "Jingchi",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "jio",
+    "name": "Jio",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "josh-technology",
+    "name": "Josh Technology",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "jpmorgan",
+    "name": "Jpmorgan",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "jtg",
+    "name": "Jtg",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "jump-trading",
+    "name": "Jump Trading",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "juspay",
+    "name": "Juspay",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "kakao",
+    "name": "Kakao",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "karat",
+    "name": "Karat",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "kickdrum",
+    "name": "Kickdrum",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "kla",
+    "name": "Kla",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "kla-tencor",
+    "name": "Kla Tencor",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "kotak-mahindra-bank",
+    "name": "Kotak Mahindra Bank",
+    "files": [
+      "all.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "kpmg",
+    "name": "Kpmg",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "larsen-toubro",
+    "name": "Larsen Toubro",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "leap-motion",
+    "name": "Leap Motion",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "lendingkart",
+    "name": "Lendingkart",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "lenskart",
+    "name": "Lenskart",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "lg-electronics",
+    "name": "Lg Electronics",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "liberty-mutual",
+    "name": "Liberty Mutual",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "liftoff",
+    "name": "Liftoff",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "lime",
+    "name": "Lime",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "line",
+    "name": "Line",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "linkedin",
+    "name": "Linkedin",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "liveramp",
+    "name": "Liveramp",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "lowe",
+    "name": "Lowe",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "lti",
+    "name": "Lti",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "lucid",
+    "name": "Lucid",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "luxoft",
+    "name": "Luxoft",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "lyft",
+    "name": "Lyft",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "machine-zone",
+    "name": "Machine Zone",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "machinezone",
+    "name": "Machinezone",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "maersk",
+    "name": "Maersk",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "makemytrip",
+    "name": "Makemytrip",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mapbox",
+    "name": "Mapbox",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "maq-software",
+    "name": "Maq Software",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "marqeta",
+    "name": "Marqeta",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mastercard",
+    "name": "Mastercard",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "mathworks",
+    "name": "Mathworks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "mcafee",
+    "name": "Mcafee",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mcdonalds",
+    "name": "Mcdonalds",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mckinsey",
+    "name": "Mckinsey",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "medianet",
+    "name": "Medianet",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "meesho",
+    "name": "Meesho",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "meituan",
+    "name": "Meituan",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mercari",
+    "name": "Mercari",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "meta",
+    "name": "Meta",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "micro1",
+    "name": "Micro1",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "microstrategy",
+    "name": "Microstrategy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "millennium",
+    "name": "Millennium",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "mindtickle",
+    "name": "Mindtickle",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mindtree",
+    "name": "Mindtree",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mishipay",
+    "name": "Mishipay",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mitsogo",
+    "name": "Mitsogo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mixpanel",
+    "name": "Mixpanel",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mobileye",
+    "name": "Mobileye",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mobisy",
+    "name": "Mobisy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "moengage",
+    "name": "Moengage",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "moloco",
+    "name": "Moloco",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "moneylion",
+    "name": "Moneylion",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mongodb",
+    "name": "Mongodb",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "morgan-stanley",
+    "name": "Morgan Stanley",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "motive",
+    "name": "Motive",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "moveworks",
+    "name": "Moveworks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "mphasis",
+    "name": "Mphasis",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "msci",
+    "name": "Msci",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "murex",
+    "name": "Murex",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "mykaarma",
+    "name": "Mykaarma",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "myntra",
+    "name": "Myntra",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "nagarro",
+    "name": "Nagarro",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "nasdaq",
+    "name": "Nasdaq",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "national-instruments",
+    "name": "National Instruments",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "national-payments-coorperation-india",
+    "name": "National Payments Coorperation India",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "natwest",
+    "name": "Natwest",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "navan",
+    "name": "Navan",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "naver",
+    "name": "Naver",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "navi",
+    "name": "Navi",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ncr",
+    "name": "Ncr",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "nerdwallet",
+    "name": "Nerdwallet",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "netapp",
+    "name": "Netapp",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "netcracker-technology",
+    "name": "Netcracker Technology",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "netease",
+    "name": "Netease",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "netflix",
+    "name": "Netflix",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "netskope",
+    "name": "Netskope",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "netsuite",
+    "name": "Netsuite",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "newsbreak",
+    "name": "Newsbreak",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "nextdoor",
+    "name": "Nextdoor",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "nextjump",
+    "name": "Nextjump",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "niantic",
+    "name": "Niantic",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "nielsen",
+    "name": "Nielsen",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "nike",
+    "name": "Nike",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "nokia",
+    "name": "Nokia",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "noon",
+    "name": "Noon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "nordstrom",
+    "name": "Nordstrom",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "npci",
+    "name": "Npci",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "nuro",
+    "name": "Nuro",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "nutanix",
+    "name": "Nutanix",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "nvidia",
+    "name": "Nvidia",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "nykaa",
+    "name": "Nykaa",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "observeai",
+    "name": "Observeai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "odoo",
+    "name": "Odoo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "okta",
+    "name": "Okta",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "okx",
+    "name": "Okx",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "olx",
+    "name": "Olx",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "openai",
+    "name": "Openai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "opentext",
+    "name": "Opentext",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "oppo",
+    "name": "Oppo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "optiver",
+    "name": "Optiver",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "optum",
+    "name": "Optum",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "oracle",
+    "name": "Oracle",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "oscar-health",
+    "name": "Oscar Health",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "otterai",
+    "name": "Otterai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "oyo",
+    "name": "Oyo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ozon",
+    "name": "Ozon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "palantir",
+    "name": "Palantir",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "palo-alto-networks",
+    "name": "Palo Alto Networks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "park",
+    "name": "Park",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "patreon",
+    "name": "Patreon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "paycom",
+    "name": "Paycom",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "paypal",
+    "name": "Paypal",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "paypay",
+    "name": "Paypay",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "paytm",
+    "name": "Paytm",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "payu",
+    "name": "Payu",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "peak6",
+    "name": "Peak6",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "pega",
+    "name": "Pega",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "peloton",
+    "name": "Peloton",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "persistent-systems",
+    "name": "Persistent Systems",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "philips",
+    "name": "Philips",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "phonepe",
+    "name": "Phonepe",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "pickrr",
+    "name": "Pickrr",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "pinterest",
+    "name": "Pinterest",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "plaid",
+    "name": "Plaid",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "playsimple",
+    "name": "Playsimple",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "pocket-gems",
+    "name": "Pocket Gems",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "point72",
+    "name": "Point72",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "polar",
+    "name": "Polar",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ponyai",
+    "name": "Ponyai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "pornhub",
+    "name": "Pornhub",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "porter",
+    "name": "Porter",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "poshmark",
+    "name": "Poshmark",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "postman",
+    "name": "Postman",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "postmates",
+    "name": "Postmates",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "poynt",
+    "name": "Poynt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "practo",
+    "name": "Practo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "publicis-sapient",
+    "name": "Publicis Sapient",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "pubmatic",
+    "name": "Pubmatic",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "pure",
+    "name": "Pure",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "pure-storage",
+    "name": "Pure Storage",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "purplle",
+    "name": "Purplle",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "pwc",
+    "name": "Pwc",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "qualcomm",
+    "name": "Qualcomm",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "qualtrics",
+    "name": "Qualtrics",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "qualys",
+    "name": "Qualys",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "quantcast",
+    "name": "Quantcast",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "quantiphi",
+    "name": "Quantiphi",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "quince",
+    "name": "Quince",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "quora",
+    "name": "Quora",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "rackspace",
+    "name": "Rackspace",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "radius",
+    "name": "Radius",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "rakuten",
+    "name": "Rakuten",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "rally-health",
+    "name": "Rally Health",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ramp-2",
+    "name": "Ramp 2",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "rbc",
+    "name": "Rbc",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "redbus",
+    "name": "Redbus",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "reddit",
+    "name": "Reddit",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "redfin",
+    "name": "Redfin",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "reliance-retails",
+    "name": "Reliance Retails",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "remitly",
+    "name": "Remitly",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "retailmenot",
+    "name": "Retailmenot",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "revolut",
+    "name": "Revolut",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "riot-games",
+    "name": "Riot Games",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ripple",
+    "name": "Ripple",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "rippling",
+    "name": "Rippling",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "rivian",
+    "name": "Rivian",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "robinhood",
+    "name": "Robinhood",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "roblox",
+    "name": "Roblox",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "rokt",
+    "name": "Rokt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "roku",
+    "name": "Roku",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "rubrik",
+    "name": "Rubrik",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "salesforce",
+    "name": "Salesforce",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "sambanova",
+    "name": "Sambanova",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "samsara",
+    "name": "Samsara",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "samsung",
+    "name": "Samsung",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "sap",
+    "name": "Sap",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "scale-ai",
+    "name": "Scale Ai",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "scaler",
+    "name": "Scaler",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "schlumberger",
+    "name": "Schlumberger",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "schneider-electric",
+    "name": "Schneider Electric",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "schrodinger",
+    "name": "Schrodinger",
+    "files": [
+      "all.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "sentry",
+    "name": "Sentry",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "servicenow",
+    "name": "Servicenow",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "sharechat",
+    "name": "Sharechat",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "shift-technology",
+    "name": "Shift Technology",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "shipsy",
+    "name": "Shipsy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "shopback",
+    "name": "Shopback",
+    "files": [
+      "all.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "shopee",
+    "name": "Shopee",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "shopify",
+    "name": "Shopify",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "shopup",
+    "name": "Shopup",
+    "files": [
+      "all.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "siemens",
+    "name": "Siemens",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "sig",
+    "name": "Sig",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "sigmoid",
+    "name": "Sigmoid",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "singlestore",
+    "name": "Singlestore",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "sixt",
+    "name": "Sixt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "slice",
+    "name": "Slice",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "smartnews",
+    "name": "Smartnews",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "smartsheet",
+    "name": "Smartsheet",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "snapchat",
+    "name": "Snapchat",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "snapdeal",
+    "name": "Snapdeal",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "snowflake",
+    "name": "Snowflake",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "societe-generale",
+    "name": "Societe Generale",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "sofi",
+    "name": "Sofi",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "softwire",
+    "name": "Softwire",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "sonatus",
+    "name": "Sonatus",
+    "files": [
+      "all.csv"
+    ]
+  },
+  {
+    "slug": "sony",
+    "name": "Sony",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "soti",
+    "name": "Soti",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "soundhound",
+    "name": "Soundhound",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "spacex",
+    "name": "Spacex",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "spinny",
+    "name": "Spinny",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "splunk",
+    "name": "Splunk",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "spotify",
+    "name": "Spotify",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "sprinklr",
+    "name": "Sprinklr",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "square",
+    "name": "Square",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "squarepoint-capital",
+    "name": "Squarepoint Capital",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "squarespace",
+    "name": "Squarespace",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "stackadapt",
+    "name": "Stackadapt",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "stackline",
+    "name": "Stackline",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "starbucks",
+    "name": "Starbucks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "state-farm",
+    "name": "State Farm",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "strava",
+    "name": "Strava",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "sumologic",
+    "name": "Sumologic",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "syfe",
+    "name": "Syfe",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "symantec",
+    "name": "Symantec",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "synopsys",
+    "name": "Synopsys",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ta-digital",
+    "name": "Ta Digital",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tableau",
+    "name": "Tableau",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tanium",
+    "name": "Tanium",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "target",
+    "name": "Target",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tcs",
+    "name": "Tcs",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "tech-mahindra",
+    "name": "Tech Mahindra",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tekion",
+    "name": "Tekion",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "tencent",
+    "name": "Tencent",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "teradata",
+    "name": "Teradata",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tesco",
+    "name": "Tesco",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tesla",
+    "name": "Tesla",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "texas-instruments",
+    "name": "Texas Instruments",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "the-trade-desk",
+    "name": "The Trade Desk",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "thomson-reuters",
+    "name": "Thomson Reuters",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "thoughtspot",
+    "name": "Thoughtspot",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "thoughtworks",
+    "name": "Thoughtworks",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "thousandeyes",
+    "name": "Thousandeyes",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "thumbtack",
+    "name": "Thumbtack",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tiaa",
+    "name": "Tiaa",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tiger-analytics",
+    "name": "Tiger Analytics",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "tiktok",
+    "name": "Tiktok",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "tinder",
+    "name": "Tinder",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "tinkoff",
+    "name": "Tinkoff",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "toast",
+    "name": "Toast",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "tokopedia",
+    "name": "Tokopedia",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tomtom",
+    "name": "Tomtom",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "toptal",
+    "name": "Toptal",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tower-research",
+    "name": "Tower Research",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tracxn",
+    "name": "Tracxn",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "traveloka",
+    "name": "Traveloka",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "trend-micro",
+    "name": "Trend Micro",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "trexquant",
+    "name": "Trexquant",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "trilogy",
+    "name": "Trilogy",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tripactions",
+    "name": "Tripactions",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "tripadvisor",
+    "name": "Tripadvisor",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "triplebyte",
+    "name": "Triplebyte",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "turing",
+    "name": "Turing",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "turvo",
+    "name": "Turvo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "tusimple",
+    "name": "Tusimple",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "twilio",
+    "name": "Twilio",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "twitch",
+    "name": "Twitch",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "twitter",
+    "name": "Twitter",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "two-sigma",
+    "name": "Two Sigma",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "uber",
+    "name": "Uber",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "ubisoft",
+    "name": "Ubisoft",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "ubs",
+    "name": "Ubs",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "udemy",
+    "name": "Udemy",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "uipath",
+    "name": "Uipath",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "ukg",
+    "name": "Ukg",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "unbxd",
+    "name": "Unbxd",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "unity",
+    "name": "Unity",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "unstop",
+    "name": "Unstop",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "upstart",
+    "name": "Upstart",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "urban-company",
+    "name": "Urban Company",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "valve",
+    "name": "Valve",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "veeva",
+    "name": "Veeva",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "verily",
+    "name": "Verily",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "veritas",
+    "name": "Veritas",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "verizon",
+    "name": "Verizon",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "verkada",
+    "name": "Verkada",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "viasat",
+    "name": "Viasat",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "vimeo",
+    "name": "Vimeo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "virtu",
+    "name": "Virtu",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "virtusa",
+    "name": "Virtusa",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "visa",
+    "name": "Visa",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "vk",
+    "name": "Vk",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "vmware",
+    "name": "Vmware",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "walmart-labs",
+    "name": "Walmart Labs",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "warnermedia",
+    "name": "Warnermedia",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "wayfair",
+    "name": "Wayfair",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "waymo",
+    "name": "Waymo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "wayve",
+    "name": "Wayve",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "wealthfront",
+    "name": "Wealthfront",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "wells-fargo",
+    "name": "Wells Fargo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "weride",
+    "name": "Weride",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "western-digital",
+    "name": "Western Digital",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "whatfix",
+    "name": "Whatfix",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "whatnot",
+    "name": "Whatnot",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "winzo",
+    "name": "Winzo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "wipro",
+    "name": "Wipro",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "wise",
+    "name": "Wise",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "wish",
+    "name": "Wish",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "wissen",
+    "name": "Wissen",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "wix",
+    "name": "Wix",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "workday",
+    "name": "Workday",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "works-applications",
+    "name": "Works Applications",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "worldquant",
+    "name": "Worldquant",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "woven-by-toyota",
+    "name": "Woven By Toyota",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "xing",
+    "name": "Xing",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "yahoo",
+    "name": "Yahoo",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "yandex",
+    "name": "Yandex",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "thirty-days.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "yatra",
+    "name": "Yatra",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "yelp",
+    "name": "Yelp",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "yugabyte",
+    "name": "Yugabyte",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "zalando",
+    "name": "Zalando",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zappos",
+    "name": "Zappos",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zemoso",
+    "name": "Zemoso",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zendesk",
+    "name": "Zendesk",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zenefits",
+    "name": "Zenefits",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zepto",
+    "name": "Zepto",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zeta",
+    "name": "Zeta",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zeta-suite",
+    "name": "Zeta Suite",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zillow",
+    "name": "Zillow",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zip",
+    "name": "Zip",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "ziprecruiter",
+    "name": "Ziprecruiter",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "zluri",
+    "name": "Zluri",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zocdoc",
+    "name": "Zocdoc",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zoho",
+    "name": "Zoho",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "zomato",
+    "name": "Zomato",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zoom",
+    "name": "Zoom",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "zoox",
+    "name": "Zoox",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zopsmart",
+    "name": "Zopsmart",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "zs-associates",
+    "name": "Zs Associates",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  },
+  {
+    "slug": "zscaler",
+    "name": "Zscaler",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv",
+      "six-months.csv",
+      "three-months.csv"
+    ]
+  },
+  {
+    "slug": "zulily",
+    "name": "Zulily",
+    "files": [
+      "all.csv",
+      "six-months.csv"
+    ]
+  },
+  {
+    "slug": "zynga",
+    "name": "Zynga",
+    "files": [
+      "all.csv",
+      "more-than-six-months.csv"
+    ]
+  }
+]

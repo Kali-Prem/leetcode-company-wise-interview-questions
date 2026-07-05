@@ -1,0 +1,804 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LeetCode Company-Wise Interview Questions</title>
+  <meta name="description" content="Search and practice company-wise LeetCode interview questions from structured CSV datasets." />
+  <style>
+    :root {
+      --bg: #eef5ff;
+      --surface: #ffffff;
+      --surface-2: #edf4ff;
+      --ink: #111827;
+      --muted: #64748b;
+      --line: #c9d8ee;
+      --blue: #1554e8;
+      --green: #15803d;
+      --amber: #b45309;
+      --red: #b91c1c;
+      --shadow: 0 24px 70px rgba(21, 84, 232, 0.13);
+      --radius: 8px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: linear-gradient(180deg, #eaf2ff 0%, #f8fbff 34%, #eef5ff 100%);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .app-shell {
+      min-height: 100vh;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      border-bottom: 1px solid rgba(21, 84, 232, 0.2);
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(16px);
+    }
+
+    .topbar-inner {
+      max-width: 1520px;
+      margin: 0 auto;
+      padding: 18px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      min-width: 0;
+    }
+
+    .brand-mark {
+      width: 48px;
+      height: 48px;
+      display: grid;
+      place-items: center;
+      border-radius: var(--radius);
+      background: linear-gradient(135deg, #0f172a 0%, #1554e8 100%);
+      color: #fff;
+      font-size: 24px;
+      flex: 0 0 auto;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 22px;
+      line-height: 1.1;
+      letter-spacing: 0;
+    }
+
+    .brand p {
+      margin: 3px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .github-link {
+      border: 1px solid var(--line);
+      background: var(--surface);
+      color: var(--ink);
+      padding: 9px 12px;
+      border-radius: var(--radius);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    main {
+      max-width: 1520px;
+      margin: 0 auto;
+      padding: 34px 40px 64px;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 420px;
+      gap: 24px;
+      align-items: stretch;
+      margin-bottom: 18px;
+    }
+
+    .hero-copy,
+    .quick-panel,
+    .toolbar,
+    .table-wrap,
+    .stat {
+      border: 1px solid rgba(21, 84, 232, 0.16);
+      background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-copy {
+      position: relative;
+      overflow: hidden;
+      padding: 48px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+
+    .hero-copy::before {
+      content: "";
+      position: absolute;
+      inset: 0 0 auto 0;
+      height: 6px;
+      background: linear-gradient(90deg, #1554e8, #14b8a6, #f59e0b);
+    }
+    .eyebrow {
+      color: var(--blue);
+      font-weight: 800;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin: 0 0 10px;
+    }
+
+    .hero h2 {
+      margin: 0;
+      max-width: 920px;
+      font-size: clamp(48px, 5.8vw, 84px);
+      line-height: 1.02;
+      letter-spacing: 0;
+    }
+
+    .hero-text {
+      max-width: 860px;
+      color: var(--muted);
+      font-size: 20px;
+      margin: 18px 0 0;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .pill {
+      border: 1px solid var(--line);
+      background: var(--surface-2);
+      border-radius: 999px;
+      padding: 10px 14px;
+      color: #17365f;
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .quick-panel {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .quick-panel h3,
+    .toolbar h3,
+    .table-title h3 {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .quick-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .quick-company {
+      border: 1px solid var(--line);
+      background: var(--surface);
+      border-radius: var(--radius);
+      padding: 14px 15px;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      font-weight: 800;
+      color: var(--ink);
+    }
+
+    .quick-company:hover,
+    button:hover,
+    select:hover,
+    input:hover {
+      border-color: #9bb4d6;
+    }
+
+    .toolbar {
+      padding: 22px;
+      margin-bottom: 18px;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1.45fr 1fr 0.85fr 1.25fr;
+      gap: 16px;
+      margin-top: 18px;
+    }
+
+    label {
+      display: grid;
+      gap: 6px;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    input,
+    select {
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: #fff;
+      color: var(--ink);
+      padding: 14px 14px;
+      font: inherit;
+      min-height: 52px;
+      outline: none;
+    }
+
+    input:focus,
+    select:focus {
+      border-color: var(--blue);
+      box-shadow: 0 0 0 3px rgba(36, 87, 214, 0.14);
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+
+    .stat {
+      padding: 22px;
+    }
+
+    .stat span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .stat strong {
+      display: block;
+      margin-top: 6px;
+      font-size: 36px;
+      line-height: 1;
+    }
+
+    .table-wrap {
+      overflow: hidden;
+    }
+
+    .table-title {
+      padding: 22px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .table-title p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .clear-button {
+      border: 1px solid var(--line);
+      background: var(--surface-2);
+      border-radius: var(--radius);
+      padding: 9px 11px;
+      font-weight: 800;
+      color: var(--ink);
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .table-scroll {
+      overflow-x: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 980px;
+    }
+
+    th,
+    td {
+      padding: 18px 18px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: middle;
+      font-size: 18px;
+    }
+
+    th {
+      background: #edf4ff;
+      color: #475569;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    tbody tr:hover {
+      background: #fbfcff;
+    }
+
+    .problem-link {
+      color: var(--blue);
+      text-decoration: none;
+      font-weight: 800;
+    }
+
+    .problem-link:hover {
+      text-decoration: underline;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 72px;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    .easy {
+      color: var(--green);
+      background: #dcfce7;
+    }
+
+    .medium {
+      color: var(--amber);
+      background: #fef3c7;
+    }
+
+    .hard {
+      color: var(--red);
+      background: #fee2e2;
+    }
+
+    .solve-check {
+      width: 24px;
+      height: 24px;
+      accent-color: var(--green);
+    }
+
+    .empty {
+      padding: 36px 18px;
+      color: var(--muted);
+      text-align: center;
+      font-weight: 700;
+    }
+
+    .footer-note {
+      margin-top: 18px;
+      color: var(--muted);
+      text-align: center;
+      font-size: 14px;
+    }
+
+    @media (max-width: 900px) {
+      .hero,
+      .controls,
+      .stats-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .topbar-inner {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .github-link {
+        width: 100%;
+        text-align: center;
+      }
+    }
+
+    @media (max-width: 520px) {
+      .brand h1 {
+        font-size: 18px;
+      }
+
+      .hero-copy,
+      .quick-panel,
+      .toolbar,
+      .stat {
+        padding: 14px;
+      }
+
+      .hero h2 {
+        font-size: 32px;
+      }
+
+      .table-title {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">⚡</div>
+          <div>
+            <h1>Company-Wise DSA Dashboard</h1>
+            <p>Search, filter, and practice LeetCode questions by company.</p>
+          </div>
+        </div>
+        <a class="github-link" href="README.md">📘 Read Project Guide</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <div>
+            <p class="eyebrow">Interview prep command center</p>
+            <h2 id="hero-title">Pick a company. Open the right list. Start solving.</h2>
+            <p class="hero-text">Browse 650+ company-wise datasets, switch between recent and complete question lists, and track solved problems directly in your browser.</p>
+          </div>
+          <div class="hero-actions" aria-label="Repository highlights">
+            <span class="pill">🏢 650+ Companies</span>
+            <span class="pill">📊 1600+ CSV Files</span>
+            <span class="pill">🧩 17K+ Entries</span>
+            <span class="pill">✅ Local Progress</span>
+          </div>
+        </div>
+
+        <aside class="quick-panel" aria-labelledby="popular-title">
+          <h3 id="popular-title">🔥 Popular Companies</h3>
+          <div class="quick-list" id="quickList"></div>
+        </aside>
+      </section>
+
+      <section class="toolbar" aria-labelledby="filters-title">
+        <h3 id="filters-title">🎛️ Filters</h3>
+        <div class="controls">
+          <label>
+            Company
+            <select id="companySelect"></select>
+          </label>
+          <label>
+            Dataset
+            <select id="fileSelect"></select>
+          </label>
+          <label>
+            Difficulty
+            <select id="difficultySelect">
+              <option value="all">All difficulties</option>
+              <option value="Easy">Easy</option>
+              <option value="Medium">Medium</option>
+              <option value="Hard">Hard</option>
+            </select>
+          </label>
+          <label>
+            Search problems
+            <input id="problemSearch" type="search" placeholder="Two Sum, graph, cache..." />
+          </label>
+        </div>
+      </section>
+
+      <section class="stats-grid" aria-label="Current dataset stats">
+        <div class="stat"><span>Visible</span><strong id="visibleCount">0</strong></div>
+        <div class="stat"><span>Easy</span><strong id="easyCount">0</strong></div>
+        <div class="stat"><span>Medium</span><strong id="mediumCount">0</strong></div>
+        <div class="stat"><span>Hard</span><strong id="hardCount">0</strong></div>
+      </section>
+
+      <section class="table-wrap" aria-labelledby="table-heading">
+        <div class="table-title">
+          <div>
+            <h3 id="table-heading">📋 Questions</h3>
+            <p id="tableSubtitle">Choose a company to load questions.</p>
+          </div>
+          <button class="clear-button" id="clearProgress" type="button">Reset Progress</button>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead>
+              <tr>
+                <th>Done</th>
+                <th>ID</th>
+                <th>Problem</th>
+                <th>Difficulty</th>
+                <th>Acceptance</th>
+                <th>Frequency</th>
+              </tr>
+            </thead>
+            <tbody id="problemBody">
+              <tr><td class="empty" colspan="6">Loading dashboard...</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <p class="footer-note">Made for focused interview preparation. Progress is stored locally in your browser.</p>
+    </main>
+  </div>
+
+  <script>
+    const state = {
+      companies: [],
+      currentCompany: null,
+      rows: [],
+      filteredRows: []
+    };
+
+    const companySelect = document.getElementById('companySelect');
+    const fileSelect = document.getElementById('fileSelect');
+    const difficultySelect = document.getElementById('difficultySelect');
+    const problemSearch = document.getElementById('problemSearch');
+    const problemBody = document.getElementById('problemBody');
+    const tableSubtitle = document.getElementById('tableSubtitle');
+    const quickList = document.getElementById('quickList');
+    const visibleCount = document.getElementById('visibleCount');
+    const easyCount = document.getElementById('easyCount');
+    const mediumCount = document.getElementById('mediumCount');
+    const hardCount = document.getElementById('hardCount');
+    const clearProgress = document.getElementById('clearProgress');
+
+    const datasetOrder = [
+      'thirty-days.csv',
+      'three-months.csv',
+      'six-months.csv',
+      'all.csv',
+      'more-than-six-months.csv'
+    ];
+
+    const datasetLabels = {
+      'thirty-days.csv': 'Last 30 days',
+      'three-months.csv': 'Last 3 months',
+      'six-months.csv': 'Last 6 months',
+      'all.csv': 'All questions',
+      'more-than-six-months.csv': 'Older than 6 months'
+    };
+
+    function titleCase(slug) {
+      return slug.split('-').filter(Boolean).map((part) => part.charAt(0).toUpperCase() + part.slice(1)).join(' ');
+    }
+
+    function parseCSV(text) {
+      const rows = [];
+      let row = [];
+      let cell = '';
+      let inQuotes = false;
+
+      for (let i = 0; i < text.length; i += 1) {
+        const char = text[i];
+        const next = text[i + 1];
+
+        if (char === '"' && inQuotes && next === '"') {
+          cell += '"';
+          i += 1;
+        } else if (char === '"') {
+          inQuotes = !inQuotes;
+        } else if (char === ',' && !inQuotes) {
+          row.push(cell);
+          cell = '';
+        } else if ((char === '\n' || char === '\r') && !inQuotes) {
+          if (char === '\r' && next === '\n') i += 1;
+          row.push(cell);
+          if (row.some((value) => value.trim() !== '')) rows.push(row);
+          row = [];
+          cell = '';
+        } else {
+          cell += char;
+        }
+      }
+
+      if (cell || row.length) {
+        row.push(cell);
+        rows.push(row);
+      }
+
+      const headers = rows.shift() || [];
+      return rows.map((values) => headers.reduce((item, header, index) => {
+        item[header] = values[index] || '';
+        return item;
+      }, {}));
+    }
+
+    function sortFiles(files) {
+      return [...files].sort((a, b) => {
+        const aIndex = datasetOrder.indexOf(a);
+        const bIndex = datasetOrder.indexOf(b);
+        return (aIndex === -1 ? 99 : aIndex) - (bIndex === -1 ? 99 : bIndex) || a.localeCompare(b);
+      });
+    }
+
+    function progressKey(row) {
+      const company = state.currentCompany ? state.currentCompany.slug : 'unknown';
+      return `lc-progress:${company}:${row.ID}`;
+    }
+
+    function isSolved(row) {
+      return localStorage.getItem(progressKey(row)) === '1';
+    }
+
+    function setSolved(row, solved) {
+      if (solved) {
+        localStorage.setItem(progressKey(row), '1');
+      } else {
+        localStorage.removeItem(progressKey(row));
+      }
+    }
+
+    function renderStats(rows) {
+      visibleCount.textContent = rows.length;
+      easyCount.textContent = rows.filter((row) => row.Difficulty === 'Easy').length;
+      mediumCount.textContent = rows.filter((row) => row.Difficulty === 'Medium').length;
+      hardCount.textContent = rows.filter((row) => row.Difficulty === 'Hard').length;
+    }
+
+    function renderRows(rows) {
+      renderStats(rows);
+
+      if (!rows.length) {
+        problemBody.innerHTML = '<tr><td class="empty" colspan="6">No questions match the current filters.</td></tr>';
+        return;
+      }
+
+      problemBody.innerHTML = rows.map((row) => {
+        const difficultyClass = (row.Difficulty || '').toLowerCase();
+        const solved = isSolved(row) ? 'checked' : '';
+        return `
+          <tr>
+            <td><input class="solve-check" type="checkbox" data-id="${row.ID}" ${solved} aria-label="Mark ${escapeHTML(row.Title)} solved" /></td>
+            <td>${escapeHTML(row.ID)}</td>
+            <td><a class="problem-link" href="${escapeHTML(row.URL)}" target="_blank" rel="noopener noreferrer">${escapeHTML(row.Title)}</a></td>
+            <td><span class="tag ${difficultyClass}">${escapeHTML(row.Difficulty)}</span></td>
+            <td>${escapeHTML(row['Acceptance %'])}</td>
+            <td>${escapeHTML(row['Frequency %'])}</td>
+          </tr>`;
+      }).join('');
+    }
+
+    function escapeHTML(value) {
+      return String(value || '').replace(/[&<>"]/g, (char) => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;'
+      }[char]));
+    }
+
+    function applyFilters() {
+      const difficulty = difficultySelect.value;
+      const query = problemSearch.value.trim().toLowerCase();
+
+      state.filteredRows = state.rows.filter((row) => {
+        const difficultyMatch = difficulty === 'all' || row.Difficulty === difficulty;
+        const queryMatch = !query || `${row.ID} ${row.Title}`.toLowerCase().includes(query);
+        return difficultyMatch && queryMatch;
+      });
+
+      renderRows(state.filteredRows);
+    }
+
+    async function loadCompany(slug, preferredFile) {
+      const company = state.companies.find((item) => item.slug === slug) || state.companies[0];
+      if (!company) return;
+
+      state.currentCompany = company;
+      companySelect.value = company.slug;
+
+      const files = sortFiles(company.files || []);
+      fileSelect.innerHTML = files.map((file) => `<option value="${escapeHTML(file)}">${escapeHTML(datasetLabels[file] || file)}</option>`).join('');
+      fileSelect.value = preferredFile && files.includes(preferredFile) ? preferredFile : (files.includes('thirty-days.csv') ? 'thirty-days.csv' : files[0]);
+
+      await loadDataset();
+    }
+
+    async function loadDataset() {
+      const file = fileSelect.value;
+      const company = state.currentCompany;
+      if (!company || !file) return;
+
+      problemBody.innerHTML = '<tr><td class="empty" colspan="6">Loading questions...</td></tr>';
+      tableSubtitle.textContent = `${company.name || titleCase(company.slug)} • ${datasetLabels[file] || file}`;
+
+      try {
+        const response = await fetch(`${company.slug}/${file}`);
+        if (!response.ok) throw new Error(`Could not load ${file}`);
+        const text = await response.text();
+        state.rows = parseCSV(text);
+        applyFilters();
+      } catch (error) {
+        state.rows = [];
+        renderStats([]);
+        problemBody.innerHTML = `<tr><td class="empty" colspan="6">${escapeHTML(error.message)}. If you opened this file directly, run it through GitHub Pages or a local server.</td></tr>`;
+      }
+    }
+
+    function renderCompanies() {
+      companySelect.innerHTML = state.companies.map((company) => `<option value="${escapeHTML(company.slug)}">${escapeHTML(company.name || titleCase(company.slug))}</option>`).join('');
+
+      const preferred = ['amazon', 'google', 'microsoft', 'meta', 'adobe', 'flipkart'];
+      const quickCompanies = preferred.map((slug) => state.companies.find((company) => company.slug === slug)).filter(Boolean);
+
+      quickList.innerHTML = quickCompanies.map((company) => `
+        <button class="quick-company" type="button" data-company="${escapeHTML(company.slug)}">
+          <span>${escapeHTML(company.name || titleCase(company.slug))}</span>
+          <span>→</span>
+        </button>`).join('');
+    }
+
+    async function boot() {
+      try {
+        const response = await fetch('companies.json');
+        if (!response.ok) throw new Error('companies.json not found');
+        state.companies = await response.json();
+        renderCompanies();
+        await loadCompany(state.companies.some((company) => company.slug === 'amazon') ? 'amazon' : state.companies[0].slug);
+      } catch (error) {
+        problemBody.innerHTML = `<tr><td class="empty" colspan="6">${escapeHTML(error.message)}. Publish this repository with GitHub Pages to use the dashboard.</td></tr>`;
+      }
+    }
+
+    companySelect.addEventListener('change', () => loadCompany(companySelect.value));
+    fileSelect.addEventListener('change', loadDataset);
+    difficultySelect.addEventListener('change', applyFilters);
+    problemSearch.addEventListener('input', applyFilters);
+
+    quickList.addEventListener('click', (event) => {
+      const button = event.target.closest('[data-company]');
+      if (button) loadCompany(button.dataset.company);
+    });
+
+    problemBody.addEventListener('change', (event) => {
+      if (!event.target.matches('.solve-check')) return;
+      const row = state.rows.find((item) => item.ID === event.target.dataset.id);
+      if (row) setSolved(row, event.target.checked);
+    });
+
+    clearProgress.addEventListener('click', () => {
+      if (!state.currentCompany) return;
+      state.rows.forEach((row) => localStorage.removeItem(progressKey(row)));
+      renderRows(state.filteredRows);
+    });
+
+    boot();
+  </script>
+</body>
+</html>
+
+
+
