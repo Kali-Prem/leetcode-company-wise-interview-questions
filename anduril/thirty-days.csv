@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-210,https://leetcode.com/problems/course-schedule-ii,Course Schedule II,Medium,55.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"210","https://leetcode.com/problems/course-schedule-ii","Course Schedule II","Medium","55.5%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."

@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-941,https://leetcode.com/problems/valid-mountain-array,Valid Mountain Array,Easy,35.3%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"941","https://leetcode.com/problems/valid-mountain-array","Valid Mountain Array","Easy","35.3%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

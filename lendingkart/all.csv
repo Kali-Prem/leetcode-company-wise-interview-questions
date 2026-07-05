@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1663,https://leetcode.com/problems/smallest-string-with-a-given-numeric-value,Smallest String With A Given Numeric Value,Medium,67.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1663","https://leetcode.com/problems/smallest-string-with-a-given-numeric-value","Smallest String With A Given Numeric Value","Medium","67.5%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."

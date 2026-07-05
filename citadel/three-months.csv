@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-127,https://leetcode.com/problems/word-ladder,Word Ladder,Hard,45.6%,87.5%
-2050,https://leetcode.com/problems/parallel-courses-iii,Parallel Courses III,Hard,66.8%,100.0%
-295,https://leetcode.com/problems/find-median-from-data-stream,Find Median from Data Stream,Hard,54.5%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"127","https://leetcode.com/problems/word-ladder","Word Ladder","Hard","45.6%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"2050","https://leetcode.com/problems/parallel-courses-iii","Parallel Courses III","Hard","66.8%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"295","https://leetcode.com/problems/find-median-from-data-stream","Find Median from Data Stream","Hard","54.5%","87.5%","Heap","Priority Queue","High","Must revise; common company/OA pattern."

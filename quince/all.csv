@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1911,https://leetcode.com/problems/maximum-alternating-subsequence-sum,Maximum Alternating Subsequence Sum,Medium,59.1%,100.0%
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1911","https://leetcode.com/problems/maximum-alternating-subsequence-sum","Maximum Alternating Subsequence Sum","Medium","59.1%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","75.0%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."

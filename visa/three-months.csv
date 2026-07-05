@@ -1,12 +1,12 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2964,https://leetcode.com/problems/number-of-divisible-triplet-sums,Number of Divisible Triplet Sums,Medium,67.6%,100.0%
-2491,https://leetcode.com/problems/divide-players-into-teams-of-equal-skill,Divide Players Into Teams of Equal Skill,Medium,68.9%,87.5%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,87.5%
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,87.5%
-3035,https://leetcode.com/problems/maximum-palindromes-after-operations,Maximum Palindromes After Operations,Medium,46.5%,87.5%
-2680,https://leetcode.com/problems/maximum-or,Maximum OR,Medium,43.0%,100.0%
-526,https://leetcode.com/problems/beautiful-arrangement,Beautiful Arrangement,Medium,64.8%,87.5%
-2484,https://leetcode.com/problems/count-palindromic-subsequences,Count Palindromic Subsequences,Hard,41.2%,87.5%
-1963,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,Minimum Number of Swaps to Make the String Balanced,Medium,78.0%,100.0%
-636,https://leetcode.com/problems/exclusive-time-of-functions,Exclusive Time of Functions,Medium,66.2%,100.0%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2964","https://leetcode.com/problems/number-of-divisible-triplet-sums","Number of Divisible Triplet Sums","Medium","67.6%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2491","https://leetcode.com/problems/divide-players-into-teams-of-equal-skill","Divide Players Into Teams of Equal Skill","Medium","68.9%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","87.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"3035","https://leetcode.com/problems/maximum-palindromes-after-operations","Maximum Palindromes After Operations","Medium","46.5%","87.5%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"2680","https://leetcode.com/problems/maximum-or","Maximum OR","Medium","43.0%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"526","https://leetcode.com/problems/beautiful-arrangement","Beautiful Arrangement","Medium","64.8%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2484","https://leetcode.com/problems/count-palindromic-subsequences","Count Palindromic Subsequences","Hard","41.2%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1963","https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced","Minimum Number of Swaps to Make the String Balanced","Medium","78.0%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"636","https://leetcode.com/problems/exclusive-time-of-functions","Exclusive Time of Functions","Medium","66.2%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."

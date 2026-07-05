@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-3868,https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps,Minimum Cost to Equalize Arrays Using Swaps,Medium,48.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"3868","https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps","Minimum Cost to Equalize Arrays Using Swaps","Medium","48.5%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

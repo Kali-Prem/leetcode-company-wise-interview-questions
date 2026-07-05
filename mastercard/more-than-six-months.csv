@@ -1,10 +1,10 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-242,https://leetcode.com/problems/valid-anagram,Valid Anagram,Easy,68.1%,75.0%
-11,https://leetcode.com/problems/container-with-most-water,Container With Most Water,Medium,60.0%,75.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,75.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,75.0%
-134,https://leetcode.com/problems/gas-station,Gas Station,Medium,48.0%,75.0%
-79,https://leetcode.com/problems/word-search,Word Search,Medium,47.4%,75.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,75.0%
-322,https://leetcode.com/problems/coin-change,Coin Change,Medium,48.4%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"242","https://leetcode.com/problems/valid-anagram","Valid Anagram","Easy","68.1%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"11","https://leetcode.com/problems/container-with-most-water","Container With Most Water","Medium","60.0%","75.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","75.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"134","https://leetcode.com/problems/gas-station","Gas Station","Medium","48.0%","75.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"79","https://leetcode.com/problems/word-search","Word Search","Medium","47.4%","75.0%","Strings; Binary Search","Hashing / Sliding Window; Binary Search","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"322","https://leetcode.com/problems/coin-change","Coin Change","Medium","48.4%","75.0%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."

@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-71,https://leetcode.com/problems/simplify-path,Simplify Path,Medium,50.6%,75.0%
-53,https://leetcode.com/problems/maximum-subarray,Maximum Subarray,Medium,53.3%,100.0%
-304,https://leetcode.com/problems/range-sum-query-2d-immutable,Range Sum Query 2D - Immutable,Medium,58.3%,62.5%
-120,https://leetcode.com/problems/triangle,Triangle,Medium,59.9%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"71","https://leetcode.com/problems/simplify-path","Simplify Path","Medium","50.6%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"53","https://leetcode.com/problems/maximum-subarray","Maximum Subarray","Medium","53.3%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"304","https://leetcode.com/problems/range-sum-query-2d-immutable","Range Sum Query 2D - Immutable","Medium","58.3%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"120","https://leetcode.com/problems/triangle","Triangle","Medium","59.9%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."

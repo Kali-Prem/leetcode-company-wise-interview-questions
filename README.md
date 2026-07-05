@@ -9,7 +9,7 @@
 [![Problem Entries](https://img.shields.io/badge/🧩%20Problem%20Entries-17K%2B-16a34a?style=for-the-badge)](#-what-you-get)
 [![License](https://img.shields.io/badge/⚖️%20License-MIT-f59e0b?style=for-the-badge)](LICENSE)
 
-[🚀 Open Dashboard](index.html) • [📊 Browse Data](#-what-you-get) • [🧭 Study Plans](#-suggested-study-plans)
+[🚀 Open Dashboard](https://kali-prem.github.io/leetcode-company-wise-interview-questions/) • [📊 Browse Data](#-what-you-get) • [🧭 Study Plans](#-suggested-study-plans)
 
 <br />
 
@@ -52,8 +52,25 @@ Each dataset includes structured fields such as:
 | `Difficulty` | Easy, Medium, or Hard |
 | `Acceptance %` | Acceptance rate on LeetCode |
 | `Frequency %` | Relative company-question frequency |
+| `Topic Tags` | DSA area such as Arrays, Graphs, Trees, DP, Strings, or Design |
+| `Pattern` | Solving pattern such as Two Pointers, BFS/DFS, Sliding Window, Binary Search, or Greedy |
+| `Revision Priority` | High, Medium, or Low priority for smarter revision |
+| `Notes` | Short prep guidance for how to use the problem |
 
 ---
+
+## 🧠 Value-Added Metadata
+
+This project adds an extra preparation layer on top of raw company-wise problem lists:
+
+| Column | What It Helps With |
+| --- | --- |
+| `Topic Tags` | Group problems by DSA area like Arrays, Graphs, Trees, DP, Strings, and Design |
+| `Pattern` | Identify the solving technique such as Two Pointers, BFS/DFS, Sliding Window, Binary Search, or Greedy |
+| `Revision Priority` | Decide what to solve first using High, Medium, and Low priority labels |
+| `Notes` | Get short prep guidance such as must-revise or coverage-focused practice |
+
+These fields make the repository more useful than a plain question dump and help candidates prepare with a clear strategy.
 
 ## 💎 Why This Repo Stands Out
 
@@ -239,6 +256,11 @@ This project is available under the [MIT License](LICENSE).
 **Keep solving. Keep revising. Keep getting interview-ready.**
 
 </div>
+
+
+
+
+
 
 
 

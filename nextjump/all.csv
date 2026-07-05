@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2273,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams,Find Resultant Array After Removing Anagrams,Easy,69.9%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2273","https://leetcode.com/problems/find-resultant-array-after-removing-anagrams","Find Resultant Array After Removing Anagrams","Easy","69.9%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-814,https://leetcode.com/problems/binary-tree-pruning,Binary Tree Pruning,Medium,72.5%,100.0%
-772,https://leetcode.com/problems/basic-calculator-iii,Basic Calculator III,Hard,53.3%,100.0%
-371,https://leetcode.com/problems/sum-of-two-integers,Sum of Two Integers,Medium,55.5%,100.0%
-1063,https://leetcode.com/problems/number-of-valid-subarrays,Number of Valid Subarrays,Hard,80.0%,100.0%
-440,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order,K-th Smallest in Lexicographical Order,Hard,46.3%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"814","https://leetcode.com/problems/binary-tree-pruning","Binary Tree Pruning","Medium","72.5%","100.0%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"772","https://leetcode.com/problems/basic-calculator-iii","Basic Calculator III","Hard","53.3%","100.0%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"371","https://leetcode.com/problems/sum-of-two-integers","Sum of Two Integers","Medium","55.5%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1063","https://leetcode.com/problems/number-of-valid-subarrays","Number of Valid Subarrays","Hard","80.0%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"440","https://leetcode.com/problems/k-th-smallest-in-lexicographical-order","K-th Smallest in Lexicographical Order","Hard","46.3%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."

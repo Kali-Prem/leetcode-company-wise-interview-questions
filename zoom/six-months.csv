@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-212,https://leetcode.com/problems/word-search-ii,Word Search II,Hard,38.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"212","https://leetcode.com/problems/word-search-ii","Word Search II","Hard","38.5%","100.0%","Strings; Binary Search","Hashing / Sliding Window; Binary Search","High","Must revise; common company/OA pattern."

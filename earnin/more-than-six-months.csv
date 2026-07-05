@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2,https://leetcode.com/problems/add-two-numbers,Add Two Numbers,Medium,48.5%,100.0%
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-36,https://leetcode.com/problems/valid-sudoku,Valid Sudoku,Medium,64.5%,100.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,100.0%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2","https://leetcode.com/problems/add-two-numbers","Add Two Numbers","Medium","48.5%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"36","https://leetcode.com/problems/valid-sudoku","Valid Sudoku","Medium","64.5%","100.0%","Strings; Backtracking","Hashing / Sliding Window; Backtracking","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

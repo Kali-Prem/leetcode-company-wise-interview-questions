@@ -1,10 +1,10 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-238,https://leetcode.com/problems/product-of-array-except-self,Product of Array Except Self,Medium,68.9%,87.5%
-560,https://leetcode.com/problems/subarray-sum-equals-k,Subarray Sum Equals K,Medium,47.3%,87.5%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,87.5%
-443,https://leetcode.com/problems/string-compression,String Compression,Medium,60.0%,100.0%
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,87.5%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,100.0%
-224,https://leetcode.com/problems/basic-calculator,Basic Calculator,Hard,46.9%,87.5%
-853,https://leetcode.com/problems/car-fleet,Car Fleet,Medium,55.1%,87.5%
-1047,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,Remove All Adjacent Duplicates In String,Easy,73.2%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"238","https://leetcode.com/problems/product-of-array-except-self","Product of Array Except Self","Medium","68.9%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"560","https://leetcode.com/problems/subarray-sum-equals-k","Subarray Sum Equals K","Medium","47.3%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"443","https://leetcode.com/problems/string-compression","String Compression","Medium","60.0%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","87.5%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"224","https://leetcode.com/problems/basic-calculator","Basic Calculator","Hard","46.9%","87.5%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"853","https://leetcode.com/problems/car-fleet","Car Fleet","Medium","55.1%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1047","https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string","Remove All Adjacent Duplicates In String","Easy","73.2%","87.5%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

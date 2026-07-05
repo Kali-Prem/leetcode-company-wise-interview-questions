@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1386,https://leetcode.com/problems/cinema-seat-allocation,Cinema Seat Allocation,Medium,44.6%,100.0%
-2086,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters,Minimum Number of Food Buckets to Feed the Hamsters,Medium,48.4%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1386","https://leetcode.com/problems/cinema-seat-allocation","Cinema Seat Allocation","Medium","44.6%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2086","https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters","Minimum Number of Food Buckets to Feed the Hamsters","Medium","48.4%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

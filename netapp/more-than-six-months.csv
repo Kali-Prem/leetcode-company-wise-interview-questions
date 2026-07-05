@@ -1,9 +1,9 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-437,https://leetcode.com/problems/path-sum-iii,Path Sum III,Medium,46.4%,87.5%
-283,https://leetcode.com/problems/move-zeroes,Move Zeroes,Easy,63.8%,100.0%
-423,https://leetcode.com/problems/reconstruct-original-digits-from-english,Reconstruct Original Digits from English,Medium,52.9%,87.5%
-49,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,72.6%,87.5%
-54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,56.8%,87.5%
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-91,https://leetcode.com/problems/decode-ways,Decode Ways,Medium,38.0%,87.5%
-39,https://leetcode.com/problems/combination-sum,Combination Sum,Medium,76.5%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"437","https://leetcode.com/problems/path-sum-iii","Path Sum III","Medium","46.4%","87.5%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","High","Must revise; common company/OA pattern."
+"283","https://leetcode.com/problems/move-zeroes","Move Zeroes","Easy","63.8%","100.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"423","https://leetcode.com/problems/reconstruct-original-digits-from-english","Reconstruct Original Digits from English","Medium","52.9%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"49","https://leetcode.com/problems/group-anagrams","Group Anagrams","Medium","72.6%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"54","https://leetcode.com/problems/spiral-matrix","Spiral Matrix","Medium","56.8%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"91","https://leetcode.com/problems/decode-ways","Decode Ways","Medium","38.0%","87.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"39","https://leetcode.com/problems/combination-sum","Combination Sum","Medium","76.5%","87.5%","Arrays; Backtracking","Sorting / Prefix / Scan; Backtracking","High","Must revise; common company/OA pattern."

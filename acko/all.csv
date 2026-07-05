@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2050,https://leetcode.com/problems/parallel-courses-iii,Parallel Courses III,Hard,66.8%,87.5%
-1683,https://leetcode.com/problems/invalid-tweets,Invalid Tweets,Easy,85.1%,87.5%
-2887,https://leetcode.com/problems/fill-missing-data,Fill Missing Data,Easy,72.5%,100.0%
-1359,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options,Count All Valid Pickup and Delivery Options,Hard,64.9%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2050","https://leetcode.com/problems/parallel-courses-iii","Parallel Courses III","Hard","66.8%","87.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"1683","https://leetcode.com/problems/invalid-tweets","Invalid Tweets","Easy","85.1%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"2887","https://leetcode.com/problems/fill-missing-data","Fill Missing Data","Easy","72.5%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1359","https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options","Count All Valid Pickup and Delivery Options","Hard","64.9%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."

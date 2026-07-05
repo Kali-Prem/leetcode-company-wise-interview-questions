@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-622,https://leetcode.com/problems/design-circular-queue,Design Circular Queue,Medium,54.7%,100.0%
-1381,https://leetcode.com/problems/design-a-stack-with-increment-operation,Design a Stack With Increment Operation,Medium,79.9%,87.5%
-23,https://leetcode.com/problems/merge-k-sorted-lists,Merge k Sorted Lists,Hard,59.6%,75.0%
-207,https://leetcode.com/problems/course-schedule,Course Schedule,Medium,51.4%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"622","https://leetcode.com/problems/design-circular-queue","Design Circular Queue","Medium","54.7%","100.0%","Stack / Queue; Design","Monotonic Stack / Simulation; Data Structure Design","High","Must revise; common company/OA pattern."
+"1381","https://leetcode.com/problems/design-a-stack-with-increment-operation","Design a Stack With Increment Operation","Medium","79.9%","87.5%","Stack / Queue; Design","Monotonic Stack / Simulation; Data Structure Design","High","Must revise; common company/OA pattern."
+"23","https://leetcode.com/problems/merge-k-sorted-lists","Merge k Sorted Lists","Hard","59.6%","75.0%","Arrays; Linked List; Heap","Sorting / Prefix / Scan; Two Pointers; Priority Queue","High","Must revise; common company/OA pattern."
+"207","https://leetcode.com/problems/course-schedule","Course Schedule","Medium","51.4%","75.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."

@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2381,https://leetcode.com/problems/shifting-letters-ii,Shifting Letters II,Medium,53.7%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2381","https://leetcode.com/problems/shifting-letters-ii","Shifting Letters II","Medium","53.7%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."

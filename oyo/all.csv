@@ -1,8 +1,8 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,100.0%
-138,https://leetcode.com/problems/copy-list-with-random-pointer,Copy List with Random Pointer,Medium,62.9%,87.5%
-1642,https://leetcode.com/problems/furthest-building-you-can-reach,Furthest Building You Can Reach,Medium,50.9%,100.0%
-337,https://leetcode.com/problems/house-robber-iii,House Robber III,Medium,55.9%,87.5%
-23,https://leetcode.com/problems/merge-k-sorted-lists,Merge k Sorted Lists,Hard,59.6%,87.5%
-15,https://leetcode.com/problems/3sum,3Sum,Medium,39.1%,87.5%
-14,https://leetcode.com/problems/longest-common-prefix,Longest Common Prefix,Easy,47.6%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","100.0%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."
+"138","https://leetcode.com/problems/copy-list-with-random-pointer","Copy List with Random Pointer","Medium","62.9%","87.5%","Linked List","Two Pointers","High","Must revise; common company/OA pattern."
+"1642","https://leetcode.com/problems/furthest-building-you-can-reach","Furthest Building You Can Reach","Medium","50.9%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"337","https://leetcode.com/problems/house-robber-iii","House Robber III","Medium","55.9%","87.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"23","https://leetcode.com/problems/merge-k-sorted-lists","Merge k Sorted Lists","Hard","59.6%","87.5%","Arrays; Linked List; Heap","Sorting / Prefix / Scan; Two Pointers; Priority Queue","High","Must revise; common company/OA pattern."
+"15","https://leetcode.com/problems/3sum","3Sum","Medium","39.1%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"14","https://leetcode.com/problems/longest-common-prefix","Longest Common Prefix","Easy","47.6%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1432,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,Max Difference You Can Get From Changing an Integer,Medium,48.7%,100.0%
-17,https://leetcode.com/problems/letter-combinations-of-a-phone-number,Letter Combinations of a Phone Number,Medium,66.1%,87.5%
-15,https://leetcode.com/problems/3sum,3Sum,Medium,39.1%,87.5%
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1432","https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer","Max Difference You Can Get From Changing an Integer","Medium","48.7%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"17","https://leetcode.com/problems/letter-combinations-of-a-phone-number","Letter Combinations of a Phone Number","Medium","66.1%","87.5%","Strings; Backtracking","Hashing / Sliding Window; Backtracking","High","Must revise; common company/OA pattern."
+"15","https://leetcode.com/problems/3sum","3Sum","Medium","39.1%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","87.5%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."

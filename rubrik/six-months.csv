@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2249,https://leetcode.com/problems/count-lattice-points-inside-a-circle,Count Lattice Points Inside a Circle,Medium,56.7%,87.5%
-2193,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome,Minimum Number of Moves to Make Palindrome,Hard,52.8%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2249","https://leetcode.com/problems/count-lattice-points-inside-a-circle","Count Lattice Points Inside a Circle","Medium","56.7%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2193","https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome","Minimum Number of Moves to Make Palindrome","Hard","52.8%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

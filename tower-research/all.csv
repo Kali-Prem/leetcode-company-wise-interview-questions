@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2434,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,Using a Robot to Print the Lexicographically Smallest String,Medium,62.3%,100.0%
-934,https://leetcode.com/problems/shortest-bridge,Shortest Bridge,Medium,59.5%,100.0%
-399,https://leetcode.com/problems/evaluate-division,Evaluate Division,Medium,64.2%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2434","https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string","Using a Robot to Print the Lexicographically Smallest String","Medium","62.3%","100.0%","Strings; Graphs","Hashing / Sliding Window; BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"934","https://leetcode.com/problems/shortest-bridge","Shortest Bridge","Medium","59.5%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"399","https://leetcode.com/problems/evaluate-division","Evaluate Division","Medium","64.2%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

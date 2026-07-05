@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-796,https://leetcode.com/problems/rotate-string,Rotate String,Easy,66.6%,100.0%
-1953,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work,Maximum Number of Weeks for Which You Can Work,Medium,42.5%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"796","https://leetcode.com/problems/rotate-string","Rotate String","Easy","66.6%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1953","https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work","Maximum Number of Weeks for Which You Can Work","Medium","42.5%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

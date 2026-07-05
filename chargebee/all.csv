@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-3429,https://leetcode.com/problems/paint-house-iv,Paint House IV,Medium,45.3%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"3429","https://leetcode.com/problems/paint-house-iv","Paint House IV","Medium","45.3%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

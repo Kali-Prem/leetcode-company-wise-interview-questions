@@ -1,17 +1,17 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,100.0%
-68,https://leetcode.com/problems/text-justification,Text Justification,Hard,51.2%,75.0%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,100.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,75.0%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,75.0%
-78,https://leetcode.com/problems/subsets,Subsets,Medium,82.3%,75.0%
-1352,https://leetcode.com/problems/product-of-the-last-k-numbers,Product of the Last K Numbers,Medium,62.9%,75.0%
-215,https://leetcode.com/problems/kth-largest-element-in-an-array,Kth Largest Element in an Array,Medium,68.9%,75.0%
-189,https://leetcode.com/problems/rotate-array,Rotate Array,Medium,44.9%,75.0%
-32,https://leetcode.com/problems/longest-valid-parentheses,Longest Valid Parentheses,Hard,38.8%,75.0%
-787,https://leetcode.com/problems/cheapest-flights-within-k-stops,Cheapest Flights Within K Stops,Medium,41.8%,87.5%
-706,https://leetcode.com/problems/design-hashmap,Design HashMap,Easy,66.6%,75.0%
-886,https://leetcode.com/problems/possible-bipartition,Possible Bipartition,Medium,52.6%,87.5%
-79,https://leetcode.com/problems/word-search,Word Search,Medium,47.4%,75.0%
-904,https://leetcode.com/problems/fruit-into-baskets,Fruit Into Baskets,Medium,51.1%,75.0%
-347,https://leetcode.com/problems/top-k-frequent-elements,Top K Frequent Elements,Medium,66.4%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"68","https://leetcode.com/problems/text-justification","Text Justification","Hard","51.2%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","100.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"78","https://leetcode.com/problems/subsets","Subsets","Medium","82.3%","75.0%","Backtracking","Backtracking","High","Must revise; common company/OA pattern."
+"1352","https://leetcode.com/problems/product-of-the-last-k-numbers","Product of the Last K Numbers","Medium","62.9%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"215","https://leetcode.com/problems/kth-largest-element-in-an-array","Kth Largest Element in an Array","Medium","68.9%","75.0%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","High","Must revise; common company/OA pattern."
+"189","https://leetcode.com/problems/rotate-array","Rotate Array","Medium","44.9%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"32","https://leetcode.com/problems/longest-valid-parentheses","Longest Valid Parentheses","Hard","38.8%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"787","https://leetcode.com/problems/cheapest-flights-within-k-stops","Cheapest Flights Within K Stops","Medium","41.8%","87.5%","Heap","Priority Queue","High","Must revise; common company/OA pattern."
+"706","https://leetcode.com/problems/design-hashmap","Design HashMap","Easy","66.6%","75.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"886","https://leetcode.com/problems/possible-bipartition","Possible Bipartition","Medium","52.6%","87.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"79","https://leetcode.com/problems/word-search","Word Search","Medium","47.4%","75.0%","Strings; Binary Search","Hashing / Sliding Window; Binary Search","High","Must revise; common company/OA pattern."
+"904","https://leetcode.com/problems/fruit-into-baskets","Fruit Into Baskets","Medium","51.1%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"347","https://leetcode.com/problems/top-k-frequent-elements","Top K Frequent Elements","Medium","66.4%","75.0%","Heap","Priority Queue","High","Must revise; common company/OA pattern."

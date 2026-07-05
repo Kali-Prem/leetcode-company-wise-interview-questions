@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1921,https://leetcode.com/problems/eliminate-maximum-number-of-monsters,Eliminate Maximum Number of Monsters,Medium,51.1%,87.5%
-726,https://leetcode.com/problems/number-of-atoms,Number of Atoms,Hard,65.1%,100.0%
-1209,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,Remove All Adjacent Duplicates in String II,Medium,61.3%,87.5%
-1011,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,Capacity To Ship Packages Within D Days,Medium,73.9%,100.0%
-3893,https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals,Maximum Team Size with Overlapping Intervals,Medium,51.6%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1921","https://leetcode.com/problems/eliminate-maximum-number-of-monsters","Eliminate Maximum Number of Monsters","Medium","51.1%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"726","https://leetcode.com/problems/number-of-atoms","Number of Atoms","Hard","65.1%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1209","https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii","Remove All Adjacent Duplicates in String II","Medium","61.3%","87.5%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1011","https://leetcode.com/problems/capacity-to-ship-packages-within-d-days","Capacity To Ship Packages Within D Days","Medium","73.9%","100.0%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."
+"3893","https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals","Maximum Team Size with Overlapping Intervals","Medium","51.6%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

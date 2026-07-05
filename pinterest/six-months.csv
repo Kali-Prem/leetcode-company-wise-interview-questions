@@ -1,16 +1,16 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-332,https://leetcode.com/problems/reconstruct-itinerary,Reconstruct Itinerary,Hard,44.6%,100.0%
-465,https://leetcode.com/problems/optimal-account-balancing,Optimal Account Balancing,Hard,50.5%,87.5%
-815,https://leetcode.com/problems/bus-routes,Bus Routes,Hard,47.3%,100.0%
-322,https://leetcode.com/problems/coin-change,Coin Change,Medium,48.4%,75.0%
-282,https://leetcode.com/problems/expression-add-operators,Expression Add Operators,Hard,43.2%,62.5%
-1055,https://leetcode.com/problems/shortest-way-to-form-string,Shortest Way to Form String,Medium,61.7%,87.5%
-311,https://leetcode.com/problems/sparse-matrix-multiplication,Sparse Matrix Multiplication,Medium,69.3%,62.5%
-1110,https://leetcode.com/problems/delete-nodes-and-return-forest,Delete Nodes And Return Forest,Medium,72.5%,87.5%
-1244,https://leetcode.com/problems/design-a-leaderboard,Design A Leaderboard,Medium,68.1%,87.5%
-410,https://leetcode.com/problems/split-array-largest-sum,Split Array Largest Sum,Hard,60.4%,75.0%
-43,https://leetcode.com/problems/multiply-strings,Multiply Strings,Medium,44.2%,75.0%
-642,https://leetcode.com/problems/design-search-autocomplete-system,Design Search Autocomplete System,Hard,50.0%,75.0%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,62.5%
-1580,https://leetcode.com/problems/put-boxes-into-the-warehouse-ii,Put Boxes Into the Warehouse II,Medium,66.0%,62.5%
-1564,https://leetcode.com/problems/put-boxes-into-the-warehouse-i,Put Boxes Into the Warehouse I,Medium,67.5%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"332","https://leetcode.com/problems/reconstruct-itinerary","Reconstruct Itinerary","Hard","44.6%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"465","https://leetcode.com/problems/optimal-account-balancing","Optimal Account Balancing","Hard","50.5%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"815","https://leetcode.com/problems/bus-routes","Bus Routes","Hard","47.3%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"322","https://leetcode.com/problems/coin-change","Coin Change","Medium","48.4%","75.0%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"282","https://leetcode.com/problems/expression-add-operators","Expression Add Operators","Hard","43.2%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"1055","https://leetcode.com/problems/shortest-way-to-form-string","Shortest Way to Form String","Medium","61.7%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"311","https://leetcode.com/problems/sparse-matrix-multiplication","Sparse Matrix Multiplication","Medium","69.3%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"1110","https://leetcode.com/problems/delete-nodes-and-return-forest","Delete Nodes And Return Forest","Medium","72.5%","87.5%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"1244","https://leetcode.com/problems/design-a-leaderboard","Design A Leaderboard","Medium","68.1%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"410","https://leetcode.com/problems/split-array-largest-sum","Split Array Largest Sum","Hard","60.4%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"43","https://leetcode.com/problems/multiply-strings","Multiply Strings","Medium","44.2%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"642","https://leetcode.com/problems/design-search-autocomplete-system","Design Search Autocomplete System","Hard","50.0%","75.0%","Binary Search; Design","Binary Search; Data Structure Design","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","62.5%","Graphs","BFS / DFS / Topological Sort","Medium","Practice after high-priority questions; useful interview pattern."
+"1580","https://leetcode.com/problems/put-boxes-into-the-warehouse-ii","Put Boxes Into the Warehouse II","Medium","66.0%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"1564","https://leetcode.com/problems/put-boxes-into-the-warehouse-i","Put Boxes Into the Warehouse I","Medium","67.5%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."

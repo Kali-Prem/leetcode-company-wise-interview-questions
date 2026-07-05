@@ -1,8 +1,8 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-593,https://leetcode.com/problems/valid-square,Valid Square,Medium,45.0%,100.0%
-1668,https://leetcode.com/problems/maximum-repeating-substring,Maximum Repeating Substring,Easy,41.7%,75.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,75.0%
-1206,https://leetcode.com/problems/design-skiplist,Design Skiplist,Hard,59.7%,62.5%
-647,https://leetcode.com/problems/palindromic-substrings,Palindromic Substrings,Medium,72.8%,100.0%
-380,https://leetcode.com/problems/insert-delete-getrandom-o1,Insert Delete GetRandom O(1),Medium,55.4%,75.0%
-704,https://leetcode.com/problems/binary-search,Binary Search,Easy,60.9%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"593","https://leetcode.com/problems/valid-square","Valid Square","Medium","45.0%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1668","https://leetcode.com/problems/maximum-repeating-substring","Maximum Repeating Substring","Easy","41.7%","75.0%","Arrays; Strings; Trees","Sorting / Prefix / Scan; Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","75.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"1206","https://leetcode.com/problems/design-skiplist","Design Skiplist","Hard","59.7%","62.5%","Linked List; Design","Two Pointers; Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"647","https://leetcode.com/problems/palindromic-substrings","Palindromic Substrings","Medium","72.8%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"380","https://leetcode.com/problems/insert-delete-getrandom-o1","Insert Delete GetRandom O(1)","Medium","55.4%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"704","https://leetcode.com/problems/binary-search","Binary Search","Easy","60.9%","62.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."

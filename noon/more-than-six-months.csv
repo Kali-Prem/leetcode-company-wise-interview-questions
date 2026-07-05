@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2062,https://leetcode.com/problems/count-vowel-substrings-of-a-string,Count Vowel Substrings of a String,Easy,73.2%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2062","https://leetcode.com/problems/count-vowel-substrings-of-a-string","Count Vowel Substrings of a String","Easy","73.2%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."

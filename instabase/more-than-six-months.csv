@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2334,https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold,Subarray With Elements Greater Than Varying Threshold,Hard,45.5%,100.0%
-208,https://leetcode.com/problems/implement-trie-prefix-tree,Implement Trie (Prefix Tree),Medium,69.5%,100.0%
-210,https://leetcode.com/problems/course-schedule-ii,Course Schedule II,Medium,55.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2334","https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold","Subarray With Elements Greater Than Varying Threshold","Hard","45.5%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"208","https://leetcode.com/problems/implement-trie-prefix-tree","Implement Trie (Prefix Tree)","Medium","69.5%","100.0%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"210","https://leetcode.com/problems/course-schedule-ii","Course Schedule II","Medium","55.5%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."

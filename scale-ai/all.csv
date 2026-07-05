@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-560,https://leetcode.com/problems/subarray-sum-equals-k,Subarray Sum Equals K,Medium,47.3%,100.0%
-134,https://leetcode.com/problems/gas-station,Gas Station,Medium,48.0%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"560","https://leetcode.com/problems/subarray-sum-equals-k","Subarray Sum Equals K","Medium","47.3%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"134","https://leetcode.com/problems/gas-station","Gas Station","Medium","48.0%","100.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."

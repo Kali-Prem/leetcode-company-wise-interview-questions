@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-715,https://leetcode.com/problems/range-module,Range Module,Hard,45.0%,100.0%
-1336,https://leetcode.com/problems/number-of-transactions-per-visit,Number of Transactions per Visit,Hard,47.9%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"715","https://leetcode.com/problems/range-module","Range Module","Hard","45.0%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1336","https://leetcode.com/problems/number-of-transactions-per-visit","Number of Transactions per Visit","Hard","47.9%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

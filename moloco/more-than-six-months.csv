@@ -1,9 +1,9 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1381,https://leetcode.com/problems/design-a-stack-with-increment-operation,Design a Stack With Increment Operation,Medium,79.9%,87.5%
-540,https://leetcode.com/problems/single-element-in-a-sorted-array,Single Element in a Sorted Array,Medium,59.3%,87.5%
-42,https://leetcode.com/problems/trapping-rain-water,Trapping Rain Water,Hard,67.4%,87.5%
-1048,https://leetcode.com/problems/longest-string-chain,Longest String Chain,Medium,63.0%,100.0%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,87.5%
-1438,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium,57.7%,87.5%
-827,https://leetcode.com/problems/making-a-large-island,Making A Large Island,Hard,56.6%,87.5%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1381","https://leetcode.com/problems/design-a-stack-with-increment-operation","Design a Stack With Increment Operation","Medium","79.9%","87.5%","Stack / Queue; Design","Monotonic Stack / Simulation; Data Structure Design","High","Must revise; common company/OA pattern."
+"540","https://leetcode.com/problems/single-element-in-a-sorted-array","Single Element in a Sorted Array","Medium","59.3%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"42","https://leetcode.com/problems/trapping-rain-water","Trapping Rain Water","Hard","67.4%","87.5%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"1048","https://leetcode.com/problems/longest-string-chain","Longest String Chain","Medium","63.0%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","87.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"1438","https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit","Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit","Medium","57.7%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"827","https://leetcode.com/problems/making-a-large-island","Making A Large Island","Hard","56.6%","87.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."

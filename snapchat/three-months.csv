@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-347,https://leetcode.com/problems/top-k-frequent-elements,Top K Frequent Elements,Medium,66.4%,100.0%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,87.5%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"347","https://leetcode.com/problems/top-k-frequent-elements","Top K Frequent Elements","Medium","66.4%","100.0%","Heap","Priority Queue","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","87.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."

@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2062,https://leetcode.com/problems/count-vowel-substrings-of-a-string,Count Vowel Substrings of a String,Easy,73.2%,100.0%
-91,https://leetcode.com/problems/decode-ways,Decode Ways,Medium,38.0%,62.5%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,75.0%
-162,https://leetcode.com/problems/find-peak-element,Find Peak Element,Medium,47.0%,62.5%
-994,https://leetcode.com/problems/rotting-oranges,Rotting Oranges,Medium,58.7%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2062","https://leetcode.com/problems/count-vowel-substrings-of-a-string","Count Vowel Substrings of a String","Easy","73.2%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"91","https://leetcode.com/problems/decode-ways","Decode Ways","Medium","38.0%","62.5%","Dynamic Programming","State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","75.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"162","https://leetcode.com/problems/find-peak-element","Find Peak Element","Medium","47.0%","62.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"994","https://leetcode.com/problems/rotting-oranges","Rotting Oranges","Medium","58.7%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."

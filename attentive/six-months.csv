@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-736,https://leetcode.com/problems/parse-lisp-expression,Parse Lisp Expression,Hard,53.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"736","https://leetcode.com/problems/parse-lisp-expression","Parse Lisp Expression","Hard","53.5%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

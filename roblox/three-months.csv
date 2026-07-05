@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-359,https://leetcode.com/problems/logger-rate-limiter,Logger Rate Limiter,Easy,76.8%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"359","https://leetcode.com/problems/logger-rate-limiter","Logger Rate Limiter","Easy","76.8%","100.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."

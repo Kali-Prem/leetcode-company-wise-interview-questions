@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-713,https://leetcode.com/problems/subarray-product-less-than-k,Subarray Product Less Than K,Medium,54.3%,62.5%
-221,https://leetcode.com/problems/maximal-square,Maximal Square,Medium,50.3%,100.0%
-348,https://leetcode.com/problems/design-tic-tac-toe,Design Tic-Tac-Toe,Medium,58.7%,75.0%
-3649,https://leetcode.com/problems/number-of-perfect-pairs,Number of Perfect Pairs,Medium,34.1%,75.0%
-2451,https://leetcode.com/problems/odd-string-difference,Odd String Difference,Easy,62.0%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"713","https://leetcode.com/problems/subarray-product-less-than-k","Subarray Product Less Than K","Medium","54.3%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"221","https://leetcode.com/problems/maximal-square","Maximal Square","Medium","50.3%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"348","https://leetcode.com/problems/design-tic-tac-toe","Design Tic-Tac-Toe","Medium","58.7%","75.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"3649","https://leetcode.com/problems/number-of-perfect-pairs","Number of Perfect Pairs","Medium","34.1%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2451","https://leetcode.com/problems/odd-string-difference","Odd String Difference","Easy","62.0%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."

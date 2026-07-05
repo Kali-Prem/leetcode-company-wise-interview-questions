@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1111,https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings,Maximum Nesting Depth of Two Valid Parentheses Strings,Medium,71.9%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1111","https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings","Maximum Nesting Depth of Two Valid Parentheses Strings","Medium","71.9%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

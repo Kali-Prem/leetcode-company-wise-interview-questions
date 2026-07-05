@@ -1,10 +1,10 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,87.5%
-344,https://leetcode.com/problems/reverse-string,Reverse String,Easy,80.8%,75.0%
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,87.5%
-15,https://leetcode.com/problems/3sum,3Sum,Medium,39.1%,75.0%
-88,https://leetcode.com/problems/merge-sorted-array,Merge Sorted Array,Easy,54.9%,75.0%
-185,https://leetcode.com/problems/department-top-three-salaries,Department Top Three Salaries,Hard,60.5%,75.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,75.0%
-176,https://leetcode.com/problems/second-highest-salary,Second Highest Salary,Medium,47.0%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"344","https://leetcode.com/problems/reverse-string","Reverse String","Easy","80.8%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","87.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"15","https://leetcode.com/problems/3sum","3Sum","Medium","39.1%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"88","https://leetcode.com/problems/merge-sorted-array","Merge Sorted Array","Easy","54.9%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"185","https://leetcode.com/problems/department-top-three-salaries","Department Top Three Salaries","Hard","60.5%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"176","https://leetcode.com/problems/second-highest-salary","Second Highest Salary","Medium","47.0%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

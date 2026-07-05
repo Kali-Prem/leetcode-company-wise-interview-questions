@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-3115,https://leetcode.com/problems/maximum-prime-difference,Maximum Prime Difference,Medium,59.0%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"3115","https://leetcode.com/problems/maximum-prime-difference","Maximum Prime Difference","Medium","59.0%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

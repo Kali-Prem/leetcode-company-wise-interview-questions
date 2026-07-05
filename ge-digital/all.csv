@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-697,https://leetcode.com/problems/degree-of-an-array,Degree of an Array,Easy,58.4%,100.0%
-2162,https://leetcode.com/problems/minimum-cost-to-set-cooking-time,Minimum Cost to Set Cooking Time,Medium,41.6%,75.0%
-1249,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,Minimum Remove to Make Valid Parentheses,Medium,71.5%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"697","https://leetcode.com/problems/degree-of-an-array","Degree of an Array","Easy","58.4%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2162","https://leetcode.com/problems/minimum-cost-to-set-cooking-time","Minimum Cost to Set Cooking Time","Medium","41.6%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1249","https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses","Minimum Remove to Make Valid Parentheses","Medium","71.5%","62.5%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."

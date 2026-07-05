@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-152,https://leetcode.com/problems/maximum-product-subarray,Maximum Product Subarray,Medium,36.4%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"152","https://leetcode.com/problems/maximum-product-subarray","Maximum Product Subarray","Medium","36.4%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

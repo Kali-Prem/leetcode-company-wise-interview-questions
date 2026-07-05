@@ -198,7 +198,7 @@
     .toolbar h3,
     .table-title h3 {
       margin: 0;
-      font-size: 18px;
+      font-size: 16px;
     }
 
     .quick-list {
@@ -233,7 +233,7 @@
 
     .controls {
       display: grid;
-      grid-template-columns: 1.45fr 1fr 0.85fr 1.25fr;
+      grid-template-columns: 1.35fr 0.95fr 0.8fr 0.9fr 0.9fr 1.2fr;
       gap: 16px;
       margin-top: 18px;
     }
@@ -331,7 +331,7 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      min-width: 980px;
+      min-width: 1420px;
     }
 
     th,
@@ -340,7 +340,7 @@
       border-bottom: 1px solid var(--line);
       text-align: left;
       vertical-align: middle;
-      font-size: 18px;
+      font-size: 16px;
     }
 
     th {
@@ -376,6 +376,33 @@
       font-weight: 900;
     }
 
+
+    .meta-cell {
+      color: #334155;
+      max-width: 260px;
+      min-width: 190px;
+    }
+
+    .notes-cell {
+      color: var(--muted);
+      max-width: 300px;
+      min-width: 240px;
+    }
+
+    .priority-high {
+      color: #ffffff;
+      background: #1554e8;
+    }
+
+    .priority-medium {
+      color: #92400e;
+      background: #fef3c7;
+    }
+
+    .priority-low {
+      color: #166534;
+      background: #dcfce7;
+    }
     .easy {
       color: var(--green);
       background: #dcfce7;
@@ -431,7 +458,7 @@
 
     @media (max-width: 520px) {
       .brand h1 {
-        font-size: 18px;
+        font-size: 16px;
       }
 
       .hero-copy,
@@ -510,6 +537,21 @@
             </select>
           </label>
           <label>
+            Topic
+            <select id="topicSelect">
+              <option value="all">All topics</option>
+            </select>
+          </label>
+          <label>
+            Priority
+            <select id="prioritySelect">
+              <option value="all">All priorities</option>
+              <option value="High">High</option>
+              <option value="Medium">Medium</option>
+              <option value="Low">Low</option>
+            </select>
+          </label>
+          <label>
             Search problems
             <input id="problemSearch" type="search" placeholder="Two Sum, graph, cache..." />
           </label>
@@ -539,12 +581,16 @@
                 <th>ID</th>
                 <th>Problem</th>
                 <th>Difficulty</th>
+                <th>Topic</th>
+                <th>Pattern</th>
+                <th>Priority</th>
                 <th>Acceptance</th>
                 <th>Frequency</th>
+                <th>Notes</th>
               </tr>
             </thead>
             <tbody id="problemBody">
-              <tr><td class="empty" colspan="6">Loading dashboard...</td></tr>
+              <tr><td class="empty" colspan="10">Loading dashboard...</td></tr>
             </tbody>
           </table>
         </div>
@@ -565,6 +611,8 @@
     const companySelect = document.getElementById('companySelect');
     const fileSelect = document.getElementById('fileSelect');
     const difficultySelect = document.getElementById('difficultySelect');
+    const topicSelect = document.getElementById('topicSelect');
+    const prioritySelect = document.getElementById('prioritySelect');
     const problemSearch = document.getElementById('problemSearch');
     const problemBody = document.getElementById('problemBody');
     const tableSubtitle = document.getElementById('tableSubtitle');
@@ -661,6 +709,17 @@
       }
     }
 
+
+    function priorityClass(priority) {
+      return `priority-${String(priority || 'Low').toLowerCase()}`;
+    }
+
+    function renderTopicOptions(rows) {
+      const selected = topicSelect.value;
+      const topics = [...new Set(rows.flatMap((row) => String(row['Topic Tags'] || '').split(';').map((topic) => topic.trim()).filter(Boolean)))].sort();
+      topicSelect.innerHTML = '<option value="all">All topics</option>' + topics.map((topic) => `<option value="${escapeHTML(topic)}">${escapeHTML(topic)}</option>`).join('');
+      topicSelect.value = topics.includes(selected) ? selected : 'all';
+    }
     function renderStats(rows) {
       visibleCount.textContent = rows.length;
       easyCount.textContent = rows.filter((row) => row.Difficulty === 'Easy').length;
@@ -672,7 +731,7 @@
       renderStats(rows);
 
       if (!rows.length) {
-        problemBody.innerHTML = '<tr><td class="empty" colspan="6">No questions match the current filters.</td></tr>';
+        problemBody.innerHTML = '<tr><td class="empty" colspan="10">No questions match the current filters.</td></tr>';
         return;
       }
 
@@ -685,8 +744,12 @@
             <td>${escapeHTML(row.ID)}</td>
             <td><a class="problem-link" href="${escapeHTML(row.URL)}" target="_blank" rel="noopener noreferrer">${escapeHTML(row.Title)}</a></td>
             <td><span class="tag ${difficultyClass}">${escapeHTML(row.Difficulty)}</span></td>
+            <td class="meta-cell">${escapeHTML(row['Topic Tags'])}</td>
+            <td class="meta-cell">${escapeHTML(row.Pattern)}</td>
+            <td><span class="tag ${priorityClass(row['Revision Priority'])}">${escapeHTML(row['Revision Priority'])}</span></td>
             <td>${escapeHTML(row['Acceptance %'])}</td>
             <td>${escapeHTML(row['Frequency %'])}</td>
+            <td class="notes-cell">${escapeHTML(row.Notes)}</td>
           </tr>`;
       }).join('');
     }
@@ -702,12 +765,17 @@
 
     function applyFilters() {
       const difficulty = difficultySelect.value;
+      const topic = topicSelect.value;
+      const priority = prioritySelect.value;
       const query = problemSearch.value.trim().toLowerCase();
 
       state.filteredRows = state.rows.filter((row) => {
         const difficultyMatch = difficulty === 'all' || row.Difficulty === difficulty;
-        const queryMatch = !query || `${row.ID} ${row.Title}`.toLowerCase().includes(query);
-        return difficultyMatch && queryMatch;
+        const topicMatch = topic === 'all' || String(row['Topic Tags'] || '').split(';').map((item) => item.trim()).includes(topic);
+        const priorityMatch = priority === 'all' || row['Revision Priority'] === priority;
+        const searchable = `${row.ID} ${row.Title} ${row['Topic Tags']} ${row.Pattern} ${row.Notes}`.toLowerCase();
+        const queryMatch = !query || searchable.includes(query);
+        return difficultyMatch && topicMatch && priorityMatch && queryMatch;
       });
 
       renderRows(state.filteredRows);
@@ -732,7 +800,7 @@
       const company = state.currentCompany;
       if (!company || !file) return;
 
-      problemBody.innerHTML = '<tr><td class="empty" colspan="6">Loading questions...</td></tr>';
+      problemBody.innerHTML = '<tr><td class="empty" colspan="10">Loading questions...</td></tr>';
       tableSubtitle.textContent = `${company.name || titleCase(company.slug)} • ${datasetLabels[file] || file}`;
 
       try {
@@ -740,11 +808,12 @@
         if (!response.ok) throw new Error(`Could not load ${file}`);
         const text = await response.text();
         state.rows = parseCSV(text);
+        renderTopicOptions(state.rows);
         applyFilters();
       } catch (error) {
         state.rows = [];
         renderStats([]);
-        problemBody.innerHTML = `<tr><td class="empty" colspan="6">${escapeHTML(error.message)}. If you opened this file directly, run it through GitHub Pages or a local server.</td></tr>`;
+        problemBody.innerHTML = `<tr><td class="empty" colspan="10">${escapeHTML(error.message)}. If you opened this file directly, run it through GitHub Pages or a local server.</td></tr>`;
       }
     }
 
@@ -769,13 +838,15 @@
         renderCompanies();
         await loadCompany(state.companies.some((company) => company.slug === 'amazon') ? 'amazon' : state.companies[0].slug);
       } catch (error) {
-        problemBody.innerHTML = `<tr><td class="empty" colspan="6">${escapeHTML(error.message)}. Publish this repository with GitHub Pages to use the dashboard.</td></tr>`;
+        problemBody.innerHTML = `<tr><td class="empty" colspan="10">${escapeHTML(error.message)}. Publish this repository with GitHub Pages to use the dashboard.</td></tr>`;
       }
     }
 
     companySelect.addEventListener('change', () => loadCompany(companySelect.value));
     fileSelect.addEventListener('change', loadDataset);
     difficultySelect.addEventListener('change', applyFilters);
+    topicSelect.addEventListener('change', applyFilters);
+    prioritySelect.addEventListener('change', applyFilters);
     problemSearch.addEventListener('input', applyFilters);
 
     quickList.addEventListener('click', (event) => {
@@ -799,6 +870,9 @@
   </script>
 </body>
 </html>
+
+
+
 
 
 

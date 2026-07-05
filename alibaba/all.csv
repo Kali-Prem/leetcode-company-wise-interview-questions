@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-548,https://leetcode.com/problems/split-array-with-equal-sum,Split Array with Equal Sum,Hard,50.1%,100.0%
-555,https://leetcode.com/problems/split-concatenated-strings,Split Concatenated Strings,Medium,43.6%,100.0%
-666,https://leetcode.com/problems/path-sum-iv,Path Sum IV,Medium,62.9%,100.0%
-678,https://leetcode.com/problems/valid-parenthesis-string,Valid Parenthesis String,Medium,40.1%,100.0%
-215,https://leetcode.com/problems/kth-largest-element-in-an-array,Kth Largest Element in an Array,Medium,68.9%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"548","https://leetcode.com/problems/split-array-with-equal-sum","Split Array with Equal Sum","Hard","50.1%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"555","https://leetcode.com/problems/split-concatenated-strings","Split Concatenated Strings","Medium","43.6%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"666","https://leetcode.com/problems/path-sum-iv","Path Sum IV","Medium","62.9%","100.0%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","High","Must revise; common company/OA pattern."
+"678","https://leetcode.com/problems/valid-parenthesis-string","Valid Parenthesis String","Medium","40.1%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"215","https://leetcode.com/problems/kth-largest-element-in-an-array","Kth Largest Element in an Array","Medium","68.9%","62.5%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","Medium","Practice after high-priority questions; useful interview pattern."

@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-723,https://leetcode.com/problems/candy-crush,Candy Crush,Medium,77.4%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"723","https://leetcode.com/problems/candy-crush","Candy Crush","Medium","77.4%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

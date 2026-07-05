@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-205,https://leetcode.com/problems/isomorphic-strings,Isomorphic Strings,Easy,48.4%,100.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,75.0%
-210,https://leetcode.com/problems/course-schedule-ii,Course Schedule II,Medium,55.5%,62.5%
-1807,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string,Evaluate the Bracket Pairs of a String,Medium,69.5%,62.5%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"205","https://leetcode.com/problems/isomorphic-strings","Isomorphic Strings","Easy","48.4%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"210","https://leetcode.com/problems/course-schedule-ii","Course Schedule II","Medium","55.5%","62.5%","Graphs","BFS / DFS / Topological Sort","Medium","Practice after high-priority questions; useful interview pattern."
+"1807","https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string","Evaluate the Bracket Pairs of a String","Medium","69.5%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."

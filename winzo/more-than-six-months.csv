@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-632,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists,Smallest Range Covering Elements from K Lists,Hard,70.1%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"632","https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists","Smallest Range Covering Elements from K Lists","Hard","70.1%","100.0%","Linked List","Two Pointers","High","Must revise; common company/OA pattern."

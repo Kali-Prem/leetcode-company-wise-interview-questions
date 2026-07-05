@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-34,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,Find First and Last Position of Element in Sorted Array,Medium,48.9%,100.0%
-1701,https://leetcode.com/problems/average-waiting-time,Average Waiting Time,Medium,73.1%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"34","https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array","Find First and Last Position of Element in Sorted Array","Medium","48.9%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1701","https://leetcode.com/problems/average-waiting-time","Average Waiting Time","Medium","73.1%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

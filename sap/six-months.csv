@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,Lowest Common Ancestor of a Binary Tree,Medium,69.3%,87.5%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,87.5%
-74,https://leetcode.com/problems/search-a-2d-matrix,Search a 2D Matrix,Medium,53.9%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"236","https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree","Lowest Common Ancestor of a Binary Tree","Medium","69.3%","87.5%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"74","https://leetcode.com/problems/search-a-2d-matrix","Search a 2D Matrix","Medium","53.9%","100.0%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","High","Must revise; common company/OA pattern."

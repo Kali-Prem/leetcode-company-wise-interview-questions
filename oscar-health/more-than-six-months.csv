@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1724,https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii,Checking Existence of Edge Length Limited Paths II,Hard,51.5%,75.0%
-362,https://leetcode.com/problems/design-hit-counter,Design Hit Counter,Medium,69.7%,75.0%
-91,https://leetcode.com/problems/decode-ways,Decode Ways,Medium,38.0%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1724","https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii","Checking Existence of Edge Length Limited Paths II","Hard","51.5%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"362","https://leetcode.com/problems/design-hit-counter","Design Hit Counter","Medium","69.7%","75.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"91","https://leetcode.com/problems/decode-ways","Decode Ways","Medium","38.0%","100.0%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."

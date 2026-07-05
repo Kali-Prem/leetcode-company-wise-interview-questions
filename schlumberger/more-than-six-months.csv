@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-695,https://leetcode.com/problems/max-area-of-island,Max Area of Island,Medium,74.0%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"695","https://leetcode.com/problems/max-area-of-island","Max Area of Island","Medium","74.0%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."

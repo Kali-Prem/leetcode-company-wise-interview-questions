@@ -1,19 +1,19 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,87.5%
-7,https://leetcode.com/problems/reverse-integer,Reverse Integer,Medium,31.9%,75.0%
-2,https://leetcode.com/problems/add-two-numbers,Add Two Numbers,Medium,48.5%,100.0%
-1932,https://leetcode.com/problems/merge-bsts-to-create-single-bst,Merge BSTs to Create Single BST,Hard,38.9%,75.0%
-32,https://leetcode.com/problems/longest-valid-parentheses,Longest Valid Parentheses,Hard,38.8%,75.0%
-14,https://leetcode.com/problems/longest-common-prefix,Longest Common Prefix,Easy,47.6%,87.5%
-2553,https://leetcode.com/problems/separate-the-digits-in-an-array,Separate the Digits in an Array,Easy,85.8%,75.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,75.0%
-560,https://leetcode.com/problems/subarray-sum-equals-k,Subarray Sum Equals K,Medium,47.3%,75.0%
-49,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,72.6%,75.0%
-75,https://leetcode.com/problems/sort-colors,Sort Colors,Medium,69.6%,75.0%
-2784,https://leetcode.com/problems/check-if-array-is-good,Check if Array is Good,Easy,57.3%,75.0%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,75.0%
-239,https://leetcode.com/problems/sliding-window-maximum,Sliding Window Maximum,Hard,48.8%,75.0%
-128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,47.1%,75.0%
-176,https://leetcode.com/problems/second-highest-salary,Second Highest Salary,Medium,47.0%,75.0%
-33,https://leetcode.com/problems/search-in-rotated-sorted-array,Search in Rotated Sorted Array,Medium,44.9%,75.0%
-193,https://leetcode.com/problems/valid-phone-numbers,Valid Phone Numbers,Easy,29.7%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","87.5%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"7","https://leetcode.com/problems/reverse-integer","Reverse Integer","Medium","31.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2","https://leetcode.com/problems/add-two-numbers","Add Two Numbers","Medium","48.5%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1932","https://leetcode.com/problems/merge-bsts-to-create-single-bst","Merge BSTs to Create Single BST","Hard","38.9%","75.0%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","High","Must revise; common company/OA pattern."
+"32","https://leetcode.com/problems/longest-valid-parentheses","Longest Valid Parentheses","Hard","38.8%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"14","https://leetcode.com/problems/longest-common-prefix","Longest Common Prefix","Easy","47.6%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2553","https://leetcode.com/problems/separate-the-digits-in-an-array","Separate the Digits in an Array","Easy","85.8%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","75.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"560","https://leetcode.com/problems/subarray-sum-equals-k","Subarray Sum Equals K","Medium","47.3%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"49","https://leetcode.com/problems/group-anagrams","Group Anagrams","Medium","72.6%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"75","https://leetcode.com/problems/sort-colors","Sort Colors","Medium","69.6%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2784","https://leetcode.com/problems/check-if-array-is-good","Check if Array is Good","Easy","57.3%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"239","https://leetcode.com/problems/sliding-window-maximum","Sliding Window Maximum","Hard","48.8%","75.0%","Arrays","Sorting / Prefix / Scan; Sliding Window","High","Must revise; common company/OA pattern."
+"128","https://leetcode.com/problems/longest-consecutive-sequence","Longest Consecutive Sequence","Medium","47.1%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"176","https://leetcode.com/problems/second-highest-salary","Second Highest Salary","Medium","47.0%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"33","https://leetcode.com/problems/search-in-rotated-sorted-array","Search in Rotated Sorted Array","Medium","44.9%","75.0%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","High","Must revise; common company/OA pattern."
+"193","https://leetcode.com/problems/valid-phone-numbers","Valid Phone Numbers","Easy","29.7%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."

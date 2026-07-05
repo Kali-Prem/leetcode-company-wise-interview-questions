@@ -1,10 +1,10 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2571,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,Minimum Operations to Reduce an Integer to 0,Medium,62.4%,100.0%
-443,https://leetcode.com/problems/string-compression,String Compression,Medium,60.0%,62.5%
-2380,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string,Time Needed to Rearrange a Binary String,Medium,53.0%,100.0%
-3035,https://leetcode.com/problems/maximum-palindromes-after-operations,Maximum Palindromes After Operations,Medium,46.5%,100.0%
-3634,https://leetcode.com/problems/minimum-removals-to-balance-array,Minimum Removals to Balance Array,Medium,47.9%,75.0%
-460,https://leetcode.com/problems/lfu-cache,LFU Cache,Hard,49.2%,75.0%
-664,https://leetcode.com/problems/strange-printer,Strange Printer,Hard,60.9%,62.5%
-628,https://leetcode.com/problems/maximum-product-of-three-numbers,Maximum Product of Three Numbers,Easy,45.9%,62.5%
-210,https://leetcode.com/problems/course-schedule-ii,Course Schedule II,Medium,55.5%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2571","https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0","Minimum Operations to Reduce an Integer to 0","Medium","62.4%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"443","https://leetcode.com/problems/string-compression","String Compression","Medium","60.0%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"2380","https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string","Time Needed to Rearrange a Binary String","Medium","53.0%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"3035","https://leetcode.com/problems/maximum-palindromes-after-operations","Maximum Palindromes After Operations","Medium","46.5%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"3634","https://leetcode.com/problems/minimum-removals-to-balance-array","Minimum Removals to Balance Array","Medium","47.9%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"460","https://leetcode.com/problems/lfu-cache","LFU Cache","Hard","49.2%","75.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"664","https://leetcode.com/problems/strange-printer","Strange Printer","Hard","60.9%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"628","https://leetcode.com/problems/maximum-product-of-three-numbers","Maximum Product of Three Numbers","Easy","45.9%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"210","https://leetcode.com/problems/course-schedule-ii","Course Schedule II","Medium","55.5%","62.5%","Graphs","BFS / DFS / Topological Sort","Medium","Practice after high-priority questions; useful interview pattern."

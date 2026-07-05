@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-49,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,72.6%,100.0%
-124,https://leetcode.com/problems/binary-tree-maximum-path-sum,Binary Tree Maximum Path Sum,Hard,42.3%,75.0%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,87.5%
-289,https://leetcode.com/problems/game-of-life,Game of Life,Medium,72.6%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"49","https://leetcode.com/problems/group-anagrams","Group Anagrams","Medium","72.6%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"124","https://leetcode.com/problems/binary-tree-maximum-path-sum","Binary Tree Maximum Path Sum","Hard","42.3%","75.0%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"289","https://leetcode.com/problems/game-of-life","Game of Life","Medium","72.6%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

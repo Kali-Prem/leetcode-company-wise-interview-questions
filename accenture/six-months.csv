@@ -1,10 +1,10 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,87.5%
-3432,https://leetcode.com/problems/count-partitions-with-even-sum-difference,Count Partitions with Even Sum Difference,Easy,85.3%,100.0%
-70,https://leetcode.com/problems/climbing-stairs,Climbing Stairs,Easy,54.1%,87.5%
-3779,https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements,Minimum Number of Operations to Have Distinct Elements,Medium,42.4%,75.0%
-560,https://leetcode.com/problems/subarray-sum-equals-k,Subarray Sum Equals K,Medium,47.3%,100.0%
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,75.0%
-15,https://leetcode.com/problems/3sum,3Sum,Medium,39.1%,75.0%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,75.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","87.5%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"3432","https://leetcode.com/problems/count-partitions-with-even-sum-difference","Count Partitions with Even Sum Difference","Easy","85.3%","100.0%","Arrays; Dynamic Programming","Sorting / Prefix / Scan; State Transition","High","Must revise; common company/OA pattern."
+"70","https://leetcode.com/problems/climbing-stairs","Climbing Stairs","Easy","54.1%","87.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"3779","https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements","Minimum Number of Operations to Have Distinct Elements","Medium","42.4%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"560","https://leetcode.com/problems/subarray-sum-equals-k","Subarray Sum Equals K","Medium","47.3%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","75.0%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."
+"15","https://leetcode.com/problems/3sum","3Sum","Medium","39.1%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

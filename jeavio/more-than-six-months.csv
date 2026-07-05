@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2027,https://leetcode.com/problems/minimum-moves-to-convert-string,Minimum Moves to Convert String,Easy,58.0%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2027","https://leetcode.com/problems/minimum-moves-to-convert-string","Minimum Moves to Convert String","Easy","58.0%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

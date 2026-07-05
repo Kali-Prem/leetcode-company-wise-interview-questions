@@ -1,8 +1,8 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-968,https://leetcode.com/problems/binary-tree-cameras,Binary Tree Cameras,Hard,47.9%,87.5%
-179,https://leetcode.com/problems/largest-number,Largest Number,Medium,43.1%,87.5%
-841,https://leetcode.com/problems/keys-and-rooms,Keys and Rooms,Medium,75.8%,87.5%
-91,https://leetcode.com/problems/decode-ways,Decode Ways,Medium,38.0%,87.5%
-2603,https://leetcode.com/problems/collect-coins-in-a-tree,Collect Coins in a Tree,Hard,40.1%,87.5%
-542,https://leetcode.com/problems/01-matrix,01 Matrix,Medium,53.9%,100.0%
-207,https://leetcode.com/problems/course-schedule,Course Schedule,Medium,51.4%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"968","https://leetcode.com/problems/binary-tree-cameras","Binary Tree Cameras","Hard","47.9%","87.5%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"179","https://leetcode.com/problems/largest-number","Largest Number","Medium","43.1%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"841","https://leetcode.com/problems/keys-and-rooms","Keys and Rooms","Medium","75.8%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"91","https://leetcode.com/problems/decode-ways","Decode Ways","Medium","38.0%","87.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"2603","https://leetcode.com/problems/collect-coins-in-a-tree","Collect Coins in a Tree","Hard","40.1%","87.5%","Trees; Dynamic Programming","DFS / BFS; State Transition","High","Must revise; common company/OA pattern."
+"542","https://leetcode.com/problems/01-matrix","01 Matrix","Medium","53.9%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"207","https://leetcode.com/problems/course-schedule","Course Schedule","Medium","51.4%","87.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."

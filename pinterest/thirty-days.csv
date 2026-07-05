@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1055,https://leetcode.com/problems/shortest-way-to-form-string,Shortest Way to Form String,Medium,61.7%,100.0%
-282,https://leetcode.com/problems/expression-add-operators,Expression Add Operators,Hard,43.2%,100.0%
-1564,https://leetcode.com/problems/put-boxes-into-the-warehouse-i,Put Boxes Into the Warehouse I,Medium,67.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1055","https://leetcode.com/problems/shortest-way-to-form-string","Shortest Way to Form String","Medium","61.7%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"282","https://leetcode.com/problems/expression-add-operators","Expression Add Operators","Hard","43.2%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1564","https://leetcode.com/problems/put-boxes-into-the-warehouse-i","Put Boxes Into the Warehouse I","Medium","67.5%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

@@ -1,8 +1,8 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-323,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,Number of Connected Components in an Undirected Graph,Medium,65.0%,100.0%
-64,https://leetcode.com/problems/minimum-path-sum,Minimum Path Sum,Medium,68.2%,62.5%
-1637,https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points,Widest Vertical Area Between Two Points Containing No Points,Easy,87.1%,50.0%
-1570,https://leetcode.com/problems/dot-product-of-two-sparse-vectors,Dot Product of Two Sparse Vectors,Medium,89.9%,50.0%
-41,https://leetcode.com/problems/first-missing-positive,First Missing Positive,Hard,42.9%,50.0%
-208,https://leetcode.com/problems/implement-trie-prefix-tree,Implement Trie (Prefix Tree),Medium,69.5%,62.5%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,50.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"323","https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph","Number of Connected Components in an Undirected Graph","Medium","65.0%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"64","https://leetcode.com/problems/minimum-path-sum","Minimum Path Sum","Medium","68.2%","62.5%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"1637","https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points","Widest Vertical Area Between Two Points Containing No Points","Easy","87.1%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"1570","https://leetcode.com/problems/dot-product-of-two-sparse-vectors","Dot Product of Two Sparse Vectors","Medium","89.9%","50.0%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"41","https://leetcode.com/problems/first-missing-positive","First Missing Positive","Hard","42.9%","50.0%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"208","https://leetcode.com/problems/implement-trie-prefix-tree","Implement Trie (Prefix Tree)","Medium","69.5%","62.5%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","50.0%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."

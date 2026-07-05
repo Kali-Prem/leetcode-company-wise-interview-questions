@@ -1,7 +1,7 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-9,https://leetcode.com/problems/palindrome-number,Palindrome Number,Easy,60.6%,87.5%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,75.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,75.0%
-88,https://leetcode.com/problems/merge-sorted-array,Merge Sorted Array,Easy,54.9%,87.5%
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,100.0%
-175,https://leetcode.com/problems/combine-two-tables,Combine Two Tables,Easy,79.5%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"9","https://leetcode.com/problems/palindrome-number","Palindrome Number","Easy","60.6%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","75.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"88","https://leetcode.com/problems/merge-sorted-array","Merge Sorted Array","Easy","54.9%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"175","https://leetcode.com/problems/combine-two-tables","Combine Two Tables","Easy","79.5%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

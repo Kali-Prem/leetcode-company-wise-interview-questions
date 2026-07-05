@@ -1,7 +1,7 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-362,https://leetcode.com/problems/design-hit-counter,Design Hit Counter,Medium,69.7%,100.0%
-348,https://leetcode.com/problems/design-tic-tac-toe,Design Tic-Tac-Toe,Medium,58.7%,75.0%
-751,https://leetcode.com/problems/ip-to-cidr,IP to CIDR,Medium,53.6%,100.0%
-438,https://leetcode.com/problems/find-all-anagrams-in-a-string,Find All Anagrams in a String,Medium,53.8%,100.0%
-981,https://leetcode.com/problems/time-based-key-value-store,Time Based Key-Value Store,Medium,49.9%,75.0%
-900,https://leetcode.com/problems/rle-iterator,RLE Iterator,Medium,59.3%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"362","https://leetcode.com/problems/design-hit-counter","Design Hit Counter","Medium","69.7%","100.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"348","https://leetcode.com/problems/design-tic-tac-toe","Design Tic-Tac-Toe","Medium","58.7%","75.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"751","https://leetcode.com/problems/ip-to-cidr","IP to CIDR","Medium","53.6%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"438","https://leetcode.com/problems/find-all-anagrams-in-a-string","Find All Anagrams in a String","Medium","53.8%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"981","https://leetcode.com/problems/time-based-key-value-store","Time Based Key-Value Store","Medium","49.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"900","https://leetcode.com/problems/rle-iterator","RLE Iterator","Medium","59.3%","75.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."

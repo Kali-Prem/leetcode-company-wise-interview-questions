@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-660,https://leetcode.com/problems/remove-9,Remove 9,Hard,57.5%,100.0%
-772,https://leetcode.com/problems/basic-calculator-iii,Basic Calculator III,Hard,53.3%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"660","https://leetcode.com/problems/remove-9","Remove 9","Hard","57.5%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"772","https://leetcode.com/problems/basic-calculator-iii","Basic Calculator III","Hard","53.3%","100.0%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."

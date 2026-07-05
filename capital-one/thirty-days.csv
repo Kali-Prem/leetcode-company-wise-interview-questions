@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2672,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Number of Adjacent Elements With the Same Color,Medium,59.6%,87.5%
-3043,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,Find the Length of the Longest Common Prefix,Medium,62.2%,100.0%
-257,https://leetcode.com/problems/binary-tree-paths,Binary Tree Paths,Easy,68.7%,87.5%
-68,https://leetcode.com/problems/text-justification,Text Justification,Hard,51.2%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2672","https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color","Number of Adjacent Elements With the Same Color","Medium","59.6%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"3043","https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix","Find the Length of the Longest Common Prefix","Medium","62.2%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"257","https://leetcode.com/problems/binary-tree-paths","Binary Tree Paths","Easy","68.7%","87.5%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"68","https://leetcode.com/problems/text-justification","Text Justification","Hard","51.2%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

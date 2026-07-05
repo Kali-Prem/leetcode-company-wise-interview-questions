@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1974,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter,Minimum Time to Type Word Using Special Typewriter,Easy,78.7%,100.0%
-1839,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order,Longest Substring Of All Vowels in Order,Medium,51.8%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1974","https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter","Minimum Time to Type Word Using Special Typewriter","Easy","78.7%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1839","https://leetcode.com/problems/longest-substring-of-all-vowels-in-order","Longest Substring Of All Vowels in Order","Medium","51.8%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."

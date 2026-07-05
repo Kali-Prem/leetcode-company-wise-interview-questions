@@ -1,18 +1,18 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,87.5%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,100.0%
-394,https://leetcode.com/problems/decode-string,Decode String,Medium,62.6%,87.5%
-2617,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,Minimum Number of Visited Cells in a Grid,Hard,23.9%,75.0%
-1702,https://leetcode.com/problems/maximum-binary-string-after-change,Maximum Binary String After Change,Medium,47.6%,75.0%
-22,https://leetcode.com/problems/generate-parentheses,Generate Parentheses,Medium,78.7%,100.0%
-21,https://leetcode.com/problems/merge-two-sorted-lists,Merge Two Sorted Lists,Easy,68.3%,75.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,87.5%
-11,https://leetcode.com/problems/container-with-most-water,Container With Most Water,Medium,60.0%,75.0%
-53,https://leetcode.com/problems/maximum-subarray,Maximum Subarray,Medium,53.3%,75.0%
-51,https://leetcode.com/problems/n-queens,N-Queens,Hard,75.5%,75.0%
-23,https://leetcode.com/problems/merge-k-sorted-lists,Merge k Sorted Lists,Hard,59.6%,75.0%
-402,https://leetcode.com/problems/remove-k-digits,Remove K Digits,Medium,36.9%,75.0%
-141,https://leetcode.com/problems/linked-list-cycle,Linked List Cycle,Easy,54.3%,75.0%
-300,https://leetcode.com/problems/longest-increasing-subsequence,Longest Increasing Subsequence,Medium,59.4%,87.5%
-42,https://leetcode.com/problems/trapping-rain-water,Trapping Rain Water,Hard,67.4%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"394","https://leetcode.com/problems/decode-string","Decode String","Medium","62.6%","87.5%","Strings; Dynamic Programming; Stack / Queue","Hashing / Sliding Window; State Transition; Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"2617","https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid","Minimum Number of Visited Cells in a Grid","Hard","23.9%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1702","https://leetcode.com/problems/maximum-binary-string-after-change","Maximum Binary String After Change","Medium","47.6%","75.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"22","https://leetcode.com/problems/generate-parentheses","Generate Parentheses","Medium","78.7%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"21","https://leetcode.com/problems/merge-two-sorted-lists","Merge Two Sorted Lists","Easy","68.3%","75.0%","Arrays; Linked List","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","87.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"11","https://leetcode.com/problems/container-with-most-water","Container With Most Water","Medium","60.0%","75.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"53","https://leetcode.com/problems/maximum-subarray","Maximum Subarray","Medium","53.3%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"51","https://leetcode.com/problems/n-queens","N-Queens","Hard","75.5%","75.0%","Backtracking","Backtracking","High","Must revise; common company/OA pattern."
+"23","https://leetcode.com/problems/merge-k-sorted-lists","Merge k Sorted Lists","Hard","59.6%","75.0%","Arrays; Linked List; Heap","Sorting / Prefix / Scan; Two Pointers; Priority Queue","High","Must revise; common company/OA pattern."
+"402","https://leetcode.com/problems/remove-k-digits","Remove K Digits","Medium","36.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"141","https://leetcode.com/problems/linked-list-cycle","Linked List Cycle","Easy","54.3%","75.0%","Linked List","Two Pointers","High","Must revise; common company/OA pattern."
+"300","https://leetcode.com/problems/longest-increasing-subsequence","Longest Increasing Subsequence","Medium","59.4%","87.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"42","https://leetcode.com/problems/trapping-rain-water","Trapping Rain Water","Hard","67.4%","75.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."

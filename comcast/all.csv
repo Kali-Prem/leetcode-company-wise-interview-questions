@@ -1,7 +1,7 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,75.0%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,75.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,87.5%
-125,https://leetcode.com/problems/valid-palindrome,Valid Palindrome,Easy,53.3%,75.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","75.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","75.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"125","https://leetcode.com/problems/valid-palindrome","Valid Palindrome","Easy","53.3%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."

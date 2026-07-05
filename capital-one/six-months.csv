@@ -1,18 +1,18 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2043,https://leetcode.com/problems/simple-bank-system,Simple Bank System,Medium,69.7%,87.5%
-68,https://leetcode.com/problems/text-justification,Text Justification,Hard,51.2%,100.0%
-723,https://leetcode.com/problems/candy-crush,Candy Crush,Medium,77.4%,87.5%
-3043,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,Find the Length of the Longest Common Prefix,Medium,62.2%,87.5%
-1743,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,Restore the Array From Adjacent Pairs,Medium,75.0%,100.0%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,62.5%
-896,https://leetcode.com/problems/monotonic-array,Monotonic Array,Easy,62.3%,62.5%
-2502,https://leetcode.com/problems/design-memory-allocator,Design Memory Allocator,Medium,50.1%,87.5%
-2672,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Number of Adjacent Elements With the Same Color,Medium,59.6%,87.5%
-2141,https://leetcode.com/problems/maximum-running-time-of-n-computers,Maximum Running Time of N Computers,Hard,56.5%,62.5%
-2817,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint,Minimum Absolute Difference Between Elements With Constraint,Medium,37.7%,62.5%
-647,https://leetcode.com/problems/palindromic-substrings,Palindromic Substrings,Medium,72.8%,62.5%
-3072,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii,Distribute Elements Into Two Arrays II,Hard,30.7%,62.5%
-54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,56.8%,62.5%
-2023,https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target,Number of Pairs of Strings With Concatenation Equal to Target,Medium,75.4%,62.5%
-3019,https://leetcode.com/problems/number-of-changing-keys,Number of Changing Keys,Easy,80.7%,62.5%
-257,https://leetcode.com/problems/binary-tree-paths,Binary Tree Paths,Easy,68.7%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2043","https://leetcode.com/problems/simple-bank-system","Simple Bank System","Medium","69.7%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"68","https://leetcode.com/problems/text-justification","Text Justification","Hard","51.2%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"723","https://leetcode.com/problems/candy-crush","Candy Crush","Medium","77.4%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"3043","https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix","Find the Length of the Longest Common Prefix","Medium","62.2%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1743","https://leetcode.com/problems/restore-the-array-from-adjacent-pairs","Restore the Array From Adjacent Pairs","Medium","75.0%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","62.5%","Graphs","BFS / DFS / Topological Sort","Medium","Practice after high-priority questions; useful interview pattern."
+"896","https://leetcode.com/problems/monotonic-array","Monotonic Array","Easy","62.3%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"2502","https://leetcode.com/problems/design-memory-allocator","Design Memory Allocator","Medium","50.1%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"2672","https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color","Number of Adjacent Elements With the Same Color","Medium","59.6%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2141","https://leetcode.com/problems/maximum-running-time-of-n-computers","Maximum Running Time of N Computers","Hard","56.5%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"2817","https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint","Minimum Absolute Difference Between Elements With Constraint","Medium","37.7%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"647","https://leetcode.com/problems/palindromic-substrings","Palindromic Substrings","Medium","72.8%","62.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"3072","https://leetcode.com/problems/distribute-elements-into-two-arrays-ii","Distribute Elements Into Two Arrays II","Hard","30.7%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"54","https://leetcode.com/problems/spiral-matrix","Spiral Matrix","Medium","56.8%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"2023","https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target","Number of Pairs of Strings With Concatenation Equal to Target","Medium","75.4%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"3019","https://leetcode.com/problems/number-of-changing-keys","Number of Changing Keys","Easy","80.7%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"257","https://leetcode.com/problems/binary-tree-paths","Binary Tree Paths","Easy","68.7%","62.5%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."

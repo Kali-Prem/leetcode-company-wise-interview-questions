@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-968,https://leetcode.com/problems/binary-tree-cameras,Binary Tree Cameras,Hard,47.9%,100.0%
-316,https://leetcode.com/problems/remove-duplicate-letters,Remove Duplicate Letters,Medium,53.2%,75.0%
-1642,https://leetcode.com/problems/furthest-building-you-can-reach,Furthest Building You Can Reach,Medium,50.9%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"968","https://leetcode.com/problems/binary-tree-cameras","Binary Tree Cameras","Hard","47.9%","100.0%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"316","https://leetcode.com/problems/remove-duplicate-letters","Remove Duplicate Letters","Medium","53.2%","75.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1642","https://leetcode.com/problems/furthest-building-you-can-reach","Furthest Building You Can Reach","Medium","50.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

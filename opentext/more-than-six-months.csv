@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-2264,https://leetcode.com/problems/largest-3-same-digit-number-in-string,Largest 3-Same-Digit Number in String,Easy,72.7%,87.5%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,100.0%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,87.5%
-14,https://leetcode.com/problems/longest-common-prefix,Longest Common Prefix,Easy,47.6%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"2264","https://leetcode.com/problems/largest-3-same-digit-number-in-string","Largest 3-Same-Digit Number in String","Easy","72.7%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","87.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"14","https://leetcode.com/problems/longest-common-prefix","Longest Common Prefix","Easy","47.6%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

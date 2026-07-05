@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-14,https://leetcode.com/problems/longest-common-prefix,Longest Common Prefix,Easy,47.6%,100.0%
-23,https://leetcode.com/problems/merge-k-sorted-lists,Merge k Sorted Lists,Hard,59.6%,75.0%
-134,https://leetcode.com/problems/gas-station,Gas Station,Medium,48.0%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"14","https://leetcode.com/problems/longest-common-prefix","Longest Common Prefix","Easy","47.6%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"23","https://leetcode.com/problems/merge-k-sorted-lists","Merge k Sorted Lists","Hard","59.6%","75.0%","Arrays; Linked List; Heap","Sorting / Prefix / Scan; Two Pointers; Priority Queue","High","Must revise; common company/OA pattern."
+"134","https://leetcode.com/problems/gas-station","Gas Station","Medium","48.0%","100.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."

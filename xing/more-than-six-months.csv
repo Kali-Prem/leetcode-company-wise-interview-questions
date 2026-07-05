@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1901,https://leetcode.com/problems/find-a-peak-element-ii,Find a Peak Element II,Medium,54.8%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1901","https://leetcode.com/problems/find-a-peak-element-ii","Find a Peak Element II","Medium","54.8%","100.0%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."

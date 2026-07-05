@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,100.0%
-128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,47.1%,87.5%
-234,https://leetcode.com/problems/palindrome-linked-list,Palindrome Linked List,Easy,58.0%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","100.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"128","https://leetcode.com/problems/longest-consecutive-sequence","Longest Consecutive Sequence","Medium","47.1%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"234","https://leetcode.com/problems/palindrome-linked-list","Palindrome Linked List","Easy","58.0%","87.5%","Strings; Linked List","Hashing / Sliding Window; Two Pointers","High","Must revise; common company/OA pattern."

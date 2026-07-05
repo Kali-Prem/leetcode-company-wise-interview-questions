@@ -1,16 +1,16 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-71,https://leetcode.com/problems/simplify-path,Simplify Path,Medium,50.6%,75.0%
-631,https://leetcode.com/problems/design-excel-sum-formula,Design Excel Sum Formula,Hard,39.7%,75.0%
-1242,https://leetcode.com/problems/web-crawler-multithreaded,Web Crawler Multithreaded,Medium,51.2%,50.0%
-2408,https://leetcode.com/problems/design-sql,Design SQL,Medium,64.2%,100.0%
-981,https://leetcode.com/problems/time-based-key-value-store,Time Based Key-Value Store,Medium,49.9%,75.0%
-341,https://leetcode.com/problems/flatten-nested-list-iterator,Flatten Nested List Iterator,Medium,65.7%,87.5%
-271,https://leetcode.com/problems/encode-and-decode-strings,Encode and Decode Strings,Medium,51.6%,87.5%
-2502,https://leetcode.com/problems/design-memory-allocator,Design Memory Allocator,Medium,50.1%,87.5%
-2373,https://leetcode.com/problems/largest-local-values-in-a-matrix,Largest Local Values in a Matrix,Easy,87.7%,50.0%
-735,https://leetcode.com/problems/asteroid-collision,Asteroid Collision,Medium,47.9%,50.0%
-751,https://leetcode.com/problems/ip-to-cidr,IP to CIDR,Medium,53.6%,75.0%
-42,https://leetcode.com/problems/trapping-rain-water,Trapping Rain Water,Hard,67.4%,50.0%
-3484,https://leetcode.com/problems/design-spreadsheet,Design Spreadsheet,Medium,74.1%,50.0%
-994,https://leetcode.com/problems/rotting-oranges,Rotting Oranges,Medium,58.7%,75.0%
-362,https://leetcode.com/problems/design-hit-counter,Design Hit Counter,Medium,69.7%,50.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"71","https://leetcode.com/problems/simplify-path","Simplify Path","Medium","50.6%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"631","https://leetcode.com/problems/design-excel-sum-formula","Design Excel Sum Formula","Hard","39.7%","75.0%","Arrays; Design","Sorting / Prefix / Scan; Data Structure Design","High","Must revise; common company/OA pattern."
+"1242","https://leetcode.com/problems/web-crawler-multithreaded","Web Crawler Multithreaded","Medium","51.2%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"2408","https://leetcode.com/problems/design-sql","Design SQL","Medium","64.2%","100.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"981","https://leetcode.com/problems/time-based-key-value-store","Time Based Key-Value Store","Medium","49.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"341","https://leetcode.com/problems/flatten-nested-list-iterator","Flatten Nested List Iterator","Medium","65.7%","87.5%","Linked List; Design","Two Pointers; Data Structure Design","High","Must revise; common company/OA pattern."
+"271","https://leetcode.com/problems/encode-and-decode-strings","Encode and Decode Strings","Medium","51.6%","87.5%","Strings; Dynamic Programming; Stack / Queue","Hashing / Sliding Window; State Transition; Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"2502","https://leetcode.com/problems/design-memory-allocator","Design Memory Allocator","Medium","50.1%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"2373","https://leetcode.com/problems/largest-local-values-in-a-matrix","Largest Local Values in a Matrix","Easy","87.7%","50.0%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"735","https://leetcode.com/problems/asteroid-collision","Asteroid Collision","Medium","47.9%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"751","https://leetcode.com/problems/ip-to-cidr","IP to CIDR","Medium","53.6%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"42","https://leetcode.com/problems/trapping-rain-water","Trapping Rain Water","Hard","67.4%","50.0%","Core DSA","Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"3484","https://leetcode.com/problems/design-spreadsheet","Design Spreadsheet","Medium","74.1%","50.0%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"994","https://leetcode.com/problems/rotting-oranges","Rotting Oranges","Medium","58.7%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"362","https://leetcode.com/problems/design-hit-counter","Design Hit Counter","Medium","69.7%","50.0%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."

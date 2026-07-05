@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-3014,https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i,Minimum Number of Pushes to Type Word I,Easy,67.1%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"3014","https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i","Minimum Number of Pushes to Type Word I","Easy","67.1%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

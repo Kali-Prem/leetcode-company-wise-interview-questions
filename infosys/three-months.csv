@@ -1,17 +1,17 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,100.0%
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,87.5%
-53,https://leetcode.com/problems/maximum-subarray,Maximum Subarray,Medium,53.3%,87.5%
-3666,https://leetcode.com/problems/minimum-operations-to-equalize-binary-string,Minimum Operations to Equalize Binary String,Hard,45.1%,75.0%
-322,https://leetcode.com/problems/coin-change,Coin Change,Medium,48.4%,87.5%
-46,https://leetcode.com/problems/permutations,Permutations,Medium,81.9%,75.0%
-12,https://leetcode.com/problems/integer-to-roman,Integer to Roman,Medium,71.0%,75.0%
-7,https://leetcode.com/problems/reverse-integer,Reverse Integer,Medium,31.9%,75.0%
-176,https://leetcode.com/problems/second-highest-salary,Second Highest Salary,Medium,47.0%,87.5%
-75,https://leetcode.com/problems/sort-colors,Sort Colors,Medium,69.6%,75.0%
-283,https://leetcode.com/problems/move-zeroes,Move Zeroes,Easy,63.8%,75.0%
-319,https://leetcode.com/problems/bulb-switcher,Bulb Switcher,Medium,55.9%,75.0%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,87.5%
-49,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,72.6%,75.0%
-155,https://leetcode.com/problems/min-stack,Min Stack,Medium,58.2%,75.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","87.5%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"53","https://leetcode.com/problems/maximum-subarray","Maximum Subarray","Medium","53.3%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"3666","https://leetcode.com/problems/minimum-operations-to-equalize-binary-string","Minimum Operations to Equalize Binary String","Hard","45.1%","75.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"322","https://leetcode.com/problems/coin-change","Coin Change","Medium","48.4%","87.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"46","https://leetcode.com/problems/permutations","Permutations","Medium","81.9%","75.0%","Backtracking","Backtracking","High","Must revise; common company/OA pattern."
+"12","https://leetcode.com/problems/integer-to-roman","Integer to Roman","Medium","71.0%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"7","https://leetcode.com/problems/reverse-integer","Reverse Integer","Medium","31.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"176","https://leetcode.com/problems/second-highest-salary","Second Highest Salary","Medium","47.0%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"75","https://leetcode.com/problems/sort-colors","Sort Colors","Medium","69.6%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"283","https://leetcode.com/problems/move-zeroes","Move Zeroes","Easy","63.8%","75.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"319","https://leetcode.com/problems/bulb-switcher","Bulb Switcher","Medium","55.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","87.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"49","https://leetcode.com/problems/group-anagrams","Group Anagrams","Medium","72.6%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"155","https://leetcode.com/problems/min-stack","Min Stack","Medium","58.2%","75.0%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

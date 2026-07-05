@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-68,https://leetcode.com/problems/text-justification,Text Justification,Hard,51.2%,100.0%
-1258,https://leetcode.com/problems/synonymous-sentences,Synonymous Sentences,Medium,57.3%,87.5%
-140,https://leetcode.com/problems/word-break-ii,Word Break II,Hard,55.6%,87.5%
-3076,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,Shortest Uncommon Substring in an Array,Medium,50.6%,100.0%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"68","https://leetcode.com/problems/text-justification","Text Justification","Hard","51.2%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1258","https://leetcode.com/problems/synonymous-sentences","Synonymous Sentences","Medium","57.3%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"140","https://leetcode.com/problems/word-break-ii","Word Break II","Hard","55.6%","87.5%","Strings; Dynamic Programming","Hashing / Sliding Window; State Transition","High","Must revise; common company/OA pattern."
+"3076","https://leetcode.com/problems/shortest-uncommon-substring-in-an-array","Shortest Uncommon Substring in an Array","Medium","50.6%","100.0%","Arrays; Strings; Trees","Sorting / Prefix / Scan; Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."

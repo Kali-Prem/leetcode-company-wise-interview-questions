@@ -1,159 +1,159 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,75.0%
-2,https://leetcode.com/problems/add-two-numbers,Add Two Numbers,Medium,48.5%,87.5%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,87.5%
-9,https://leetcode.com/problems/palindrome-number,Palindrome Number,Easy,60.6%,50.0%
-14,https://leetcode.com/problems/longest-common-prefix,Longest Common Prefix,Easy,47.6%,75.0%
-4,https://leetcode.com/problems/median-of-two-sorted-arrays,Median of Two Sorted Arrays,Hard,46.6%,62.5%
-22,https://leetcode.com/problems/generate-parentheses,Generate Parentheses,Medium,78.7%,75.0%
-26,https://leetcode.com/problems/remove-duplicates-from-sorted-array,Remove Duplicates from Sorted Array,Easy,62.8%,62.5%
-42,https://leetcode.com/problems/trapping-rain-water,Trapping Rain Water,Hard,67.4%,75.0%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,87.5%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,75.0%
-560,https://leetcode.com/problems/subarray-sum-equals-k,Subarray Sum Equals K,Medium,47.3%,62.5%
-1396,https://leetcode.com/problems/design-underground-system,Design Underground System,Medium,74.5%,62.5%
-7,https://leetcode.com/problems/reverse-integer,Reverse Integer,Medium,31.9%,37.5%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,62.5%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,75.0%
-79,https://leetcode.com/problems/word-search,Word Search,Medium,47.4%,75.0%
-1169,https://leetcode.com/problems/invalid-transactions,Invalid Transactions,Medium,32.3%,62.5%
-21,https://leetcode.com/problems/merge-two-sorted-lists,Merge Two Sorted Lists,Easy,68.3%,75.0%
-242,https://leetcode.com/problems/valid-anagram,Valid Anagram,Easy,68.1%,62.5%
-430,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list,Flatten a Multilevel Doubly Linked List,Medium,62.9%,75.0%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,87.5%
-380,https://leetcode.com/problems/insert-delete-getrandom-o1,Insert Delete GetRandom O(1),Medium,55.4%,87.5%
-13,https://leetcode.com/problems/roman-to-integer,Roman to Integer,Easy,66.6%,50.0%
-33,https://leetcode.com/problems/search-in-rotated-sorted-array,Search in Rotated Sorted Array,Medium,44.9%,62.5%
-140,https://leetcode.com/problems/word-break-ii,Word Break II,Hard,55.6%,50.0%
-8,https://leetcode.com/problems/string-to-integer-atoi,String to Integer (atoi),Medium,21.0%,37.5%
-70,https://leetcode.com/problems/climbing-stairs,Climbing Stairs,Easy,54.1%,75.0%
-15,https://leetcode.com/problems/3sum,3Sum,Medium,39.1%,75.0%
-238,https://leetcode.com/problems/product-of-array-except-self,Product of Array Except Self,Medium,68.9%,37.5%
-66,https://leetcode.com/problems/plus-one,Plus One,Easy,50.0%,37.5%
-54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,56.8%,37.5%
-49,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,72.6%,87.5%
-11,https://leetcode.com/problems/container-with-most-water,Container With Most Water,Medium,60.0%,37.5%
-283,https://leetcode.com/problems/move-zeroes,Move Zeroes,Easy,63.8%,62.5%
-399,https://leetcode.com/problems/evaluate-division,Evaluate Division,Medium,64.2%,50.0%
-155,https://leetcode.com/problems/min-stack,Min Stack,Medium,58.2%,50.0%
-322,https://leetcode.com/problems/coin-change,Coin Change,Medium,48.4%,62.5%
-50,https://leetcode.com/problems/powx-n,"Pow(x, n)",Medium,38.7%,62.5%
-253,https://leetcode.com/problems/meeting-rooms-ii,Meeting Rooms II,Medium,52.7%,87.5%
-1387,https://leetcode.com/problems/sort-integers-by-the-power-value,Sort Integers by The Power Value,Medium,71.7%,50.0%
-88,https://leetcode.com/problems/merge-sorted-array,Merge Sorted Array,Easy,54.9%,62.5%
-797,https://leetcode.com/problems/all-paths-from-source-to-target,All Paths From Source to Target,Medium,83.6%,50.0%
-394,https://leetcode.com/problems/decode-string,Decode String,Medium,62.6%,75.0%
-496,https://leetcode.com/problems/next-greater-element-i,Next Greater Element I,Easy,76.1%,50.0%
-1274,https://leetcode.com/problems/number-of-ships-in-a-rectangle,Number of Ships in a Rectangle,Hard,68.9%,62.5%
-1244,https://leetcode.com/problems/design-a-leaderboard,Design A Leaderboard,Medium,68.1%,50.0%
-69,https://leetcode.com/problems/sqrtx,Sqrt(x),Easy,41.8%,62.5%
-994,https://leetcode.com/problems/rotting-oranges,Rotting Oranges,Medium,58.7%,50.0%
-704,https://leetcode.com/problems/binary-search,Binary Search,Easy,60.9%,37.5%
-1656,https://leetcode.com/problems/design-an-ordered-stream,Design an Ordered Stream,Easy,82.7%,50.0%
-127,https://leetcode.com/problems/word-ladder,Word Ladder,Hard,45.6%,50.0%
-67,https://leetcode.com/problems/add-binary,Add Binary,Easy,58.1%,37.5%
-75,https://leetcode.com/problems/sort-colors,Sort Colors,Medium,69.6%,62.5%
-739,https://leetcode.com/problems/daily-temperatures,Daily Temperatures,Medium,68.7%,37.5%
-74,https://leetcode.com/problems/search-a-2d-matrix,Search a 2D Matrix,Medium,53.9%,37.5%
-17,https://leetcode.com/problems/letter-combinations-of-a-phone-number,Letter Combinations of a Phone Number,Medium,66.1%,50.0%
-139,https://leetcode.com/problems/word-break,Word Break,Medium,49.5%,62.5%
-18,https://leetcode.com/problems/4sum,4Sum,Medium,40.6%,62.5%
-61,https://leetcode.com/problems/rotate-list,Rotate List,Medium,42.6%,37.5%
-128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,47.1%,75.0%
-136,https://leetcode.com/problems/single-number,Single Number,Easy,77.7%,37.5%
-27,https://leetcode.com/problems/remove-element,Remove Element,Easy,61.8%,62.5%
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,62.5%
-175,https://leetcode.com/problems/combine-two-tables,Combine Two Tables,Easy,79.5%,37.5%
-347,https://leetcode.com/problems/top-k-frequent-elements,Top K Frequent Elements,Medium,66.4%,50.0%
-1583,https://leetcode.com/problems/count-unhappy-friends,Count Unhappy Friends,Medium,62.5%,50.0%
-55,https://leetcode.com/problems/jump-game,Jump Game,Medium,40.9%,37.5%
-100,https://leetcode.com/problems/same-tree,Same Tree,Easy,67.1%,37.5%
-125,https://leetcode.com/problems/valid-palindrome,Valid Palindrome,Easy,53.3%,62.5%
-169,https://leetcode.com/problems/majority-element,Majority Element,Easy,66.3%,37.5%
-217,https://leetcode.com/problems/contains-duplicate,Contains Duplicate,Easy,64.4%,50.0%
-611,https://leetcode.com/problems/valid-triangle-number,Valid Triangle Number,Medium,56.9%,37.5%
-547,https://leetcode.com/problems/number-of-provinces,Number of Provinces,Medium,70.4%,37.5%
-167,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted,Two Sum II - Input Array Is Sorted,Medium,65.1%,50.0%
-435,https://leetcode.com/problems/non-overlapping-intervals,Non-overlapping Intervals,Medium,57.1%,37.5%
-387,https://leetcode.com/problems/first-unique-character-in-a-string,First Unique Character in a String,Easy,65.5%,62.5%
-234,https://leetcode.com/problems/palindrome-linked-list,Palindrome Linked List,Easy,58.0%,50.0%
-424,https://leetcode.com/problems/longest-repeating-character-replacement,Longest Repeating Character Replacement,Medium,59.7%,75.0%
-1029,https://leetcode.com/problems/two-city-scheduling,Two City Scheduling,Medium,68.5%,50.0%
-1480,https://leetcode.com/problems/running-sum-of-1d-array,Running Sum of 1d Array,Easy,86.9%,37.5%
-142,https://leetcode.com/problems/linked-list-cycle-ii,Linked List Cycle II,Medium,57.9%,37.5%
-933,https://leetcode.com/problems/number-of-recent-calls,Number of Recent Calls,Easy,78.5%,62.5%
-2667,https://leetcode.com/problems/create-hello-world-function,Create Hello World Function,Easy,81.9%,62.5%
-3848,https://leetcode.com/problems/check-digitorial-permutation,Check Digitorial Permutation,Medium,46.7%,37.5%
-138,https://leetcode.com/problems/copy-list-with-random-pointer,Copy List with Random Pointer,Medium,62.9%,62.5%
-503,https://leetcode.com/problems/next-greater-element-ii,Next Greater Element II,Medium,68.4%,37.5%
-101,https://leetcode.com/problems/symmetric-tree,Symmetric Tree,Easy,61.2%,50.0%
-525,https://leetcode.com/problems/contiguous-array,Contiguous Array,Medium,51.3%,37.5%
-450,https://leetcode.com/problems/delete-node-in-a-bst,Delete Node in a BST,Medium,54.7%,37.5%
-77,https://leetcode.com/problems/combinations,Combinations,Medium,74.6%,37.5%
-326,https://leetcode.com/problems/power-of-three,Power of Three,Easy,51.1%,37.5%
-509,https://leetcode.com/problems/fibonacci-number,Fibonacci Number,Easy,74.1%,37.5%
-73,https://leetcode.com/problems/set-matrix-zeroes,Set Matrix Zeroes,Medium,62.9%,50.0%
-344,https://leetcode.com/problems/reverse-string,Reverse String,Easy,80.8%,62.5%
-1727,https://leetcode.com/problems/largest-submatrix-with-rearrangements,Largest Submatrix With Rearrangements,Medium,80.2%,37.5%
-134,https://leetcode.com/problems/gas-station,Gas Station,Medium,48.0%,50.0%
-111,https://leetcode.com/problems/minimum-depth-of-binary-tree,Minimum Depth of Binary Tree,Easy,52.9%,37.5%
-543,https://leetcode.com/problems/diameter-of-binary-tree,Diameter of Binary Tree,Easy,65.5%,50.0%
-225,https://leetcode.com/problems/implement-stack-using-queues,Implement Stack using Queues,Easy,69.9%,37.5%
-35,https://leetcode.com/problems/search-insert-position,Search Insert Position,Easy,51.3%,62.5%
-6,https://leetcode.com/problems/zigzag-conversion,Zigzag Conversion,Medium,54.2%,37.5%
-206,https://leetcode.com/problems/reverse-linked-list,Reverse Linked List,Easy,80.6%,37.5%
-153,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array,Find Minimum in Rotated Sorted Array,Medium,54.7%,37.5%
-977,https://leetcode.com/problems/squares-of-a-sorted-array,Squares of a Sorted Array,Easy,73.8%,37.5%
-215,https://leetcode.com/problems/kth-largest-element-in-an-array,Kth Largest Element in an Array,Medium,68.9%,37.5%
-678,https://leetcode.com/problems/valid-parenthesis-string,Valid Parenthesis String,Medium,40.1%,37.5%
-189,https://leetcode.com/problems/rotate-array,Rotate Array,Medium,44.9%,50.0%
-210,https://leetcode.com/problems/course-schedule-ii,Course Schedule II,Medium,55.5%,37.5%
-59,https://leetcode.com/problems/spiral-matrix-ii,Spiral Matrix II,Medium,75.1%,37.5%
-228,https://leetcode.com/problems/summary-ranges,Summary Ranges,Easy,54.2%,37.5%
-368,https://leetcode.com/problems/largest-divisible-subset,Largest Divisible Subset,Medium,49.6%,37.5%
-584,https://leetcode.com/problems/find-customer-referee,Find Customer Referee,Easy,72.9%,37.5%
-45,https://leetcode.com/problems/jump-game-ii,Jump Game II,Medium,42.9%,50.0%
-236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,Lowest Common Ancestor of a Binary Tree,Medium,69.3%,62.5%
-130,https://leetcode.com/problems/surrounded-regions,Surrounded Regions,Medium,45.3%,50.0%
-53,https://leetcode.com/problems/maximum-subarray,Maximum Subarray,Medium,53.3%,37.5%
-1848,https://leetcode.com/problems/minimum-distance-to-the-target-element,Minimum Distance to the Target Element,Easy,64.5%,37.5%
-2035,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,Partition Array Into Two Arrays to Minimize Sum Difference,Hard,23.4%,37.5%
-438,https://leetcode.com/problems/find-all-anagrams-in-a-string,Find All Anagrams in a String,Medium,53.8%,37.5%
-332,https://leetcode.com/problems/reconstruct-itinerary,Reconstruct Itinerary,Hard,44.6%,37.5%
-3488,https://leetcode.com/problems/closest-equal-element-queries,Closest Equal Element Queries,Medium,51.4%,50.0%
-181,https://leetcode.com/problems/employees-earning-more-than-their-managers,Employees Earning More Than Their Managers,Easy,73.2%,37.5%
-118,https://leetcode.com/problems/pascals-triangle,Pascal's Triangle,Easy,78.9%,50.0%
-198,https://leetcode.com/problems/house-robber,House Robber,Medium,53.2%,50.0%
-78,https://leetcode.com/problems/subsets,Subsets,Medium,82.3%,37.5%
-176,https://leetcode.com/problems/second-highest-salary,Second Highest Salary,Medium,47.0%,37.5%
-2833,https://leetcode.com/problems/furthest-point-from-origin,Furthest Point From Origin,Easy,77.0%,62.5%
-1929,https://leetcode.com/problems/concatenation-of-array,Concatenation of Array,Easy,90.3%,37.5%
-349,https://leetcode.com/problems/intersection-of-two-arrays,Intersection of Two Arrays,Easy,77.8%,37.5%
-150,https://leetcode.com/problems/evaluate-reverse-polish-notation,Evaluate Reverse Polish Notation,Medium,57.8%,37.5%
-40,https://leetcode.com/problems/combination-sum-ii,Combination Sum II,Medium,59.5%,37.5%
-1321,https://leetcode.com/problems/restaurant-growth,Restaurant Growth,Medium,58.8%,37.5%
-796,https://leetcode.com/problems/rotate-string,Rotate String,Easy,66.6%,50.0%
-135,https://leetcode.com/problems/candy,Candy,Hard,48.5%,37.5%
-904,https://leetcode.com/problems/fruit-into-baskets,Fruit Into Baskets,Medium,51.1%,50.0%
-48,https://leetcode.com/problems/rotate-image,Rotate Image,Medium,80.1%,62.5%
-209,https://leetcode.com/problems/minimum-size-subarray-sum,Minimum Size Subarray Sum,Medium,51.7%,37.5%
-412,https://leetcode.com/problems/fizz-buzz,Fizz Buzz,Easy,75.5%,37.5%
-30,https://leetcode.com/problems/substring-with-concatenation-of-all-words,Substring with Concatenation of All Words,Hard,34.4%,37.5%
-34,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,Find First and Last Position of Element in Sorted Array,Medium,48.9%,37.5%
-1752,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated,Check if Array Is Sorted and Rotated,Easy,57.2%,62.5%
-1722,https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations,Minimize Hamming Distance After Swap Operations,Medium,69.7%,37.5%
-28,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,Find the Index of the First Occurrence in a String,Easy,46.7%,37.5%
-1235,https://leetcode.com/problems/maximum-profit-in-job-scheduling,Maximum Profit in Job Scheduling,Hard,54.7%,37.5%
-31,https://leetcode.com/problems/next-permutation,Next Permutation,Medium,45.3%,50.0%
-268,https://leetcode.com/problems/missing-number,Missing Number,Easy,72.0%,37.5%
-197,https://leetcode.com/problems/rising-temperature,Rising Temperature,Easy,51.3%,37.5%
-162,https://leetcode.com/problems/find-peak-element,Find Peak Element,Medium,47.0%,37.5%
-595,https://leetcode.com/problems/big-countries,Big Countries,Easy,68.5%,37.5%
-224,https://leetcode.com/problems/basic-calculator,Basic Calculator,Hard,46.9%,37.5%
-37,https://leetcode.com/problems/sudoku-solver,Sudoku Solver,Hard,65.5%,37.5%
-941,https://leetcode.com/problems/valid-mountain-array,Valid Mountain Array,Easy,35.3%,37.5%
-2657,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays,Find the Prefix Common Array of Two Arrays,Medium,88.3%,37.5%
-1757,https://leetcode.com/problems/recyclable-and-low-fat-products,Recyclable and Low Fat Products,Easy,88.6%,37.5%
-300,https://leetcode.com/problems/longest-increasing-subsequence,Longest Increasing Subsequence,Medium,59.4%,37.5%
-735,https://leetcode.com/problems/asteroid-collision,Asteroid Collision,Medium,47.9%,37.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","75.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"2","https://leetcode.com/problems/add-two-numbers","Add Two Numbers","Medium","48.5%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","87.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"9","https://leetcode.com/problems/palindrome-number","Palindrome Number","Easy","60.6%","50.0%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"14","https://leetcode.com/problems/longest-common-prefix","Longest Common Prefix","Easy","47.6%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"4","https://leetcode.com/problems/median-of-two-sorted-arrays","Median of Two Sorted Arrays","Hard","46.6%","62.5%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","Medium","Practice after high-priority questions; useful interview pattern."
+"22","https://leetcode.com/problems/generate-parentheses","Generate Parentheses","Medium","78.7%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"26","https://leetcode.com/problems/remove-duplicates-from-sorted-array","Remove Duplicates from Sorted Array","Easy","62.8%","62.5%","Arrays","Sorting / Prefix / Scan; Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"42","https://leetcode.com/problems/trapping-rain-water","Trapping Rain Water","Hard","67.4%","75.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"560","https://leetcode.com/problems/subarray-sum-equals-k","Subarray Sum Equals K","Medium","47.3%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"1396","https://leetcode.com/problems/design-underground-system","Design Underground System","Medium","74.5%","62.5%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"7","https://leetcode.com/problems/reverse-integer","Reverse Integer","Medium","31.9%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","62.5%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"79","https://leetcode.com/problems/word-search","Word Search","Medium","47.4%","75.0%","Strings; Binary Search","Hashing / Sliding Window; Binary Search","High","Must revise; common company/OA pattern."
+"1169","https://leetcode.com/problems/invalid-transactions","Invalid Transactions","Medium","32.3%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"21","https://leetcode.com/problems/merge-two-sorted-lists","Merge Two Sorted Lists","Easy","68.3%","75.0%","Arrays; Linked List","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"242","https://leetcode.com/problems/valid-anagram","Valid Anagram","Easy","68.1%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"430","https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list","Flatten a Multilevel Doubly Linked List","Medium","62.9%","75.0%","Linked List","Two Pointers","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","87.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"380","https://leetcode.com/problems/insert-delete-getrandom-o1","Insert Delete GetRandom O(1)","Medium","55.4%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"13","https://leetcode.com/problems/roman-to-integer","Roman to Integer","Easy","66.6%","50.0%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"33","https://leetcode.com/problems/search-in-rotated-sorted-array","Search in Rotated Sorted Array","Medium","44.9%","62.5%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"140","https://leetcode.com/problems/word-break-ii","Word Break II","Hard","55.6%","50.0%","Strings; Dynamic Programming","Hashing / Sliding Window; State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"8","https://leetcode.com/problems/string-to-integer-atoi","String to Integer (atoi)","Medium","21.0%","37.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"70","https://leetcode.com/problems/climbing-stairs","Climbing Stairs","Easy","54.1%","75.0%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"15","https://leetcode.com/problems/3sum","3Sum","Medium","39.1%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"238","https://leetcode.com/problems/product-of-array-except-self","Product of Array Except Self","Medium","68.9%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"66","https://leetcode.com/problems/plus-one","Plus One","Easy","50.0%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"54","https://leetcode.com/problems/spiral-matrix","Spiral Matrix","Medium","56.8%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"49","https://leetcode.com/problems/group-anagrams","Group Anagrams","Medium","72.6%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"11","https://leetcode.com/problems/container-with-most-water","Container With Most Water","Medium","60.0%","37.5%","Core DSA","Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"283","https://leetcode.com/problems/move-zeroes","Move Zeroes","Easy","63.8%","62.5%","Core DSA","Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"399","https://leetcode.com/problems/evaluate-division","Evaluate Division","Medium","64.2%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"155","https://leetcode.com/problems/min-stack","Min Stack","Medium","58.2%","50.0%","Stack / Queue","Monotonic Stack / Simulation","Medium","Practice after high-priority questions; useful interview pattern."
+"322","https://leetcode.com/problems/coin-change","Coin Change","Medium","48.4%","62.5%","Dynamic Programming","State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"50","https://leetcode.com/problems/powx-n","Pow(x, n)","Medium","38.7%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"253","https://leetcode.com/problems/meeting-rooms-ii","Meeting Rooms II","Medium","52.7%","87.5%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"1387","https://leetcode.com/problems/sort-integers-by-the-power-value","Sort Integers by The Power Value","Medium","71.7%","50.0%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"88","https://leetcode.com/problems/merge-sorted-array","Merge Sorted Array","Easy","54.9%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"797","https://leetcode.com/problems/all-paths-from-source-to-target","All Paths From Source to Target","Medium","83.6%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"394","https://leetcode.com/problems/decode-string","Decode String","Medium","62.6%","75.0%","Strings; Dynamic Programming; Stack / Queue","Hashing / Sliding Window; State Transition; Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"496","https://leetcode.com/problems/next-greater-element-i","Next Greater Element I","Easy","76.1%","50.0%","Stack / Queue","Monotonic Stack / Simulation","Medium","Practice after high-priority questions; useful interview pattern."
+"1274","https://leetcode.com/problems/number-of-ships-in-a-rectangle","Number of Ships in a Rectangle","Hard","68.9%","62.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"1244","https://leetcode.com/problems/design-a-leaderboard","Design A Leaderboard","Medium","68.1%","50.0%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"69","https://leetcode.com/problems/sqrtx","Sqrt(x)","Easy","41.8%","62.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"994","https://leetcode.com/problems/rotting-oranges","Rotting Oranges","Medium","58.7%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"704","https://leetcode.com/problems/binary-search","Binary Search","Easy","60.9%","37.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"1656","https://leetcode.com/problems/design-an-ordered-stream","Design an Ordered Stream","Easy","82.7%","50.0%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"127","https://leetcode.com/problems/word-ladder","Word Ladder","Hard","45.6%","50.0%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"67","https://leetcode.com/problems/add-binary","Add Binary","Easy","58.1%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"75","https://leetcode.com/problems/sort-colors","Sort Colors","Medium","69.6%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"739","https://leetcode.com/problems/daily-temperatures","Daily Temperatures","Medium","68.7%","37.5%","Stack / Queue","Monotonic Stack / Simulation","Medium","Practice after high-priority questions; useful interview pattern."
+"74","https://leetcode.com/problems/search-a-2d-matrix","Search a 2D Matrix","Medium","53.9%","37.5%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"17","https://leetcode.com/problems/letter-combinations-of-a-phone-number","Letter Combinations of a Phone Number","Medium","66.1%","50.0%","Strings; Backtracking","Hashing / Sliding Window; Backtracking","Medium","Practice after high-priority questions; useful interview pattern."
+"139","https://leetcode.com/problems/word-break","Word Break","Medium","49.5%","62.5%","Strings; Dynamic Programming","Hashing / Sliding Window; State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"18","https://leetcode.com/problems/4sum","4Sum","Medium","40.6%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"61","https://leetcode.com/problems/rotate-list","Rotate List","Medium","42.6%","37.5%","Arrays; Linked List","Sorting / Prefix / Scan; Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"128","https://leetcode.com/problems/longest-consecutive-sequence","Longest Consecutive Sequence","Medium","47.1%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"136","https://leetcode.com/problems/single-number","Single Number","Easy","77.7%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"27","https://leetcode.com/problems/remove-element","Remove Element","Easy","61.8%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","62.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"175","https://leetcode.com/problems/combine-two-tables","Combine Two Tables","Easy","79.5%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"347","https://leetcode.com/problems/top-k-frequent-elements","Top K Frequent Elements","Medium","66.4%","50.0%","Heap","Priority Queue","Medium","Practice after high-priority questions; useful interview pattern."
+"1583","https://leetcode.com/problems/count-unhappy-friends","Count Unhappy Friends","Medium","62.5%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"55","https://leetcode.com/problems/jump-game","Jump Game","Medium","40.9%","37.5%","Greedy","Greedy","Medium","Practice after high-priority questions; useful interview pattern."
+"100","https://leetcode.com/problems/same-tree","Same Tree","Easy","67.1%","37.5%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"125","https://leetcode.com/problems/valid-palindrome","Valid Palindrome","Easy","53.3%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"169","https://leetcode.com/problems/majority-element","Majority Element","Easy","66.3%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"217","https://leetcode.com/problems/contains-duplicate","Contains Duplicate","Easy","64.4%","50.0%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"611","https://leetcode.com/problems/valid-triangle-number","Valid Triangle Number","Medium","56.9%","37.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"547","https://leetcode.com/problems/number-of-provinces","Number of Provinces","Medium","70.4%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"167","https://leetcode.com/problems/two-sum-ii-input-array-is-sorted","Two Sum II - Input Array Is Sorted","Medium","65.1%","50.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"435","https://leetcode.com/problems/non-overlapping-intervals","Non-overlapping Intervals","Medium","57.1%","37.5%","Arrays; Greedy","Sorting / Prefix / Scan; Greedy","Medium","Practice after high-priority questions; useful interview pattern."
+"387","https://leetcode.com/problems/first-unique-character-in-a-string","First Unique Character in a String","Easy","65.5%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"234","https://leetcode.com/problems/palindrome-linked-list","Palindrome Linked List","Easy","58.0%","50.0%","Strings; Linked List","Hashing / Sliding Window; Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"424","https://leetcode.com/problems/longest-repeating-character-replacement","Longest Repeating Character Replacement","Medium","59.7%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1029","https://leetcode.com/problems/two-city-scheduling","Two City Scheduling","Medium","68.5%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"1480","https://leetcode.com/problems/running-sum-of-1d-array","Running Sum of 1d Array","Easy","86.9%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"142","https://leetcode.com/problems/linked-list-cycle-ii","Linked List Cycle II","Medium","57.9%","37.5%","Linked List","Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"933","https://leetcode.com/problems/number-of-recent-calls","Number of Recent Calls","Easy","78.5%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"2667","https://leetcode.com/problems/create-hello-world-function","Create Hello World Function","Easy","81.9%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"3848","https://leetcode.com/problems/check-digitorial-permutation","Check Digitorial Permutation","Medium","46.7%","37.5%","Backtracking","Backtracking","Medium","Practice after high-priority questions; useful interview pattern."
+"138","https://leetcode.com/problems/copy-list-with-random-pointer","Copy List with Random Pointer","Medium","62.9%","62.5%","Linked List","Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"503","https://leetcode.com/problems/next-greater-element-ii","Next Greater Element II","Medium","68.4%","37.5%","Stack / Queue","Monotonic Stack / Simulation","Medium","Practice after high-priority questions; useful interview pattern."
+"101","https://leetcode.com/problems/symmetric-tree","Symmetric Tree","Easy","61.2%","50.0%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"525","https://leetcode.com/problems/contiguous-array","Contiguous Array","Medium","51.3%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"450","https://leetcode.com/problems/delete-node-in-a-bst","Delete Node in a BST","Medium","54.7%","37.5%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"77","https://leetcode.com/problems/combinations","Combinations","Medium","74.6%","37.5%","Backtracking","Backtracking","Medium","Practice after high-priority questions; useful interview pattern."
+"326","https://leetcode.com/problems/power-of-three","Power of Three","Easy","51.1%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"509","https://leetcode.com/problems/fibonacci-number","Fibonacci Number","Easy","74.1%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"73","https://leetcode.com/problems/set-matrix-zeroes","Set Matrix Zeroes","Medium","62.9%","50.0%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"344","https://leetcode.com/problems/reverse-string","Reverse String","Easy","80.8%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"1727","https://leetcode.com/problems/largest-submatrix-with-rearrangements","Largest Submatrix With Rearrangements","Medium","80.2%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"134","https://leetcode.com/problems/gas-station","Gas Station","Medium","48.0%","50.0%","Greedy","Greedy","Medium","Practice after high-priority questions; useful interview pattern."
+"111","https://leetcode.com/problems/minimum-depth-of-binary-tree","Minimum Depth of Binary Tree","Easy","52.9%","37.5%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"543","https://leetcode.com/problems/diameter-of-binary-tree","Diameter of Binary Tree","Easy","65.5%","50.0%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"225","https://leetcode.com/problems/implement-stack-using-queues","Implement Stack using Queues","Easy","69.9%","37.5%","Stack / Queue","Monotonic Stack / Simulation","Medium","Practice after high-priority questions; useful interview pattern."
+"35","https://leetcode.com/problems/search-insert-position","Search Insert Position","Easy","51.3%","62.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"6","https://leetcode.com/problems/zigzag-conversion","Zigzag Conversion","Medium","54.2%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"206","https://leetcode.com/problems/reverse-linked-list","Reverse Linked List","Easy","80.6%","37.5%","Linked List","Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."
+"153","https://leetcode.com/problems/find-minimum-in-rotated-sorted-array","Find Minimum in Rotated Sorted Array","Medium","54.7%","37.5%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"977","https://leetcode.com/problems/squares-of-a-sorted-array","Squares of a Sorted Array","Easy","73.8%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"215","https://leetcode.com/problems/kth-largest-element-in-an-array","Kth Largest Element in an Array","Medium","68.9%","37.5%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","Medium","Practice after high-priority questions; useful interview pattern."
+"678","https://leetcode.com/problems/valid-parenthesis-string","Valid Parenthesis String","Medium","40.1%","37.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"189","https://leetcode.com/problems/rotate-array","Rotate Array","Medium","44.9%","50.0%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"210","https://leetcode.com/problems/course-schedule-ii","Course Schedule II","Medium","55.5%","37.5%","Graphs","BFS / DFS / Topological Sort","Medium","Practice after high-priority questions; useful interview pattern."
+"59","https://leetcode.com/problems/spiral-matrix-ii","Spiral Matrix II","Medium","75.1%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"228","https://leetcode.com/problems/summary-ranges","Summary Ranges","Easy","54.2%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"368","https://leetcode.com/problems/largest-divisible-subset","Largest Divisible Subset","Medium","49.6%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"584","https://leetcode.com/problems/find-customer-referee","Find Customer Referee","Easy","72.9%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"45","https://leetcode.com/problems/jump-game-ii","Jump Game II","Medium","42.9%","50.0%","Greedy","Greedy","Medium","Practice after high-priority questions; useful interview pattern."
+"236","https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree","Lowest Common Ancestor of a Binary Tree","Medium","69.3%","62.5%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"130","https://leetcode.com/problems/surrounded-regions","Surrounded Regions","Medium","45.3%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"53","https://leetcode.com/problems/maximum-subarray","Maximum Subarray","Medium","53.3%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"1848","https://leetcode.com/problems/minimum-distance-to-the-target-element","Minimum Distance to the Target Element","Easy","64.5%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"2035","https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference","Partition Array Into Two Arrays to Minimize Sum Difference","Hard","23.4%","37.5%","Arrays; Dynamic Programming","Sorting / Prefix / Scan; State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"438","https://leetcode.com/problems/find-all-anagrams-in-a-string","Find All Anagrams in a String","Medium","53.8%","37.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"332","https://leetcode.com/problems/reconstruct-itinerary","Reconstruct Itinerary","Hard","44.6%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"3488","https://leetcode.com/problems/closest-equal-element-queries","Closest Equal Element Queries","Medium","51.4%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"181","https://leetcode.com/problems/employees-earning-more-than-their-managers","Employees Earning More Than Their Managers","Easy","73.2%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"118","https://leetcode.com/problems/pascals-triangle","Pascal's Triangle","Easy","78.9%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"198","https://leetcode.com/problems/house-robber","House Robber","Medium","53.2%","50.0%","Dynamic Programming","State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"78","https://leetcode.com/problems/subsets","Subsets","Medium","82.3%","37.5%","Backtracking","Backtracking","Medium","Practice after high-priority questions; useful interview pattern."
+"176","https://leetcode.com/problems/second-highest-salary","Second Highest Salary","Medium","47.0%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"2833","https://leetcode.com/problems/furthest-point-from-origin","Furthest Point From Origin","Easy","77.0%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"1929","https://leetcode.com/problems/concatenation-of-array","Concatenation of Array","Easy","90.3%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"349","https://leetcode.com/problems/intersection-of-two-arrays","Intersection of Two Arrays","Easy","77.8%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"150","https://leetcode.com/problems/evaluate-reverse-polish-notation","Evaluate Reverse Polish Notation","Medium","57.8%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"40","https://leetcode.com/problems/combination-sum-ii","Combination Sum II","Medium","59.5%","37.5%","Arrays; Backtracking","Sorting / Prefix / Scan; Backtracking","Medium","Practice after high-priority questions; useful interview pattern."
+"1321","https://leetcode.com/problems/restaurant-growth","Restaurant Growth","Medium","58.8%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"796","https://leetcode.com/problems/rotate-string","Rotate String","Easy","66.6%","50.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"135","https://leetcode.com/problems/candy","Candy","Hard","48.5%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"904","https://leetcode.com/problems/fruit-into-baskets","Fruit Into Baskets","Medium","51.1%","50.0%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"48","https://leetcode.com/problems/rotate-image","Rotate Image","Medium","80.1%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"209","https://leetcode.com/problems/minimum-size-subarray-sum","Minimum Size Subarray Sum","Medium","51.7%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"412","https://leetcode.com/problems/fizz-buzz","Fizz Buzz","Easy","75.5%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"30","https://leetcode.com/problems/substring-with-concatenation-of-all-words","Substring with Concatenation of All Words","Hard","34.4%","37.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"34","https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array","Find First and Last Position of Element in Sorted Array","Medium","48.9%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"1752","https://leetcode.com/problems/check-if-array-is-sorted-and-rotated","Check if Array Is Sorted and Rotated","Easy","57.2%","62.5%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"1722","https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations","Minimize Hamming Distance After Swap Operations","Medium","69.7%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"28","https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string","Find the Index of the First Occurrence in a String","Easy","46.7%","37.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"1235","https://leetcode.com/problems/maximum-profit-in-job-scheduling","Maximum Profit in Job Scheduling","Hard","54.7%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"31","https://leetcode.com/problems/next-permutation","Next Permutation","Medium","45.3%","50.0%","Backtracking","Backtracking","Medium","Practice after high-priority questions; useful interview pattern."
+"268","https://leetcode.com/problems/missing-number","Missing Number","Easy","72.0%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"197","https://leetcode.com/problems/rising-temperature","Rising Temperature","Easy","51.3%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"162","https://leetcode.com/problems/find-peak-element","Find Peak Element","Medium","47.0%","37.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"595","https://leetcode.com/problems/big-countries","Big Countries","Easy","68.5%","37.5%","Trees","DFS / BFS","Medium","Practice after high-priority questions; useful interview pattern."
+"224","https://leetcode.com/problems/basic-calculator","Basic Calculator","Hard","46.9%","37.5%","Stack / Queue","Monotonic Stack / Simulation","Medium","Practice after high-priority questions; useful interview pattern."
+"37","https://leetcode.com/problems/sudoku-solver","Sudoku Solver","Hard","65.5%","37.5%","Backtracking","Backtracking","Medium","Practice after high-priority questions; useful interview pattern."
+"941","https://leetcode.com/problems/valid-mountain-array","Valid Mountain Array","Easy","35.3%","37.5%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"2657","https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays","Find the Prefix Common Array of Two Arrays","Medium","88.3%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"1757","https://leetcode.com/problems/recyclable-and-low-fat-products","Recyclable and Low Fat Products","Easy","88.6%","37.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"300","https://leetcode.com/problems/longest-increasing-subsequence","Longest Increasing Subsequence","Medium","59.4%","37.5%","Dynamic Programming","State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"735","https://leetcode.com/problems/asteroid-collision","Asteroid Collision","Medium","47.9%","37.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."

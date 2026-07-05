@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-4,https://leetcode.com/problems/median-of-two-sorted-arrays,Median of Two Sorted Arrays,Hard,46.6%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"4","https://leetcode.com/problems/median-of-two-sorted-arrays","Median of Two Sorted Arrays","Hard","46.6%","100.0%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","High","Must revise; common company/OA pattern."

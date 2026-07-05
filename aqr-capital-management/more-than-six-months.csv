@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1696,https://leetcode.com/problems/jump-game-vi,Jump Game VI,Medium,46.4%,100.0%
-268,https://leetcode.com/problems/missing-number,Missing Number,Easy,72.0%,75.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,75.0%
-2,https://leetcode.com/problems/add-two-numbers,Add Two Numbers,Medium,48.5%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1696","https://leetcode.com/problems/jump-game-vi","Jump Game VI","Medium","46.4%","100.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"268","https://leetcode.com/problems/missing-number","Missing Number","Easy","72.0%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2","https://leetcode.com/problems/add-two-numbers","Add Two Numbers","Medium","48.5%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

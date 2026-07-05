@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-55,https://leetcode.com/problems/jump-game,Jump Game,Medium,40.9%,100.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,75.0%
-1429,https://leetcode.com/problems/first-unique-number,First Unique Number,Medium,57.6%,75.0%
-45,https://leetcode.com/problems/jump-game-ii,Jump Game II,Medium,42.9%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"55","https://leetcode.com/problems/jump-game","Jump Game","Medium","40.9%","100.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1429","https://leetcode.com/problems/first-unique-number","First Unique Number","Medium","57.6%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"45","https://leetcode.com/problems/jump-game-ii","Jump Game II","Medium","42.9%","75.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."

@@ -1,6 +1,6 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-97,https://leetcode.com/problems/interleaving-string,Interleaving String,Medium,44.0%,75.0%
-76,https://leetcode.com/problems/minimum-window-substring,Minimum Window Substring,Hard,47.5%,87.5%
-2791,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree,Count Paths That Can Form a Palindrome in a Tree,Hard,52.2%,100.0%
-3067,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,Count Pairs of Connectable Servers in a Weighted Tree Network,Medium,55.9%,75.0%
-84,https://leetcode.com/problems/largest-rectangle-in-histogram,Largest Rectangle in Histogram,Hard,49.9%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"97","https://leetcode.com/problems/interleaving-string","Interleaving String","Medium","44.0%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"76","https://leetcode.com/problems/minimum-window-substring","Minimum Window Substring","Hard","47.5%","87.5%","Arrays; Strings; Trees","Sorting / Prefix / Scan; Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"2791","https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree","Count Paths That Can Form a Palindrome in a Tree","Hard","52.2%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"3067","https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network","Count Pairs of Connectable Servers in a Weighted Tree Network","Medium","55.9%","75.0%","Trees; Graphs","DFS / BFS; BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"84","https://leetcode.com/problems/largest-rectangle-in-histogram","Largest Rectangle in Histogram","Hard","49.9%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

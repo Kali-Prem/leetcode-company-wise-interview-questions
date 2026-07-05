@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-48,https://leetcode.com/problems/rotate-image,Rotate Image,Medium,80.1%,87.5%
-2817,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint,Minimum Absolute Difference Between Elements With Constraint,Medium,37.7%,100.0%
-3043,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,Find the Length of the Longest Common Prefix,Medium,62.2%,87.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"48","https://leetcode.com/problems/rotate-image","Rotate Image","Medium","80.1%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2817","https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint","Minimum Absolute Difference Between Elements With Constraint","Medium","37.7%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"3043","https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix","Find the Length of the Longest Common Prefix","Medium","62.2%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

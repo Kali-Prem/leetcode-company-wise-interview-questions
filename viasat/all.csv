@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,87.5%
-110,https://leetcode.com/problems/balanced-binary-tree,Balanced Binary Tree,Easy,58.4%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"110","https://leetcode.com/problems/balanced-binary-tree","Balanced Binary Tree","Easy","58.4%","100.0%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."

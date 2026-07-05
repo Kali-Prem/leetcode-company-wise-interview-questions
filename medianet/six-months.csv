@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-70,https://leetcode.com/problems/climbing-stairs,Climbing Stairs,Easy,54.1%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"70","https://leetcode.com/problems/climbing-stairs","Climbing Stairs","Easy","54.1%","100.0%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."

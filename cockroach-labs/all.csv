@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-981,https://leetcode.com/problems/time-based-key-value-store,Time Based Key-Value Store,Medium,49.9%,100.0%
-10,https://leetcode.com/problems/regular-expression-matching,Regular Expression Matching,Hard,31.0%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"981","https://leetcode.com/problems/time-based-key-value-store","Time Based Key-Value Store","Medium","49.9%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"10","https://leetcode.com/problems/regular-expression-matching","Regular Expression Matching","Hard","31.0%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."

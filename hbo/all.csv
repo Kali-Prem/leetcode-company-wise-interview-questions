@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-341,https://leetcode.com/problems/flatten-nested-list-iterator,Flatten Nested List Iterator,Medium,65.7%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"341","https://leetcode.com/problems/flatten-nested-list-iterator","Flatten Nested List Iterator","Medium","65.7%","100.0%","Linked List; Design","Two Pointers; Data Structure Design","High","Must revise; common company/OA pattern."

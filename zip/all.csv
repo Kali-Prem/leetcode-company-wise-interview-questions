@@ -1,5 +1,5 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-752,https://leetcode.com/problems/open-the-lock,Open the Lock,Medium,61.3%,100.0%
-1642,https://leetcode.com/problems/furthest-building-you-can-reach,Furthest Building You Can Reach,Medium,50.9%,100.0%
-337,https://leetcode.com/problems/house-robber-iii,House Robber III,Medium,55.9%,62.5%
-913,https://leetcode.com/problems/cat-and-mouse,Cat and Mouse,Hard,35.3%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"752","https://leetcode.com/problems/open-the-lock","Open the Lock","Medium","61.3%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1642","https://leetcode.com/problems/furthest-building-you-can-reach","Furthest Building You Can Reach","Medium","50.9%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"337","https://leetcode.com/problems/house-robber-iii","House Robber III","Medium","55.9%","62.5%","Dynamic Programming","State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"913","https://leetcode.com/problems/cat-and-mouse","Cat and Mouse","Hard","35.3%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

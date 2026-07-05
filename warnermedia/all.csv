@@ -1,10 +1,10 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-273,https://leetcode.com/problems/integer-to-english-words,Integer to English Words,Hard,35.0%,87.5%
-23,https://leetcode.com/problems/merge-k-sorted-lists,Merge k Sorted Lists,Hard,59.6%,75.0%
-289,https://leetcode.com/problems/game-of-life,Game of Life,Medium,72.6%,62.5%
-238,https://leetcode.com/problems/product-of-array-except-self,Product of Array Except Self,Medium,68.9%,62.5%
-2020,https://leetcode.com/problems/number-of-accounts-that-did-not-stream,Number of Accounts That Did Not Stream,Medium,72.1%,100.0%
-341,https://leetcode.com/problems/flatten-nested-list-iterator,Flatten Nested List Iterator,Medium,65.7%,62.5%
-15,https://leetcode.com/problems/3sum,3Sum,Medium,39.1%,62.5%
-13,https://leetcode.com/problems/roman-to-integer,Roman to Integer,Easy,66.6%,75.0%
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"273","https://leetcode.com/problems/integer-to-english-words","Integer to English Words","Hard","35.0%","87.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"23","https://leetcode.com/problems/merge-k-sorted-lists","Merge k Sorted Lists","Hard","59.6%","75.0%","Arrays; Linked List; Heap","Sorting / Prefix / Scan; Two Pointers; Priority Queue","High","Must revise; common company/OA pattern."
+"289","https://leetcode.com/problems/game-of-life","Game of Life","Medium","72.6%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"238","https://leetcode.com/problems/product-of-array-except-self","Product of Array Except Self","Medium","68.9%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"2020","https://leetcode.com/problems/number-of-accounts-that-did-not-stream","Number of Accounts That Did Not Stream","Medium","72.1%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"341","https://leetcode.com/problems/flatten-nested-list-iterator","Flatten Nested List Iterator","Medium","65.7%","62.5%","Linked List; Design","Two Pointers; Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"15","https://leetcode.com/problems/3sum","3Sum","Medium","39.1%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"13","https://leetcode.com/problems/roman-to-integer","Roman to Integer","Easy","66.6%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","62.5%","Arrays","Sorting / Prefix / Scan; Two Pointers","Medium","Practice after high-priority questions; useful interview pattern."

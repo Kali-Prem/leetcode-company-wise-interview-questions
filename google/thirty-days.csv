@@ -1,126 +1,126 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,100.0%
-9,https://leetcode.com/problems/palindrome-number,Palindrome Number,Easy,60.6%,62.5%
-4,https://leetcode.com/problems/median-of-two-sorted-arrays,Median of Two Sorted Arrays,Hard,46.6%,50.0%
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,62.5%
-15,https://leetcode.com/problems/3sum,3Sum,Medium,39.1%,62.5%
-2,https://leetcode.com/problems/add-two-numbers,Add Two Numbers,Medium,48.5%,62.5%
-11,https://leetcode.com/problems/container-with-most-water,Container With Most Water,Medium,60.0%,50.0%
-121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Best Time to Buy and Sell Stock,Easy,56.8%,62.5%
-560,https://leetcode.com/problems/subarray-sum-equals-k,Subarray Sum Equals K,Medium,47.3%,37.5%
-13,https://leetcode.com/problems/roman-to-integer,Roman to Integer,Easy,66.6%,50.0%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,62.5%
-175,https://leetcode.com/problems/combine-two-tables,Combine Two Tables,Easy,79.5%,50.0%
-1929,https://leetcode.com/problems/concatenation-of-array,Concatenation of Array,Easy,90.3%,75.0%
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,50.0%
-128,https://leetcode.com/problems/longest-consecutive-sequence,Longest Consecutive Sequence,Medium,47.1%,62.5%
-5,https://leetcode.com/problems/longest-palindromic-substring,Longest Palindromic Substring,Medium,37.8%,50.0%
-31,https://leetcode.com/problems/next-permutation,Next Permutation,Medium,45.3%,50.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,50.0%
-88,https://leetcode.com/problems/merge-sorted-array,Merge Sorted Array,Easy,54.9%,50.0%
-347,https://leetcode.com/problems/top-k-frequent-elements,Top K Frequent Elements,Medium,66.4%,50.0%
-46,https://leetcode.com/problems/permutations,Permutations,Medium,81.9%,37.5%
-876,https://leetcode.com/problems/middle-of-the-linked-list,Middle of the Linked List,Easy,81.8%,50.0%
-2667,https://leetcode.com/problems/create-hello-world-function,Create Hello World Function,Easy,81.9%,50.0%
-26,https://leetcode.com/problems/remove-duplicates-from-sorted-array,Remove Duplicates from Sorted Array,Easy,62.8%,50.0%
-300,https://leetcode.com/problems/longest-increasing-subsequence,Longest Increasing Subsequence,Medium,59.4%,37.5%
-27,https://leetcode.com/problems/remove-element,Remove Element,Easy,61.8%,37.5%
-1148,https://leetcode.com/problems/article-views-i,Article Views I,Easy,76.6%,50.0%
-1757,https://leetcode.com/problems/recyclable-and-low-fat-products,Recyclable and Low Fat Products,Easy,88.6%,37.5%
-21,https://leetcode.com/problems/merge-two-sorted-lists,Merge Two Sorted Lists,Easy,68.3%,50.0%
-645,https://leetcode.com/problems/set-mismatch,Set Mismatch,Easy,43.6%,37.5%
-12,https://leetcode.com/problems/integer-to-roman,Integer to Roman,Medium,71.0%,37.5%
-68,https://leetcode.com/problems/text-justification,Text Justification,Hard,51.2%,37.5%
-204,https://leetcode.com/problems/count-primes,Count Primes,Medium,36.1%,50.0%
-287,https://leetcode.com/problems/find-the-duplicate-number,Find the Duplicate Number,Medium,64.3%,37.5%
-344,https://leetcode.com/problems/reverse-string,Reverse String,Easy,80.8%,50.0%
-485,https://leetcode.com/problems/max-consecutive-ones,Max Consecutive Ones,Easy,65.2%,50.0%
-977,https://leetcode.com/problems/squares-of-a-sorted-array,Squares of a Sorted Array,Easy,73.8%,37.5%
-3464,https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square,Maximize the Distance Between Points on a Square,Hard,51.1%,37.5%
-1296,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers,Divide Array in Sets of K Consecutive Numbers,Medium,59.3%,37.5%
-1768,https://leetcode.com/problems/merge-strings-alternately,Merge Strings Alternately,Easy,82.1%,62.5%
-42,https://leetcode.com/problems/trapping-rain-water,Trapping Rain Water,Hard,67.4%,50.0%
-33,https://leetcode.com/problems/search-in-rotated-sorted-array,Search in Rotated Sorted Array,Medium,44.9%,50.0%
-1391,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid,Check if There is a Valid Path in a Grid,Medium,64.5%,37.5%
-109,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree,Convert Sorted List to Binary Search Tree,Medium,66.6%,50.0%
-3225,https://leetcode.com/problems/maximum-score-from-grid-operations,Maximum Score From Grid Operations,Hard,64.5%,50.0%
-118,https://leetcode.com/problems/pascals-triangle,Pascal's Triangle,Easy,78.9%,37.5%
-3742,https://leetcode.com/problems/maximum-path-score-in-a-grid,Maximum Path Score in a Grid,Medium,53.9%,50.0%
-54,https://leetcode.com/problems/spiral-matrix,Spiral Matrix,Medium,56.8%,62.5%
-1581,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions,Customer Who Visited but Did Not Make Any Transactions,Easy,67.7%,50.0%
-396,https://leetcode.com/problems/rotate-function,Rotate Function,Medium,54.1%,37.5%
-22,https://leetcode.com/problems/generate-parentheses,Generate Parentheses,Medium,78.7%,37.5%
-907,https://leetcode.com/problems/sum-of-subarray-minimums,Sum of Subarray Minimums,Medium,38.6%,37.5%
-788,https://leetcode.com/problems/rotated-digits,Rotated Digits,Medium,64.0%,37.5%
-70,https://leetcode.com/problems/climbing-stairs,Climbing Stairs,Easy,54.1%,37.5%
-295,https://leetcode.com/problems/find-median-from-data-stream,Find Median from Data Stream,Hard,54.5%,50.0%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,50.0%
-595,https://leetcode.com/problems/big-countries,Big Countries,Easy,68.5%,37.5%
-796,https://leetcode.com/problems/rotate-string,Rotate String,Easy,66.6%,50.0%
-496,https://leetcode.com/problems/next-greater-element-i,Next Greater Element I,Easy,76.1%,50.0%
-2877,https://leetcode.com/problems/create-a-dataframe-from-list,Create a DataFrame from List,Easy,81.0%,37.5%
-217,https://leetcode.com/problems/contains-duplicate,Contains Duplicate,Easy,64.4%,50.0%
-215,https://leetcode.com/problems/kth-largest-element-in-an-array,Kth Largest Element in an Array,Medium,68.9%,50.0%
-1944,https://leetcode.com/problems/number-of-visible-people-in-a-queue,Number of Visible People in a Queue,Hard,73.1%,37.5%
-61,https://leetcode.com/problems/rotate-list,Rotate List,Medium,42.6%,50.0%
-7,https://leetcode.com/problems/reverse-integer,Reverse Integer,Medium,31.9%,50.0%
-1838,https://leetcode.com/problems/frequency-of-the-most-frequent-element,Frequency of the Most Frequent Element,Medium,44.8%,50.0%
-1861,https://leetcode.com/problems/rotating-the-box,Rotating the Box,Medium,82.5%,37.5%
-213,https://leetcode.com/problems/house-robber-ii,House Robber II,Medium,44.9%,37.5%
-253,https://leetcode.com/problems/meeting-rooms-ii,Meeting Rooms II,Medium,52.7%,62.5%
-1321,https://leetcode.com/problems/restaurant-growth,Restaurant Growth,Medium,58.8%,37.5%
-29,https://leetcode.com/problems/divide-two-integers,Divide Two Integers,Medium,19.8%,50.0%
-3660,https://leetcode.com/problems/jump-game-ix,Jump Game IX,Medium,46.2%,37.5%
-931,https://leetcode.com/problems/minimum-falling-path-sum,Minimum Falling Path Sum,Medium,60.8%,50.0%
-3629,https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation,Minimum Jumps to Reach End via Prime Teleportation,Medium,44.8%,50.0%
-198,https://leetcode.com/problems/house-robber,House Robber,Medium,53.2%,50.0%
-345,https://leetcode.com/problems/reverse-vowels-of-a-string,Reverse Vowels of a String,Easy,61.3%,37.5%
-1914,https://leetcode.com/problems/cyclically-rotating-a-grid,Cyclically Rotating a Grid,Medium,74.1%,37.5%
-189,https://leetcode.com/problems/rotate-array,Rotate Array,Medium,44.9%,37.5%
-577,https://leetcode.com/problems/employee-bonus,Employee Bonus,Easy,77.4%,37.5%
-2553,https://leetcode.com/problems/separate-the-digits-in-an-array,Separate the Digits in an Array,Easy,85.8%,37.5%
-168,https://leetcode.com/problems/excel-sheet-column-title,Excel Sheet Column Title,Easy,46.5%,37.5%
-202,https://leetcode.com/problems/happy-number,Happy Number,Easy,59.7%,50.0%
-1109,https://leetcode.com/problems/corporate-flight-bookings,Corporate Flight Bookings,Medium,67.3%,37.5%
-1004,https://leetcode.com/problems/max-consecutive-ones-iii,Max Consecutive Ones III,Medium,67.7%,37.5%
-1665,https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks,Minimum Initial Energy to Finish Tasks,Hard,76.4%,50.0%
-777,https://leetcode.com/problems/swap-adjacent-in-lr-string,Swap Adjacent in LR String,Medium,38.1%,37.5%
-1674,https://leetcode.com/problems/minimum-moves-to-make-array-complementary,Minimum Moves to Make Array Complementary,Medium,65.0%,37.5%
-815,https://leetcode.com/problems/bus-routes,Bus Routes,Hard,47.3%,37.5%
-67,https://leetcode.com/problems/add-binary,Add Binary,Easy,58.1%,37.5%
-231,https://leetcode.com/problems/power-of-two,Power of Two,Easy,50.1%,37.5%
-703,https://leetcode.com/problems/kth-largest-element-in-a-stream,Kth Largest Element in a Stream,Easy,61.0%,37.5%
-48,https://leetcode.com/problems/rotate-image,Rotate Image,Medium,80.1%,37.5%
-2784,https://leetcode.com/problems/check-if-array-is-good,Check if Array is Good,Easy,57.3%,50.0%
-394,https://leetcode.com/problems/decode-string,Decode String,Medium,62.6%,37.5%
-197,https://leetcode.com/problems/rising-temperature,Rising Temperature,Easy,51.3%,37.5%
-238,https://leetcode.com/problems/product-of-array-except-self,Product of Array Except Self,Medium,68.9%,50.0%
-410,https://leetcode.com/problems/split-array-largest-sum,Split Array Largest Sum,Hard,60.4%,50.0%
-542,https://leetcode.com/problems/01-matrix,01 Matrix,Medium,53.9%,37.5%
-100,https://leetcode.com/problems/same-tree,Same Tree,Easy,67.1%,50.0%
-105,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal,Construct Binary Tree from Preorder and Inorder Traversal,Medium,68.8%,50.0%
-45,https://leetcode.com/problems/jump-game-ii,Jump Game II,Medium,42.9%,37.5%
-3481,https://leetcode.com/problems/apply-substitutions,Apply Substitutions,Medium,77.4%,37.5%
-125,https://leetcode.com/problems/valid-palindrome,Valid Palindrome,Easy,53.3%,37.5%
-509,https://leetcode.com/problems/fibonacci-number,Fibonacci Number,Easy,74.1%,37.5%
-258,https://leetcode.com/problems/add-digits,Add Digits,Easy,68.9%,37.5%
-1345,https://leetcode.com/problems/jump-game-iv,Jump Game IV,Hard,51.0%,37.5%
-169,https://leetcode.com/problems/majority-element,Majority Element,Easy,66.3%,50.0%
-1539,https://leetcode.com/problems/kth-missing-positive-number,Kth Missing Positive Number,Easy,63.5%,37.5%
-207,https://leetcode.com/problems/course-schedule,Course Schedule,Medium,51.4%,37.5%
-274,https://leetcode.com/problems/h-index,H-Index,Medium,41.4%,37.5%
-55,https://leetcode.com/problems/jump-game,Jump Game,Medium,40.9%,50.0%
-25,https://leetcode.com/problems/reverse-nodes-in-k-group,Reverse Nodes in k-Group,Hard,66.1%,37.5%
-242,https://leetcode.com/problems/valid-anagram,Valid Anagram,Easy,68.1%,37.5%
-621,https://leetcode.com/problems/task-scheduler,Task Scheduler,Medium,63.1%,37.5%
-2657,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays,Find the Prefix Common Array of Two Arrays,Medium,88.3%,50.0%
-359,https://leetcode.com/problems/logger-rate-limiter,Logger Rate Limiter,Easy,76.8%,37.5%
-3043,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,Find the Length of the Longest Common Prefix,Medium,62.2%,50.0%
-69,https://leetcode.com/problems/sqrtx,Sqrt(x),Easy,41.8%,37.5%
-424,https://leetcode.com/problems/longest-repeating-character-replacement,Longest Repeating Character Replacement,Medium,59.7%,37.5%
-58,https://leetcode.com/problems/length-of-last-word,Length of Last Word,Easy,58.8%,37.5%
-540,https://leetcode.com/problems/single-element-in-a-sorted-array,Single Element in a Sorted Array,Medium,59.3%,37.5%
-680,https://leetcode.com/problems/valid-palindrome-ii,Valid Palindrome II,Easy,44.3%,37.5%
-49,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,72.6%,37.5%
-28,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,Find the Index of the First Occurrence in a String,Easy,46.7%,37.5%
-53,https://leetcode.com/problems/maximum-subarray,Maximum Subarray,Medium,53.3%,37.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","100.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"9","https://leetcode.com/problems/palindrome-number","Palindrome Number","Easy","60.6%","62.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"4","https://leetcode.com/problems/median-of-two-sorted-arrays","Median of Two Sorted Arrays","Hard","46.6%","50.0%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","High","Must revise; common company/OA pattern."
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","62.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"15","https://leetcode.com/problems/3sum","3Sum","Medium","39.1%","62.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2","https://leetcode.com/problems/add-two-numbers","Add Two Numbers","Medium","48.5%","62.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"11","https://leetcode.com/problems/container-with-most-water","Container With Most Water","Medium","60.0%","50.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"121","https://leetcode.com/problems/best-time-to-buy-and-sell-stock","Best Time to Buy and Sell Stock","Easy","56.8%","62.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"560","https://leetcode.com/problems/subarray-sum-equals-k","Subarray Sum Equals K","Medium","47.3%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"13","https://leetcode.com/problems/roman-to-integer","Roman to Integer","Easy","66.6%","50.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","62.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"175","https://leetcode.com/problems/combine-two-tables","Combine Two Tables","Easy","79.5%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1929","https://leetcode.com/problems/concatenation-of-array","Concatenation of Array","Easy","90.3%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","50.0%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."
+"128","https://leetcode.com/problems/longest-consecutive-sequence","Longest Consecutive Sequence","Medium","47.1%","62.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"5","https://leetcode.com/problems/longest-palindromic-substring","Longest Palindromic Substring","Medium","37.8%","50.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."
+"31","https://leetcode.com/problems/next-permutation","Next Permutation","Medium","45.3%","50.0%","Backtracking","Backtracking","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","50.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"88","https://leetcode.com/problems/merge-sorted-array","Merge Sorted Array","Easy","54.9%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"347","https://leetcode.com/problems/top-k-frequent-elements","Top K Frequent Elements","Medium","66.4%","50.0%","Heap","Priority Queue","High","Must revise; common company/OA pattern."
+"46","https://leetcode.com/problems/permutations","Permutations","Medium","81.9%","37.5%","Backtracking","Backtracking","High","Must revise; common company/OA pattern."
+"876","https://leetcode.com/problems/middle-of-the-linked-list","Middle of the Linked List","Easy","81.8%","50.0%","Linked List","Two Pointers","High","Must revise; common company/OA pattern."
+"2667","https://leetcode.com/problems/create-hello-world-function","Create Hello World Function","Easy","81.9%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"26","https://leetcode.com/problems/remove-duplicates-from-sorted-array","Remove Duplicates from Sorted Array","Easy","62.8%","50.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"300","https://leetcode.com/problems/longest-increasing-subsequence","Longest Increasing Subsequence","Medium","59.4%","37.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"27","https://leetcode.com/problems/remove-element","Remove Element","Easy","61.8%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1148","https://leetcode.com/problems/article-views-i","Article Views I","Easy","76.6%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1757","https://leetcode.com/problems/recyclable-and-low-fat-products","Recyclable and Low Fat Products","Easy","88.6%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"21","https://leetcode.com/problems/merge-two-sorted-lists","Merge Two Sorted Lists","Easy","68.3%","50.0%","Arrays; Linked List","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"645","https://leetcode.com/problems/set-mismatch","Set Mismatch","Easy","43.6%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"12","https://leetcode.com/problems/integer-to-roman","Integer to Roman","Medium","71.0%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"68","https://leetcode.com/problems/text-justification","Text Justification","Hard","51.2%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"204","https://leetcode.com/problems/count-primes","Count Primes","Medium","36.1%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"287","https://leetcode.com/problems/find-the-duplicate-number","Find the Duplicate Number","Medium","64.3%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"344","https://leetcode.com/problems/reverse-string","Reverse String","Easy","80.8%","50.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"485","https://leetcode.com/problems/max-consecutive-ones","Max Consecutive Ones","Easy","65.2%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"977","https://leetcode.com/problems/squares-of-a-sorted-array","Squares of a Sorted Array","Easy","73.8%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"3464","https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square","Maximize the Distance Between Points on a Square","Hard","51.1%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1296","https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers","Divide Array in Sets of K Consecutive Numbers","Medium","59.3%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1768","https://leetcode.com/problems/merge-strings-alternately","Merge Strings Alternately","Easy","82.1%","62.5%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"42","https://leetcode.com/problems/trapping-rain-water","Trapping Rain Water","Hard","67.4%","50.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"33","https://leetcode.com/problems/search-in-rotated-sorted-array","Search in Rotated Sorted Array","Medium","44.9%","50.0%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","High","Must revise; common company/OA pattern."
+"1391","https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid","Check if There is a Valid Path in a Grid","Medium","64.5%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"109","https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree","Convert Sorted List to Binary Search Tree","Medium","66.6%","50.0%","Arrays; Trees; Linked List; Binary Search","Sorting / Prefix / Scan; DFS / BFS; Two Pointers; Binary Search","High","Must revise; common company/OA pattern."
+"3225","https://leetcode.com/problems/maximum-score-from-grid-operations","Maximum Score From Grid Operations","Hard","64.5%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"118","https://leetcode.com/problems/pascals-triangle","Pascal's Triangle","Easy","78.9%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"3742","https://leetcode.com/problems/maximum-path-score-in-a-grid","Maximum Path Score in a Grid","Medium","53.9%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"54","https://leetcode.com/problems/spiral-matrix","Spiral Matrix","Medium","56.8%","62.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"1581","https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions","Customer Who Visited but Did Not Make Any Transactions","Easy","67.7%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"396","https://leetcode.com/problems/rotate-function","Rotate Function","Medium","54.1%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"22","https://leetcode.com/problems/generate-parentheses","Generate Parentheses","Medium","78.7%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"907","https://leetcode.com/problems/sum-of-subarray-minimums","Sum of Subarray Minimums","Medium","38.6%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"788","https://leetcode.com/problems/rotated-digits","Rotated Digits","Medium","64.0%","37.5%","Arrays; Binary Search","Sorting / Prefix / Scan; Binary Search","High","Must revise; common company/OA pattern."
+"70","https://leetcode.com/problems/climbing-stairs","Climbing Stairs","Easy","54.1%","37.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"295","https://leetcode.com/problems/find-median-from-data-stream","Find Median from Data Stream","Hard","54.5%","50.0%","Heap","Priority Queue","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","50.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"595","https://leetcode.com/problems/big-countries","Big Countries","Easy","68.5%","37.5%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"796","https://leetcode.com/problems/rotate-string","Rotate String","Easy","66.6%","50.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"496","https://leetcode.com/problems/next-greater-element-i","Next Greater Element I","Easy","76.1%","50.0%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"2877","https://leetcode.com/problems/create-a-dataframe-from-list","Create a DataFrame from List","Easy","81.0%","37.5%","Linked List","Two Pointers","High","Must revise; common company/OA pattern."
+"217","https://leetcode.com/problems/contains-duplicate","Contains Duplicate","Easy","64.4%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"215","https://leetcode.com/problems/kth-largest-element-in-an-array","Kth Largest Element in an Array","Medium","68.9%","50.0%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","High","Must revise; common company/OA pattern."
+"1944","https://leetcode.com/problems/number-of-visible-people-in-a-queue","Number of Visible People in a Queue","Hard","73.1%","37.5%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"61","https://leetcode.com/problems/rotate-list","Rotate List","Medium","42.6%","50.0%","Arrays; Linked List","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"7","https://leetcode.com/problems/reverse-integer","Reverse Integer","Medium","31.9%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1838","https://leetcode.com/problems/frequency-of-the-most-frequent-element","Frequency of the Most Frequent Element","Medium","44.8%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1861","https://leetcode.com/problems/rotating-the-box","Rotating the Box","Medium","82.5%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"213","https://leetcode.com/problems/house-robber-ii","House Robber II","Medium","44.9%","37.5%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"253","https://leetcode.com/problems/meeting-rooms-ii","Meeting Rooms II","Medium","52.7%","62.5%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"1321","https://leetcode.com/problems/restaurant-growth","Restaurant Growth","Medium","58.8%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"29","https://leetcode.com/problems/divide-two-integers","Divide Two Integers","Medium","19.8%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"3660","https://leetcode.com/problems/jump-game-ix","Jump Game IX","Medium","46.2%","37.5%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"931","https://leetcode.com/problems/minimum-falling-path-sum","Minimum Falling Path Sum","Medium","60.8%","50.0%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","High","Must revise; common company/OA pattern."
+"3629","https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation","Minimum Jumps to Reach End via Prime Teleportation","Medium","44.8%","50.0%","Arrays; Greedy","Sorting / Prefix / Scan; Greedy","High","Must revise; common company/OA pattern."
+"198","https://leetcode.com/problems/house-robber","House Robber","Medium","53.2%","50.0%","Dynamic Programming","State Transition","High","Must revise; common company/OA pattern."
+"345","https://leetcode.com/problems/reverse-vowels-of-a-string","Reverse Vowels of a String","Easy","61.3%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1914","https://leetcode.com/problems/cyclically-rotating-a-grid","Cyclically Rotating a Grid","Medium","74.1%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"189","https://leetcode.com/problems/rotate-array","Rotate Array","Medium","44.9%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"577","https://leetcode.com/problems/employee-bonus","Employee Bonus","Easy","77.4%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2553","https://leetcode.com/problems/separate-the-digits-in-an-array","Separate the Digits in an Array","Easy","85.8%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"168","https://leetcode.com/problems/excel-sheet-column-title","Excel Sheet Column Title","Easy","46.5%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"202","https://leetcode.com/problems/happy-number","Happy Number","Easy","59.7%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1109","https://leetcode.com/problems/corporate-flight-bookings","Corporate Flight Bookings","Medium","67.3%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1004","https://leetcode.com/problems/max-consecutive-ones-iii","Max Consecutive Ones III","Medium","67.7%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1665","https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks","Minimum Initial Energy to Finish Tasks","Hard","76.4%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"777","https://leetcode.com/problems/swap-adjacent-in-lr-string","Swap Adjacent in LR String","Medium","38.1%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1674","https://leetcode.com/problems/minimum-moves-to-make-array-complementary","Minimum Moves to Make Array Complementary","Medium","65.0%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"815","https://leetcode.com/problems/bus-routes","Bus Routes","Hard","47.3%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"67","https://leetcode.com/problems/add-binary","Add Binary","Easy","58.1%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"231","https://leetcode.com/problems/power-of-two","Power of Two","Easy","50.1%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"703","https://leetcode.com/problems/kth-largest-element-in-a-stream","Kth Largest Element in a Stream","Easy","61.0%","37.5%","Heap","Priority Queue","High","Must revise; common company/OA pattern."
+"48","https://leetcode.com/problems/rotate-image","Rotate Image","Medium","80.1%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2784","https://leetcode.com/problems/check-if-array-is-good","Check if Array is Good","Easy","57.3%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"394","https://leetcode.com/problems/decode-string","Decode String","Medium","62.6%","37.5%","Strings; Dynamic Programming; Stack / Queue","Hashing / Sliding Window; State Transition; Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"197","https://leetcode.com/problems/rising-temperature","Rising Temperature","Easy","51.3%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"238","https://leetcode.com/problems/product-of-array-except-self","Product of Array Except Self","Medium","68.9%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"410","https://leetcode.com/problems/split-array-largest-sum","Split Array Largest Sum","Hard","60.4%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"542","https://leetcode.com/problems/01-matrix","01 Matrix","Medium","53.9%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"100","https://leetcode.com/problems/same-tree","Same Tree","Easy","67.1%","50.0%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"105","https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal","Construct Binary Tree from Preorder and Inorder Traversal","Medium","68.8%","50.0%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"45","https://leetcode.com/problems/jump-game-ii","Jump Game II","Medium","42.9%","37.5%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"3481","https://leetcode.com/problems/apply-substitutions","Apply Substitutions","Medium","77.4%","37.5%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"125","https://leetcode.com/problems/valid-palindrome","Valid Palindrome","Easy","53.3%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"509","https://leetcode.com/problems/fibonacci-number","Fibonacci Number","Easy","74.1%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"258","https://leetcode.com/problems/add-digits","Add Digits","Easy","68.9%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1345","https://leetcode.com/problems/jump-game-iv","Jump Game IV","Hard","51.0%","37.5%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"169","https://leetcode.com/problems/majority-element","Majority Element","Easy","66.3%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1539","https://leetcode.com/problems/kth-missing-positive-number","Kth Missing Positive Number","Easy","63.5%","37.5%","Arrays; Heap","Sorting / Prefix / Scan; Priority Queue","High","Must revise; common company/OA pattern."
+"207","https://leetcode.com/problems/course-schedule","Course Schedule","Medium","51.4%","37.5%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"274","https://leetcode.com/problems/h-index","H-Index","Medium","41.4%","37.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"55","https://leetcode.com/problems/jump-game","Jump Game","Medium","40.9%","50.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"25","https://leetcode.com/problems/reverse-nodes-in-k-group","Reverse Nodes in k-Group","Hard","66.1%","37.5%","Trees; Linked List","DFS / BFS; Two Pointers","High","Must revise; common company/OA pattern."
+"242","https://leetcode.com/problems/valid-anagram","Valid Anagram","Easy","68.1%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"621","https://leetcode.com/problems/task-scheduler","Task Scheduler","Medium","63.1%","37.5%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"2657","https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays","Find the Prefix Common Array of Two Arrays","Medium","88.3%","50.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"359","https://leetcode.com/problems/logger-rate-limiter","Logger Rate Limiter","Easy","76.8%","37.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"3043","https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix","Find the Length of the Longest Common Prefix","Medium","62.2%","50.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"69","https://leetcode.com/problems/sqrtx","Sqrt(x)","Easy","41.8%","37.5%","Binary Search","Binary Search","High","Must revise; common company/OA pattern."
+"424","https://leetcode.com/problems/longest-repeating-character-replacement","Longest Repeating Character Replacement","Medium","59.7%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"58","https://leetcode.com/problems/length-of-last-word","Length of Last Word","Easy","58.8%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"540","https://leetcode.com/problems/single-element-in-a-sorted-array","Single Element in a Sorted Array","Medium","59.3%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"680","https://leetcode.com/problems/valid-palindrome-ii","Valid Palindrome II","Easy","44.3%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"49","https://leetcode.com/problems/group-anagrams","Group Anagrams","Medium","72.6%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"28","https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string","Find the Index of the First Occurrence in a String","Easy","46.7%","37.5%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"53","https://leetcode.com/problems/maximum-subarray","Maximum Subarray","Medium","53.3%","37.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

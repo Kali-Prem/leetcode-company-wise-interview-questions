@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-19,https://leetcode.com/problems/remove-nth-node-from-end-of-list,Remove Nth Node From End of List,Medium,51.6%,100.0%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"19","https://leetcode.com/problems/remove-nth-node-from-end-of-list","Remove Nth Node From End of List","Medium","51.6%","100.0%","Trees; Linked List","DFS / BFS; Two Pointers","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","100.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."

@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-631,https://leetcode.com/problems/design-excel-sum-formula,Design Excel Sum Formula,Hard,39.7%,100.0%
-3076,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,Shortest Uncommon Substring in an Array,Medium,50.6%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"631","https://leetcode.com/problems/design-excel-sum-formula","Design Excel Sum Formula","Hard","39.7%","100.0%","Arrays; Design","Sorting / Prefix / Scan; Data Structure Design","High","Must revise; common company/OA pattern."
+"3076","https://leetcode.com/problems/shortest-uncommon-substring-in-an-array","Shortest Uncommon Substring in an Array","Medium","50.6%","100.0%","Arrays; Strings; Trees","Sorting / Prefix / Scan; Hashing / Sliding Window; DFS / BFS","High","Must revise; common company/OA pattern."

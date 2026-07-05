@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1963,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,Minimum Number of Swaps to Make the String Balanced,Medium,78.0%,100.0%
-636,https://leetcode.com/problems/exclusive-time-of-functions,Exclusive Time of Functions,Medium,66.2%,100.0%
-2680,https://leetcode.com/problems/maximum-or,Maximum OR,Medium,43.0%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1963","https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced","Minimum Number of Swaps to Make the String Balanced","Medium","78.0%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"636","https://leetcode.com/problems/exclusive-time-of-functions","Exclusive Time of Functions","Medium","66.2%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"2680","https://leetcode.com/problems/maximum-or","Maximum OR","Medium","43.0%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

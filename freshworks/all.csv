@@ -1,9 +1,9 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,100.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,100.0%
-1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.5%,75.0%
-11,https://leetcode.com/problems/container-with-most-water,Container With Most Water,Medium,60.0%,75.0%
-49,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,72.6%,75.0%
-253,https://leetcode.com/problems/meeting-rooms-ii,Meeting Rooms II,Medium,52.7%,87.5%
-80,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,Remove Duplicates from Sorted Array II,Medium,64.7%,75.0%
-238,https://leetcode.com/problems/product-of-array-except-self,Product of Array Except Self,Medium,68.9%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","100.0%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"1","https://leetcode.com/problems/two-sum","Two Sum","Easy","57.5%","75.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"11","https://leetcode.com/problems/container-with-most-water","Container With Most Water","Medium","60.0%","75.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"49","https://leetcode.com/problems/group-anagrams","Group Anagrams","Medium","72.6%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"253","https://leetcode.com/problems/meeting-rooms-ii","Meeting Rooms II","Medium","52.7%","87.5%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"80","https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii","Remove Duplicates from Sorted Array II","Medium","64.7%","75.0%","Arrays","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"238","https://leetcode.com/problems/product-of-array-except-self","Product of Array Except Self","Medium","68.9%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."

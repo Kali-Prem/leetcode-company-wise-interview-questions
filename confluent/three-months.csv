@@ -1,4 +1,4 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1797,https://leetcode.com/problems/design-authentication-manager,Design Authentication Manager,Medium,58.6%,87.5%
-37,https://leetcode.com/problems/sudoku-solver,Sudoku Solver,Hard,65.5%,100.0%
-36,https://leetcode.com/problems/valid-sudoku,Valid Sudoku,Medium,64.5%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1797","https://leetcode.com/problems/design-authentication-manager","Design Authentication Manager","Medium","58.6%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"37","https://leetcode.com/problems/sudoku-solver","Sudoku Solver","Hard","65.5%","100.0%","Backtracking","Backtracking","High","Must revise; common company/OA pattern."
+"36","https://leetcode.com/problems/valid-sudoku","Valid Sudoku","Medium","64.5%","100.0%","Strings; Backtracking","Hashing / Sliding Window; Backtracking","High","Must revise; common company/OA pattern."

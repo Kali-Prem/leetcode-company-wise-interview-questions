@@ -1,24 +1,24 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-41,https://leetcode.com/problems/first-missing-positive,First Missing Positive,Hard,42.9%,62.5%
-56,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,51.8%,100.0%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,62.5%
-253,https://leetcode.com/problems/meeting-rooms-ii,Meeting Rooms II,Medium,52.7%,100.0%
-347,https://leetcode.com/problems/top-k-frequent-elements,Top K Frequent Elements,Medium,66.4%,62.5%
-359,https://leetcode.com/problems/logger-rate-limiter,Logger Rate Limiter,Easy,76.8%,100.0%
-981,https://leetcode.com/problems/time-based-key-value-store,Time Based Key-Value Store,Medium,49.9%,100.0%
-228,https://leetcode.com/problems/summary-ranges,Summary Ranges,Easy,54.2%,75.0%
-210,https://leetcode.com/problems/course-schedule-ii,Course Schedule II,Medium,55.5%,75.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,62.5%
-219,https://leetcode.com/problems/contains-duplicate-ii,Contains Duplicate II,Easy,51.3%,75.0%
-2622,https://leetcode.com/problems/cache-with-time-limit,Cache With Time Limit,Medium,76.1%,100.0%
-322,https://leetcode.com/problems/coin-change,Coin Change,Medium,48.4%,62.5%
-139,https://leetcode.com/problems/word-break,Word Break,Medium,49.5%,62.5%
-743,https://leetcode.com/problems/network-delay-time,Network Delay Time,Medium,60.4%,75.0%
-79,https://leetcode.com/problems/word-search,Word Search,Medium,47.4%,75.0%
-332,https://leetcode.com/problems/reconstruct-itinerary,Reconstruct Itinerary,Hard,44.6%,100.0%
-3,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,39.1%,87.5%
-875,https://leetcode.com/problems/koko-eating-bananas,Koko Eating Bananas,Medium,50.0%,62.5%
-217,https://leetcode.com/problems/contains-duplicate,Contains Duplicate,Easy,64.4%,75.0%
-220,https://leetcode.com/problems/contains-duplicate-iii,Contains Duplicate III,Hard,24.8%,100.0%
-904,https://leetcode.com/problems/fruit-into-baskets,Fruit Into Baskets,Medium,51.1%,62.5%
-169,https://leetcode.com/problems/majority-element,Majority Element,Easy,66.3%,62.5%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"41","https://leetcode.com/problems/first-missing-positive","First Missing Positive","Hard","42.9%","62.5%","Arrays","Sorting / Prefix / Scan","Medium","Practice after high-priority questions; useful interview pattern."
+"56","https://leetcode.com/problems/merge-intervals","Merge Intervals","Medium","51.8%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","62.5%","Design","Data Structure Design","Medium","Practice after high-priority questions; useful interview pattern."
+"253","https://leetcode.com/problems/meeting-rooms-ii","Meeting Rooms II","Medium","52.7%","100.0%","Greedy","Greedy","High","Must revise; common company/OA pattern."
+"347","https://leetcode.com/problems/top-k-frequent-elements","Top K Frequent Elements","Medium","66.4%","62.5%","Heap","Priority Queue","Medium","Practice after high-priority questions; useful interview pattern."
+"359","https://leetcode.com/problems/logger-rate-limiter","Logger Rate Limiter","Easy","76.8%","100.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"981","https://leetcode.com/problems/time-based-key-value-store","Time Based Key-Value Store","Medium","49.9%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"228","https://leetcode.com/problems/summary-ranges","Summary Ranges","Easy","54.2%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"210","https://leetcode.com/problems/course-schedule-ii","Course Schedule II","Medium","55.5%","75.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","62.5%","Strings","Hashing / Sliding Window","Medium","Practice after high-priority questions; useful interview pattern."
+"219","https://leetcode.com/problems/contains-duplicate-ii","Contains Duplicate II","Easy","51.3%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2622","https://leetcode.com/problems/cache-with-time-limit","Cache With Time Limit","Medium","76.1%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"322","https://leetcode.com/problems/coin-change","Coin Change","Medium","48.4%","62.5%","Dynamic Programming","State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"139","https://leetcode.com/problems/word-break","Word Break","Medium","49.5%","62.5%","Strings; Dynamic Programming","Hashing / Sliding Window; State Transition","Medium","Practice after high-priority questions; useful interview pattern."
+"743","https://leetcode.com/problems/network-delay-time","Network Delay Time","Medium","60.4%","75.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"79","https://leetcode.com/problems/word-search","Word Search","Medium","47.4%","75.0%","Strings; Binary Search","Hashing / Sliding Window; Binary Search","High","Must revise; common company/OA pattern."
+"332","https://leetcode.com/problems/reconstruct-itinerary","Reconstruct Itinerary","Hard","44.6%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"3","https://leetcode.com/problems/longest-substring-without-repeating-characters","Longest Substring Without Repeating Characters","Medium","39.1%","87.5%","Strings; Trees","Hashing / Sliding Window; DFS / BFS; Sliding Window","High","Must revise; common company/OA pattern."
+"875","https://leetcode.com/problems/koko-eating-bananas","Koko Eating Bananas","Medium","50.0%","62.5%","Binary Search","Binary Search","Medium","Practice after high-priority questions; useful interview pattern."
+"217","https://leetcode.com/problems/contains-duplicate","Contains Duplicate","Easy","64.4%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"220","https://leetcode.com/problems/contains-duplicate-iii","Contains Duplicate III","Hard","24.8%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"904","https://leetcode.com/problems/fruit-into-baskets","Fruit Into Baskets","Medium","51.1%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."
+"169","https://leetcode.com/problems/majority-element","Majority Element","Easy","66.3%","62.5%","Core DSA","Implementation / Reasoning","Medium","Practice after high-priority questions; useful interview pattern."

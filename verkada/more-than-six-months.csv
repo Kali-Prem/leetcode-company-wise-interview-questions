@@ -1,17 +1,17 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-986,https://leetcode.com/problems/interval-list-intersections,Interval List Intersections,Medium,73.0%,87.5%
-1146,https://leetcode.com/problems/snapshot-array,Snapshot Array,Medium,36.8%,100.0%
-435,https://leetcode.com/problems/non-overlapping-intervals,Non-overlapping Intervals,Medium,57.1%,87.5%
-1235,https://leetcode.com/problems/maximum-profit-in-job-scheduling,Maximum Profit in Job Scheduling,Hard,54.7%,100.0%
-227,https://leetcode.com/problems/basic-calculator-ii,Basic Calculator II,Medium,46.9%,87.5%
-981,https://leetcode.com/problems/time-based-key-value-store,Time Based Key-Value Store,Medium,49.9%,100.0%
-1233,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem,Remove Sub-Folders from the Filesystem,Medium,78.6%,87.5%
-772,https://leetcode.com/problems/basic-calculator-iii,Basic Calculator III,Hard,53.3%,75.0%
-867,https://leetcode.com/problems/transpose-matrix,Transpose Matrix,Easy,76.4%,87.5%
-146,https://leetcode.com/problems/lru-cache,LRU Cache,Medium,47.4%,87.5%
-191,https://leetcode.com/problems/number-of-1-bits,Number of 1 Bits,Easy,76.8%,87.5%
-543,https://leetcode.com/problems/diameter-of-binary-tree,Diameter of Binary Tree,Easy,65.5%,75.0%
-88,https://leetcode.com/problems/merge-sorted-array,Merge Sorted Array,Easy,54.9%,75.0%
-36,https://leetcode.com/problems/valid-sudoku,Valid Sudoku,Medium,64.5%,75.0%
-12,https://leetcode.com/problems/integer-to-roman,Integer to Roman,Medium,71.0%,75.0%
-460,https://leetcode.com/problems/lfu-cache,LFU Cache,Hard,49.2%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"986","https://leetcode.com/problems/interval-list-intersections","Interval List Intersections","Medium","73.0%","87.5%","Arrays; Linked List","Sorting / Prefix / Scan; Two Pointers","High","Must revise; common company/OA pattern."
+"1146","https://leetcode.com/problems/snapshot-array","Snapshot Array","Medium","36.8%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"435","https://leetcode.com/problems/non-overlapping-intervals","Non-overlapping Intervals","Medium","57.1%","87.5%","Arrays; Greedy","Sorting / Prefix / Scan; Greedy","High","Must revise; common company/OA pattern."
+"1235","https://leetcode.com/problems/maximum-profit-in-job-scheduling","Maximum Profit in Job Scheduling","Hard","54.7%","100.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"227","https://leetcode.com/problems/basic-calculator-ii","Basic Calculator II","Medium","46.9%","87.5%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"981","https://leetcode.com/problems/time-based-key-value-store","Time Based Key-Value Store","Medium","49.9%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"1233","https://leetcode.com/problems/remove-sub-folders-from-the-filesystem","Remove Sub-Folders from the Filesystem","Medium","78.6%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"772","https://leetcode.com/problems/basic-calculator-iii","Basic Calculator III","Hard","53.3%","75.0%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"867","https://leetcode.com/problems/transpose-matrix","Transpose Matrix","Easy","76.4%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"146","https://leetcode.com/problems/lru-cache","LRU Cache","Medium","47.4%","87.5%","Design","Data Structure Design","High","Must revise; common company/OA pattern."
+"191","https://leetcode.com/problems/number-of-1-bits","Number of 1 Bits","Easy","76.8%","87.5%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."
+"543","https://leetcode.com/problems/diameter-of-binary-tree","Diameter of Binary Tree","Easy","65.5%","75.0%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"88","https://leetcode.com/problems/merge-sorted-array","Merge Sorted Array","Easy","54.9%","75.0%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"36","https://leetcode.com/problems/valid-sudoku","Valid Sudoku","Medium","64.5%","75.0%","Strings; Backtracking","Hashing / Sliding Window; Backtracking","High","Must revise; common company/OA pattern."
+"12","https://leetcode.com/problems/integer-to-roman","Integer to Roman","Medium","71.0%","75.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
+"460","https://leetcode.com/problems/lfu-cache","LFU Cache","Hard","49.2%","75.0%","Design","Data Structure Design","High","Must revise; common company/OA pattern."

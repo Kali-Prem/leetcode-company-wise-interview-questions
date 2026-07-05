@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1336,https://leetcode.com/problems/number-of-transactions-per-visit,Number of Transactions per Visit,Hard,47.9%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1336","https://leetcode.com/problems/number-of-transactions-per-visit","Number of Transactions per Visit","Hard","47.9%","100.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

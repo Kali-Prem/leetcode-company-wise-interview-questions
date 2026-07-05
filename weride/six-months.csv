@@ -1,2 +1,2 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1559,https://leetcode.com/problems/detect-cycles-in-2d-grid,Detect Cycles in 2D Grid,Medium,63.3%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1559","https://leetcode.com/problems/detect-cycles-in-2d-grid","Detect Cycles in 2D Grid","Medium","63.3%","100.0%","Linked List","Two Pointers","High","Must revise; common company/OA pattern."

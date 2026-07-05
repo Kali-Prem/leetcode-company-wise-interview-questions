@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-42,https://leetcode.com/problems/trapping-rain-water,Trapping Rain Water,Hard,67.4%,100.0%
-1653,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced,Minimum Deletions to Make String Balanced,Medium,68.2%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"42","https://leetcode.com/problems/trapping-rain-water","Trapping Rain Water","Hard","67.4%","100.0%","Core DSA","Two Pointers","High","Must revise; common company/OA pattern."
+"1653","https://leetcode.com/problems/minimum-deletions-to-make-string-balanced","Minimum Deletions to Make String Balanced","Medium","68.2%","100.0%","Arrays; Strings","Sorting / Prefix / Scan; Hashing / Sliding Window","High","Must revise; common company/OA pattern."

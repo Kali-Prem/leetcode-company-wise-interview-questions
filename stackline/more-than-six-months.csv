@@ -1,3 +1,3 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-310,https://leetcode.com/problems/minimum-height-trees,Minimum Height Trees,Medium,42.6%,100.0%
-502,https://leetcode.com/problems/ipo,IPO,Hard,53.5%,75.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"310","https://leetcode.com/problems/minimum-height-trees","Minimum Height Trees","Medium","42.6%","100.0%","Arrays; Trees","Sorting / Prefix / Scan; DFS / BFS","High","Must revise; common company/OA pattern."
+"502","https://leetcode.com/problems/ipo","IPO","Hard","53.5%","75.0%","Core DSA","Implementation / Reasoning","High","Must revise; common company/OA pattern."

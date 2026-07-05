@@ -1,7 +1,7 @@
-ID,URL,Title,Difficulty,Acceptance %,Frequency %
-1742,https://leetcode.com/problems/maximum-number-of-balls-in-a-box,Maximum Number of Balls in a Box,Easy,74.9%,87.5%
-2603,https://leetcode.com/problems/collect-coins-in-a-tree,Collect Coins in a Tree,Hard,40.1%,87.5%
-155,https://leetcode.com/problems/min-stack,Min Stack,Medium,58.2%,87.5%
-236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,Lowest Common Ancestor of a Binary Tree,Medium,69.3%,87.5%
-200,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,64.4%,100.0%
-20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,44.2%,100.0%
+"ID","URL","Title","Difficulty","Acceptance %","Frequency %","Topic Tags","Pattern","Revision Priority","Notes"
+"1742","https://leetcode.com/problems/maximum-number-of-balls-in-a-box","Maximum Number of Balls in a Box","Easy","74.9%","87.5%","Arrays","Sorting / Prefix / Scan","High","Must revise; common company/OA pattern."
+"2603","https://leetcode.com/problems/collect-coins-in-a-tree","Collect Coins in a Tree","Hard","40.1%","87.5%","Trees; Dynamic Programming","DFS / BFS; State Transition","High","Must revise; common company/OA pattern."
+"155","https://leetcode.com/problems/min-stack","Min Stack","Medium","58.2%","87.5%","Stack / Queue","Monotonic Stack / Simulation","High","Must revise; common company/OA pattern."
+"236","https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree","Lowest Common Ancestor of a Binary Tree","Medium","69.3%","87.5%","Trees","DFS / BFS","High","Must revise; common company/OA pattern."
+"200","https://leetcode.com/problems/number-of-islands","Number of Islands","Medium","64.4%","100.0%","Graphs","BFS / DFS / Topological Sort","High","Must revise; common company/OA pattern."
+"20","https://leetcode.com/problems/valid-parentheses","Valid Parentheses","Easy","44.2%","100.0%","Strings","Hashing / Sliding Window","High","Must revise; common company/OA pattern."
