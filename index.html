@@ -27,6 +27,23 @@
         --radius: 8px;
       }
 
+      body.dark-mode {
+        --bg: #020617;
+        --surface: #111827;
+        --surface-2: #1f2937;
+        --ink: #f8fafc;
+        --muted: #94a3b8;
+        --line: #334155;
+        --blue: #60a5fa;
+        --green: #34d399;
+        --amber: #fbbf24;
+        --red: #f87171;
+        --shadow: 0 24px 70px rgba(2, 6, 23, 0.52);
+        --glow:
+          0 18px 42px rgba(96, 165, 250, 0.2),
+          0 0 0 1px rgba(148, 163, 184, 0.16);
+      }
+
       * {
         box-sizing: border-box;
       }
@@ -49,6 +66,19 @@
           "Segoe UI",
           sans-serif;
         line-height: 1.5;
+        transition:
+          background 220ms ease,
+          color 220ms ease;
+      }
+
+      body.dark-mode {
+        background: linear-gradient(
+          180deg,
+          #020617 0%,
+          #0f172a 42%,
+          #111827 100%
+        );
+        color: var(--ink);
       }
 
       .sr-only {
@@ -89,6 +119,7 @@
         align-items: center;
         justify-content: space-between;
         gap: 16px;
+        flex-wrap: wrap;
       }
 
       .brand {
@@ -103,7 +134,24 @@
         height: 44px;
         display: block;
         flex: 0 0 auto;
+        position: relative;
+        border-radius: 14px;
         filter: drop-shadow(0 10px 22px rgba(59, 130, 246, 0.14));
+      }
+
+      .brand-mark::after {
+        content: "";
+        position: absolute;
+        inset: -6px;
+        border-radius: 18px;
+        background: radial-gradient(
+          circle,
+          rgba(96, 165, 250, 0.2) 0%,
+          rgba(96, 165, 250, 0.06) 48%,
+          transparent 72%
+        );
+        z-index: -1;
+        pointer-events: none;
       }
 
       .brand-mark img {
@@ -133,6 +181,43 @@
         margin: 0;
         color: var(--muted);
         font-size: 13px;
+      }
+
+      .topbar-actions {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .theme-toggle {
+        border: 1px solid rgba(255, 255, 255, 0.75);
+        background: linear-gradient(
+          135deg,
+          rgba(255, 255, 255, 0.95) 0%,
+          rgba(239, 247, 255, 0.95) 100%
+        );
+        color: #20508f;
+        padding: 8px 10px;
+        border-radius: 999px;
+        font-size: 15px;
+        line-height: 1;
+        cursor: pointer;
+        box-shadow: 0 6px 16px rgba(96, 165, 250, 0.12);
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease,
+          background 0.2s ease;
+      }
+
+      .theme-toggle:hover,
+      .theme-toggle:focus-visible {
+        transform: translateY(-1px);
+        box-shadow: 0 10px 20px rgba(96, 165, 250, 0.16);
+        background: linear-gradient(
+          135deg,
+          rgba(248, 252, 255, 1) 0%,
+          rgba(227, 240, 255, 1) 100%
+        );
       }
 
       .github-link {
@@ -167,10 +252,152 @@
         );
       }
 
+      body.dark-mode .topbar {
+        background: rgba(15, 23, 42, 0.7);
+        border-bottom-color: rgba(148, 163, 184, 0.28);
+        box-shadow: 0 10px 30px rgba(2, 6, 23, 0.3);
+      }
+
+      body.dark-mode .brand h1 {
+        background: linear-gradient(
+          135deg,
+          #f8fafc 0%,
+          #60a5fa 54%,
+          #a78bfa 100%
+        );
+      }
+
+      body.dark-mode .theme-toggle,
+      body.dark-mode .github-link {
+        background: linear-gradient(
+          135deg,
+          rgba(30, 41, 59, 0.95) 0%,
+          rgba(17, 24, 39, 0.95) 100%
+        );
+        color: #e2e8f0;
+        border-color: rgba(148, 163, 184, 0.3);
+        box-shadow: 0 8px 20px rgba(2, 6, 23, 0.35);
+      }
+
+      body.dark-mode .theme-toggle:hover,
+      body.dark-mode .theme-toggle:focus-visible,
+      body.dark-mode .github-link:hover,
+      body.dark-mode .github-link:focus-visible {
+        background: linear-gradient(
+          135deg,
+          rgba(51, 65, 85, 0.95) 0%,
+          rgba(30, 41, 59, 0.95) 100%
+        );
+      }
+
+      body.dark-mode .hero-copy,
+      body.dark-mode .quick-panel,
+      body.dark-mode .toolbar,
+      body.dark-mode .table-wrap,
+      body.dark-mode .stat,
+      body.dark-mode .roadmap-block,
+      body.dark-mode .pill,
+      body.dark-mode .quick-company,
+      body.dark-mode .clear-button,
+      body.dark-mode .toolbar input,
+      body.dark-mode .toolbar select,
+      body.dark-mode input,
+      body.dark-mode select,
+      body.dark-mode .popular-strip,
+      body.dark-mode .roadmap-panel {
+        background: var(--surface);
+        color: var(--ink);
+        border-color: var(--line);
+      }
+
+      body.dark-mode .toolbar {
+        background:
+          radial-gradient(
+            circle at 8% 0%,
+            rgba(96, 165, 250, 0.22),
+            transparent 28%
+          ),
+          radial-gradient(
+            circle at 92% 18%,
+            rgba(52, 211, 153, 0.16),
+            transparent 24%
+          ),
+          linear-gradient(
+            135deg,
+            rgba(17, 24, 39, 0.98) 0%,
+            rgba(15, 23, 42, 0.95) 100%
+          );
+      }
+
+      body.dark-mode th {
+        background: rgba(30, 41, 59, 0.95);
+        color: #cbd5e1;
+      }
+
+      body.dark-mode .roadmap-chip {
+        background: rgba(96, 165, 250, 0.16);
+        color: #dbeafe;
+        border-color: rgba(96, 165, 250, 0.24);
+      }
+
+      body.dark-mode .pill {
+        background: rgba(30, 41, 59, 0.95);
+        color: #e2e8f0;
+        border-color: rgba(148, 163, 184, 0.3);
+      }
+
+      body.dark-mode tbody tr:hover {
+        background: linear-gradient(
+          90deg,
+          rgba(96, 165, 250, 0.14),
+          rgba(52, 211, 153, 0.07),
+          rgba(17, 24, 39, 0.95)
+        );
+      }
+
+      body.dark-mode .meta-cell {
+        color: #cbd5e1;
+      }
+
+      body.dark-mode .priority-medium {
+        color: #fde68a;
+        background: #92400e;
+      }
+
+      body.dark-mode .priority-low {
+        color: #bbf7d0;
+        background: #166534;
+      }
+
+      body.dark-mode .easy {
+        color: #dcfce7;
+        background: #166534;
+      }
+
+      body.dark-mode .medium {
+        color: #fef3c7;
+        background: #92400e;
+      }
+
+      body.dark-mode .hard {
+        color: #fee2e2;
+        background: #991b1b;
+      }
+
       main {
         max-width: 1520px;
         margin: 0 auto;
         padding: 34px 40px 64px;
+      }
+
+      @media (max-width: 1024px) {
+        main {
+          padding: 24px 20px 48px;
+        }
+
+        .topbar-inner {
+          padding: 10px 20px;
+        }
       }
 
       .popular-strip {
@@ -676,15 +903,96 @@
           flex-direction: column;
         }
 
+        .topbar-actions {
+          width: 100%;
+          justify-content: space-between;
+        }
+
         .github-link {
           width: 100%;
           text-align: center;
+        }
+
+        .hero-copy {
+          padding: 24px;
+        }
+
+        .hero h2 {
+          font-size: 40px;
+        }
+
+        .hero-text {
+          font-size: 18px;
+        }
+      }
+
+      @media (max-width: 680px) {
+        .brand {
+          gap: 10px;
+          align-items: flex-start;
+        }
+
+        .brand-mark {
+          width: 140px;
+          height: 38px;
+        }
+
+        .brand p {
+          font-size: 12px;
+        }
+
+        .topbar-actions {
+          flex-direction: column;
+          align-items: stretch;
+        }
+
+        .theme-toggle,
+        .github-link {
+          width: 100%;
+          justify-content: center;
+          text-align: center;
+        }
+
+        .hero-copy,
+        .quick-panel,
+        .toolbar,
+        .stat,
+        .table-title,
+        .roadmap-panel,
+        .popular-strip {
+          padding: 14px;
+        }
+
+        .hero h2 {
+          font-size: 30px;
+        }
+
+        .hero-text {
+          font-size: 16px;
+        }
+
+        .controls {
+          gap: 12px;
+        }
+
+        .table-title {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        .clear-button {
+          width: 100%;
         }
       }
 
       @media (max-width: 520px) {
         .brand h1 {
           font-size: 16px;
+        }
+
+        .brand-mark {
+          width: 128px;
+          height: 34px;
         }
 
         .hero-copy,
@@ -695,12 +1003,16 @@
         }
 
         .hero h2 {
-          font-size: 32px;
+          font-size: 28px;
         }
 
-        .table-title {
-          align-items: flex-start;
-          flex-direction: column;
+        .hero-text {
+          font-size: 15px;
+        }
+
+        .popular-strip .quick-company {
+          min-width: 132px;
+          font-size: 14px;
         }
       }
 
@@ -792,6 +1104,16 @@
 
         .popular-strip .quick-list {
           width: 100%;
+        }
+      }
+
+      @media (max-width: 680px) {
+        .popular-strip {
+          padding: 12px;
+        }
+
+        .popular-strip .quick-list {
+          gap: 10px;
         }
       }
 
@@ -916,13 +1238,24 @@
               </p>
             </div>
           </div>
-          <a
-            class="github-link"
-            href="https://github.com/Kali-Prem"
-            target="_blank"
-            rel="noopener noreferrer"
-            >🐙 View GitHub Profile</a
-          >
+          <div class="topbar-actions">
+            <button
+              class="theme-toggle"
+              id="themeToggle"
+              type="button"
+              aria-label="Toggle dark mode"
+              title="Toggle dark mode"
+            >
+              🌙
+            </button>
+            <a
+              class="github-link"
+              href="https://github.com/Kali-Prem"
+              target="_blank"
+              rel="noopener noreferrer"
+              >🐙 View GitHub Profile</a
+            >
+          </div>
         </div>
       </header>
 
@@ -1065,6 +1398,29 @@
     </div>
 
     <script>
+      const themeToggle = document.getElementById("themeToggle");
+      const storedTheme = localStorage.getItem("dsa-doctor-theme");
+
+      const applyTheme = (theme) => {
+        document.body.classList.toggle("dark-mode", theme === "dark");
+        if (themeToggle) {
+          themeToggle.textContent = theme === "dark" ? "☀️" : "🌙";
+          themeToggle.setAttribute("aria-pressed", String(theme === "dark"));
+        }
+      };
+
+      const initialTheme = storedTheme || "light";
+      applyTheme(initialTheme);
+
+      if (themeToggle) {
+        themeToggle.addEventListener("click", () => {
+          const isDark = document.body.classList.contains("dark-mode");
+          const nextTheme = isDark ? "light" : "dark";
+          localStorage.setItem("dsa-doctor-theme", nextTheme);
+          applyTheme(nextTheme);
+        });
+      }
+
       const state = {
         companies: [],
         roadmaps: new Map(),
