@@ -84,6 +84,21 @@ Most interview lists are either scattered, outdated, or hard to filter. This rep
 
 ---
 
+## 🧭 Company-Wise Roadmaps
+
+The dashboard includes data-driven roadmaps for each company. Roadmaps are generated from the repository's CSV metadata using:
+
+| Signal | How It Improves Accuracy |
+| --- | --- |
+| Recency | Recent files such as `thirty-days.csv`, `three-months.csv`, and `six-months.csv` get higher weight |
+| Frequency | Higher `Frequency %` problems influence roadmap priority more strongly |
+| Difficulty | Medium and Hard problems slightly boost important interview areas |
+| Metadata | `Topic Tags`, `Pattern`, and `Revision Priority` shape the final study flow |
+
+Each roadmap highlights top topics, top patterns, and a 3-phase study flow for the selected company.
+
+---
+
 ## 🗂️ Repository Structure
 
 ```text
@@ -256,6 +271,8 @@ This project is available under the [MIT License](LICENSE).
 **Keep solving. Keep revising. Keep getting interview-ready.**
 
 </div>
+
+
 
 
 
