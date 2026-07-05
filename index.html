@@ -111,6 +111,57 @@
       padding: 34px 40px 64px;
     }
 
+    .popular-strip {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      padding: 18px 20px;
+      margin-bottom: 18px;
+      overflow: hidden;
+    }
+
+    .popular-strip-header {
+      flex: 0 0 auto;
+      min-width: 210px;
+    }
+
+    .popular-strip-header h3 {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .popular-strip-header p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .popular-strip .quick-list {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      gap: 12px;
+      overflow-x: auto;
+      padding: 6px 4px 8px;
+      scrollbar-width: thin;
+    }
+
+    .popular-strip .quick-company {
+      min-width: 150px;
+      justify-content: center;
+      gap: 12px;
+      background: linear-gradient(135deg, #ffffff, #f3f8ff);
+      border-color: rgba(21, 84, 232, 0.22);
+      box-shadow: 0 10px 24px rgba(21, 84, 232, 0.08);
+    }
+
+    .popular-strip .quick-company:hover {
+      transform: translateY(-3px);
+      border-color: rgba(21, 84, 232, 0.58);
+      background: linear-gradient(135deg, #1554e8, #14b8a6);
+      color: #ffffff;
+      box-shadow: 0 18px 42px rgba(21, 84, 232, 0.28), 12px 0 30px rgba(20, 184, 166, 0.18);
+    }
     .hero {
       display: grid;
       grid-template-columns: minmax(0, 1fr) 420px;
@@ -441,7 +492,7 @@
     .notes-cell {
       color: var(--muted);
       max-width: 300px;
-      min-width: 240px;
+      min-width: 210px;
     }
 
     .priority-high {
@@ -532,6 +583,164 @@
         flex-direction: column;
       }
     }
+
+    /* Compact popular companies strip */
+    .popular-strip {
+      border: 1px solid rgba(21, 84, 232, 0.16);
+      background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+    }
+
+    .popular-strip:hover {
+      transform: translateY(-2px);
+      border-color: rgba(21, 84, 232, 0.34);
+      box-shadow: var(--glow);
+    }
+
+    .popular-strip .quick-list {
+      display: flex;
+      flex-wrap: nowrap;
+      gap: 12px;
+      overflow-x: auto;
+      padding: 6px 4px 8px;
+    }
+
+    .popular-strip .quick-company {
+      flex: 0 0 auto;
+      min-width: 148px;
+      min-height: 48px;
+      justify-content: center;
+      gap: 10px;
+      background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%);
+      border-color: rgba(21, 84, 232, 0.24);
+      box-shadow: 0 10px 24px rgba(21, 84, 232, 0.08);
+    }
+
+    .popular-strip .quick-company:hover {
+      transform: translateY(-3px);
+      border-color: rgba(21, 84, 232, 0.62);
+      background: linear-gradient(135deg, #1554e8 0%, #14b8a6 100%);
+      color: #ffffff;
+      box-shadow: 0 18px 42px rgba(21, 84, 232, 0.28), 12px 0 30px rgba(20, 184, 166, 0.18);
+    }
+
+    @media (max-width: 900px) {
+      .popular-strip {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .popular-strip-header {
+        min-width: 0;
+      }
+
+      .popular-strip .quick-list {
+        width: 100%;
+      }
+    }
+
+    /* Company roadmap panel */
+    .roadmap-panel {
+      border: 1px solid rgba(21, 84, 232, 0.16);
+      background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 22px;
+      margin-bottom: 18px;
+      transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+    }
+
+    .roadmap-panel:hover {
+      transform: translateY(-2px);
+      border-color: rgba(21, 84, 232, 0.34);
+      box-shadow: var(--glow);
+    }
+
+    .roadmap-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+
+    .roadmap-head h3 {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .roadmap-head p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .roadmap-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1.4fr;
+      gap: 16px;
+    }
+
+    .roadmap-block {
+      border: 1px solid var(--line);
+      background: #ffffff;
+      border-radius: var(--radius);
+      padding: 14px;
+    }
+
+    .roadmap-block h4 {
+      margin: 0 0 10px;
+      color: #17365f;
+      font-size: 13px;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .roadmap-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .roadmap-chip {
+      border: 1px solid rgba(21, 84, 232, 0.18);
+      background: #edf4ff;
+      color: #17365f;
+      border-radius: 999px;
+      padding: 7px 10px;
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    .roadmap-steps {
+      display: grid;
+      gap: 10px;
+    }
+
+    .roadmap-step strong {
+      display: block;
+      color: var(--ink);
+      font-size: 14px;
+    }
+
+    .roadmap-step span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 2px;
+    }
+
+    @media (max-width: 900px) {
+      .roadmap-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .roadmap-head {
+        flex-direction: column;
+      }
+    }
   </style>
 </head>
 <body>
@@ -550,25 +759,11 @@
     </header>
 
     <main>
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero-copy">
-          <div>
-            <p class="eyebrow">Interview prep command center</p>
-            <h2 id="hero-title">Pick a company. Open the right list. Start solving.</h2>
-            <p class="hero-text">Browse 650+ company-wise datasets, switch between recent and complete question lists, and track solved problems directly in your browser.</p>
-          </div>
-          <div class="hero-actions" aria-label="Repository highlights">
-            <span class="pill">🏢 650+ Companies</span>
-            <span class="pill">📊 1600+ CSV Files</span>
-            <span class="pill">🧩 17K+ Entries</span>
-            <span class="pill">✅ Local Progress</span>
-          </div>
-        </div>
-
-        <aside class="quick-panel" aria-labelledby="popular-title">
+      <section class="popular-strip" aria-labelledby="popular-title">
+        <div class="popular-strip-header">
           <h3 id="popular-title">🔥 Popular Companies</h3>
-          <div class="quick-list" id="quickList"></div>
-        </aside>
+        </div>
+        <div class="quick-list" id="quickList"></div>
       </section>
 
       <section class="toolbar" aria-labelledby="filters-title">
@@ -613,6 +808,30 @@
         </div>
       </section>
 
+
+      <section class="roadmap-panel" aria-labelledby="roadmapTitle">
+        <div class="roadmap-head">
+          <div>
+            <h3 id="roadmapTitle">🧭 Company Roadmap</h3>
+            <p id="roadmapSubtitle">Data-driven topic and pattern focus for the selected company.</p>
+          </div>
+          <span class="roadmap-chip" id="roadmapPriority">High-priority first</span>
+        </div>
+        <div class="roadmap-grid">
+          <div class="roadmap-block">
+            <h4>Top Topics</h4>
+            <div class="roadmap-tags" id="roadmapTopics"></div>
+          </div>
+          <div class="roadmap-block">
+            <h4>Top Patterns</h4>
+            <div class="roadmap-tags" id="roadmapPatterns"></div>
+          </div>
+          <div class="roadmap-block">
+            <h4>Study Flow</h4>
+            <div class="roadmap-steps" id="roadmapSteps"></div>
+          </div>
+        </div>
+      </section>
       <section class="stats-grid" aria-label="Current dataset stats">
         <div class="stat"><span>Visible</span><strong id="visibleCount">0</strong></div>
         <div class="stat"><span>Easy</span><strong id="easyCount">0</strong></div>
@@ -658,6 +877,7 @@
   <script>
     const state = {
       companies: [],
+      roadmaps: new Map(),
       currentCompany: null,
       rows: [],
       filteredRows: []
@@ -677,6 +897,11 @@
     const mediumCount = document.getElementById('mediumCount');
     const hardCount = document.getElementById('hardCount');
     const clearProgress = document.getElementById('clearProgress');
+    const roadmapSubtitle = document.getElementById('roadmapSubtitle');
+    const roadmapPriority = document.getElementById('roadmapPriority');
+    const roadmapTopics = document.getElementById('roadmapTopics');
+    const roadmapPatterns = document.getElementById('roadmapPatterns');
+    const roadmapSteps = document.getElementById('roadmapSteps');
 
     const datasetOrder = [
       'thirty-days.csv',
@@ -775,6 +1000,41 @@
       topicSelect.innerHTML = '<option value="all">All topics</option>' + topics.map((topic) => `<option value="${escapeHTML(topic)}">${escapeHTML(topic)}</option>`).join('');
       topicSelect.value = topics.includes(selected) ? selected : 'all';
     }
+
+    function asArray(value) {
+      if (!value) return [];
+      return Array.isArray(value) ? value : [value];
+    }
+
+    function renderChips(target, items) {
+      target.innerHTML = asArray(items).filter(Boolean).map((item) => {
+        const name = typeof item === 'string' ? item : item.name;
+        return `<span class="roadmap-chip">${escapeHTML(name)}</span>`;
+      }).join('') || '<span class="roadmap-chip">Not enough data</span>';
+    }
+
+    function renderRoadmap(company) {
+      const roadmap = state.roadmaps.get(company.slug);
+      if (!roadmap) {
+        roadmapSubtitle.textContent = `${company.name || titleCase(company.slug)} roadmap will appear when data is available.`;
+        roadmapPriority.textContent = 'Roadmap pending';
+        renderChips(roadmapTopics, []);
+        renderChips(roadmapPatterns, []);
+        roadmapSteps.innerHTML = '<div class="roadmap-step"><strong>No roadmap yet</strong><span>Use the table filters to build a manual plan.</span></div>';
+        return;
+      }
+
+      roadmapSubtitle.textContent = `${roadmap.name || titleCase(company.slug)} focus areas are ranked from current CSV frequency, difficulty, and recency.`;
+      const counts = roadmap.priorityCounts || {};
+      roadmapPriority.textContent = `${counts.high || 0} High priority problems`;
+      renderChips(roadmapTopics, roadmap.topTopics);
+      renderChips(roadmapPatterns, roadmap.topPatterns);
+      roadmapSteps.innerHTML = asArray(roadmap.roadmap).map((step) => `
+        <div class="roadmap-step">
+          <strong>${escapeHTML(step.phase)}</strong>
+          <span>${escapeHTML(asArray(step.focus).join(', ') || 'Mixed practice')} • ${escapeHTML(step.action)}</span>
+        </div>`).join('');
+    }
     function renderStats(rows) {
       visibleCount.textContent = rows.length;
       easyCount.textContent = rows.filter((row) => row.Difficulty === 'Easy').length;
@@ -842,6 +1102,7 @@
 
       state.currentCompany = company;
       companySelect.value = company.slug;
+      renderRoadmap(company);
 
       const files = sortFiles(company.files || []);
       fileSelect.innerHTML = files.map((file) => `<option value="${escapeHTML(file)}">${escapeHTML(datasetLabels[file] || file)}</option>`).join('');
@@ -875,7 +1136,7 @@
     function renderCompanies() {
       companySelect.innerHTML = state.companies.map((company) => `<option value="${escapeHTML(company.slug)}">${escapeHTML(company.name || titleCase(company.slug))}</option>`).join('');
 
-      const preferred = ['amazon', 'google', 'microsoft', 'meta', 'adobe', 'flipkart'];
+      const preferred = ['amazon', 'google', 'microsoft', 'meta', 'adobe', 'flipkart', 'apple', 'netflix', 'uber', 'salesforce', 'oracle', 'walmart-labs', 'goldman-sachs', 'morgan-stanley', 'paytm', 'razorpay', 'swiggy', 'zomato', 'phonepe', 'atlassian'];
       const quickCompanies = preferred.map((slug) => state.companies.find((company) => company.slug === slug)).filter(Boolean);
 
       quickList.innerHTML = quickCompanies.map((company) => `
@@ -890,6 +1151,15 @@
         const response = await fetch('companies.json');
         if (!response.ok) throw new Error('companies.json not found');
         state.companies = await response.json();
+        try {
+          const roadmapResponse = await fetch('roadmaps.json');
+          if (roadmapResponse.ok) {
+            const roadmapData = await roadmapResponse.json();
+            state.roadmaps = new Map(asArray(roadmapData).map((item) => [item.slug, item]));
+          }
+        } catch (roadmapError) {
+          state.roadmaps = new Map();
+        }
         renderCompanies();
         await loadCompany(state.companies.some((company) => company.slug === 'amazon') ? 'amazon' : state.companies[0].slug);
       } catch (error) {
@@ -925,6 +1195,15 @@
   </script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
 
 
 
