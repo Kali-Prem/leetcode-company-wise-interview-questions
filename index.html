@@ -3,8 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>LeetCode Company-Wise Interview Questions</title>
-  <meta name="description" content="Search and practice company-wise LeetCode interview questions from structured CSV datasets." />
+  <title>DSA Doctor | Company-Wise Interview Questions</title>
+  <meta name="description" content="DSA Doctor helps candidates diagnose, filter, and practice company-wise LeetCode interview questions with roadmaps and metadata." />
+  <link rel="icon" href="assets/dsa-doctor-logo.svg" type="image/svg+xml" />
   <style>
     :root {
       --bg: #eef5ff;
@@ -34,6 +35,18 @@
       line-height: 1.5;
     }
 
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
     a {
       color: inherit;
     }
@@ -54,7 +67,7 @@
     .topbar-inner {
       max-width: 1520px;
       margin: 0 auto;
-      padding: 18px 32px;
+      padding: 10px 32px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -69,15 +82,18 @@
     }
 
     .brand-mark {
-      width: 48px;
-      height: 48px;
-      display: grid;
-      place-items: center;
-      border-radius: var(--radius);
-      background: linear-gradient(135deg, #0f172a 0%, #1554e8 100%);
-      color: #fff;
-      font-size: 24px;
+      width: 168px;
+      height: 44px;
+      display: block;
       flex: 0 0 auto;
+      filter: drop-shadow(0 10px 22px rgba(59, 130, 246, 0.14));
+    }
+
+    .brand-mark img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: contain;
     }
 
     .brand h1 {
@@ -85,23 +101,27 @@
       font-size: 22px;
       line-height: 1.1;
       letter-spacing: 0;
+      background: linear-gradient(135deg, #0f172a 0%, #1554e8 54%, #8b5cf6 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
     }
 
     .brand p {
-      margin: 3px 0 0;
+      margin: 0;
       color: var(--muted);
-      font-size: 14px;
+      font-size: 13px;
     }
 
     .github-link {
       border: 1px solid var(--line);
       background: var(--surface);
       color: var(--ink);
-      padding: 9px 12px;
+      padding: 8px 11px;
       border-radius: var(--radius);
       text-decoration: none;
       font-weight: 700;
-      font-size: 14px;
+      font-size: 13px;
       white-space: nowrap;
     }
 
@@ -748,10 +768,10 @@
     <header class="topbar">
       <div class="topbar-inner">
         <div class="brand">
-          <div class="brand-mark" aria-hidden="true">⚡</div>
+          <a class="brand-mark" href="index.html" aria-label="DSA Doctor home"><img src="assets/dsa-doctor-logo.svg" alt="DSA Doctor" /></a>
           <div>
-            <h1>Company-Wise DSA Dashboard</h1>
-            <p>Search, filter, and practice LeetCode questions by company.</p>
+            <h1 class="sr-only">DSA Doctor</h1>
+            <p>Diagnose company-wise DSA prep with smart filters, roadmaps, and revision signals.</p>
           </div>
         </div>
         <a class="github-link" href="https://github.com/Kali-Prem" target="_blank" rel="noopener noreferrer">🐙 View GitHub Profile</a>
@@ -1195,6 +1215,13 @@
   </script>
 </body>
 </html>
+
+
+
+
+
+
+
 
 
 

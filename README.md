@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🚀 LeetCode Company-Wise Interview Questions
+<img src="assets/dsa-doctor-logo.svg" alt="DSA Doctor" width="360" />
 
-### 🎯 A premium company-wise DSA preparation vault for coding interviews, online assessments, and revision sprints.
+# DSA Doctor
+
+### 🎯 A premium company-wise DSA diagnosis and preparation vault for coding interviews, online assessments, and revision sprints.
 
 [![Companies](https://img.shields.io/badge/🏢%20Companies-650%2B-0f172a?style=for-the-badge)](#-company-coverage)
 [![CSV Datasets](https://img.shields.io/badge/📊%20CSV%20Datasets-1600%2B-2563eb?style=for-the-badge)](#-repository-structure)
@@ -21,7 +23,7 @@
 
 ## 📌 Overview
 
-This repository organizes **LeetCode interview questions by company** so you can prepare with intent instead of randomly picking problems. Each company folder contains CSV datasets grouped by recency, making it easier to focus on questions that are frequently reported for interviews and online assessments.
+**DSA Doctor** organizes **LeetCode interview questions by company** so you can prepare with intent instead of randomly picking problems. Each company folder contains CSV datasets grouped by recency, making it easier to focus on questions that are frequently reported for interviews and online assessments.
 
 Use it when you want to:
 
@@ -271,6 +273,7 @@ This project is available under the [MIT License](LICENSE).
 **Keep solving. Keep revising. Keep getting interview-ready.**
 
 </div>
+
 
 
 
