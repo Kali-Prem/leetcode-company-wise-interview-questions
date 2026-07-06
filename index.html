@@ -1399,8 +1399,6 @@
 
     <script>
       const themeToggle = document.getElementById("themeToggle");
-      const storedTheme = localStorage.getItem("dsa-doctor-theme");
-
       const applyTheme = (theme) => {
         document.body.classList.toggle("dark-mode", theme === "dark");
         if (themeToggle) {
@@ -1409,7 +1407,7 @@
         }
       };
 
-      const initialTheme = storedTheme || "light";
+      const initialTheme = "light";
       applyTheme(initialTheme);
 
       if (themeToggle) {
@@ -1718,9 +1716,11 @@
         fileSelect.value =
           preferredFile && files.includes(preferredFile)
             ? preferredFile
-            : files.includes("thirty-days.csv")
-              ? "thirty-days.csv"
-              : files[0];
+            : files.includes("all.csv")
+              ? "all.csv"
+              : files.includes("thirty-days.csv")
+                ? "thirty-days.csv"
+                : files[0];
 
         await loadDataset();
       }
