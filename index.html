@@ -24,16 +24,22 @@
       content="Practice company-wise DSA questions, roadmaps, interview preparation, and coding resources for software engineering internships and placements."
     />
     <!-- <link rel="icon" href="assets/dsa-doctor-logo.svg" type="image/svg+xml" /> -->
-     <link rel="icon" href="/logo/favicon.ico" sizes="any">
-    <link rel="icon" href="/logo/favicon-48x48.png" sizes="any">
-    <link rel="icon" type="image/png" sizes="32x32" href="/logo/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/logo/favicon-16x16.png">
-    <link rel="apple-touch-icon" href="/logo/apple-touch-icon.png">  
-    <link rel="manifest" href="/logo/site.webmanifest"> 
-
-
-
-
+    <link rel="icon" href="/logo/favicon.ico" sizes="any" />
+    <link rel="icon" href="/logo/favicon-48x48.png" sizes="any" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/logo/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/logo/favicon-16x16.png"
+    />
+    <link rel="apple-touch-icon" href="/logo/apple-touch-icon.png" />
+    <link rel="manifest" href="/logo/site.webmanifest" />
 
     <style>
       :root {
@@ -924,9 +930,12 @@
           min-width: 100%;
         }
         /* Hide ID (col 2), Acceptance % (col 8), Frequency % (col 9) */
-        th:nth-child(2), td:nth-child(2),
-        th:nth-child(8), td:nth-child(8),
-        th:nth-child(9), td:nth-child(9) {
+        th:nth-child(2),
+        td:nth-child(2),
+        th:nth-child(8),
+        td:nth-child(8),
+        th:nth-child(9),
+        td:nth-child(9) {
           display: none;
         }
       }
@@ -990,14 +999,66 @@
       /* 4. Viewports < 800px (Portrait tablets) */
       @media (max-width: 800px) {
         /* Hide Pattern (col 6) and Notes (col 10) in addition */
-        th:nth-child(6), td:nth-child(6),
-        th:nth-child(10), td:nth-child(10) {
+        th:nth-child(6),
+        td:nth-child(6),
+        th:nth-child(10),
+        td:nth-child(10) {
           display: none;
         }
       }
 
       /* 5. Viewports < 768px (Small tablets / large phones) */
+      /* 5. Viewports < 768px (Small tablets / large phones) */
       @media (max-width: 768px) {
+        .topbar-inner {
+          flex-wrap: nowrap;
+          gap: 12px;
+          padding: 10px 16px;
+        }
+
+        .brand {
+          flex: 1 1 auto;
+          min-width: 0;
+          gap: 10px;
+        }
+
+        .brand > div {
+          display: none;
+        }
+
+        .brand-mark {
+          width: 120px;
+          height: 32px;
+          flex-shrink: 1;
+        }
+
+        .topbar-actions {
+          flex: 0 0 auto;
+          flex-shrink: 0;
+          gap: 10px;
+        }
+
+        .theme-toggle {
+          flex-shrink: 0;
+        }
+
+        .github-link {
+          padding: 8px 10px;
+          gap: 0;
+        }
+
+        .github-link-text {
+          position: absolute;
+          width: 1px;
+          height: 1px;
+          padding: 0;
+          margin: -1px;
+          overflow: hidden;
+          clip: rect(0, 0, 0, 0);
+          white-space: nowrap;
+          border: 0;
+        }
+
         .brand p {
           display: none;
         }
@@ -1019,8 +1080,8 @@
         }
 
         .brand-mark {
-          width: 140px;
-          height: 38px;
+          width: 110px;
+          height: 30px;
         }
 
         .hero-copy,
@@ -1079,7 +1140,8 @@
         }
 
         /* Hide Topic (col 5) on mobile screens */
-        th:nth-child(5), td:nth-child(5) {
+        th:nth-child(5),
+        td:nth-child(5) {
           display: none;
         }
       }
@@ -1091,8 +1153,8 @@
         }
 
         .brand-mark {
-          width: 128px;
-          height: 34px;
+          width: 100px;
+          height: 28px;
         }
 
         .hero h2 {
@@ -1119,7 +1181,6 @@
           padding: 8px 12px;
         }
       }
-
 
       /* Compact popular companies strip */
       .popular-strip {
@@ -1382,6 +1443,7 @@
               href="https://github.com/Kali-Prem"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="GitHub Profile"
             >
               <svg
                 viewBox="0 0 16 16"
@@ -1394,7 +1456,7 @@
                   d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.1 0 0 .67-.21 2.2.82a7.68 7.68 0 0 1 4.01 0c1.53-1.04 2.2-.82 2.2-.82.44 1.09.16 1.9.08 2.1.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"
                 />
               </svg>
-              GitHub Profile</a
+              <span class="github-link-text">GitHub Profile</span></a
             >
           </div>
         </div>
