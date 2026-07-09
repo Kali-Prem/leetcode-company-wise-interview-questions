@@ -41,6 +41,29 @@
     <link rel="apple-touch-icon" href="/logo/apple-touch-icon.png" />
     <link rel="manifest" href="/logo/site.webmanifest" />
 
+    <!-- ====Organisation Schema========= -->
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "DSA Doctor",
+        "url": "https://dsadoctor.com",
+        "logo": "https://dsadoctor.com/logo.png",
+        "founder": {
+          "@type": "Person",
+          "name": "Prem Kumar",
+          "url": "https://www.linkedin.com/in/kali-prem/",
+          "sameAs": [
+            "https://github.com/Kali-Prem",
+            "https://www.linkedin.com/in/kali-prem/"
+          ]
+        }
+      }
+    </script>
+
+    <!-- CSS Style -->
+
     <style>
       :root {
         --bg: #eef5ff;
@@ -1615,6 +1638,10 @@
           </div>
         </section>
 
+        <p class="footer-note">
+          © 2026 DSA Doctor • Founded by
+          <a href="/founder">Prem Kumar</a>
+        </p>
         <p class="footer-note">
           Made for focused interview preparation. Progress is stored locally in
           your browser.

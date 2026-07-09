@@ -1,0 +1,1 @@
+document.querySelectorAll('a').forEach(a=>a.addEventListener('mouseenter',()=>a.style.opacity='0.9'));

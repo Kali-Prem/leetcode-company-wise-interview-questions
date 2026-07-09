@@ -1,0 +1,91 @@
+:root {
+  --bg: #f4f7fb;
+  --card: rgba(255, 255, 255, 0.75);
+  --text: #111827;
+  --blue: #2563eb;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: radial-gradient(circle at top, #dbeafe, #f4f7fb);
+  color: var(--text);
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 8%;
+  backdrop-filter: blur(18px);
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.6);
+}
+.nav a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 700;
+  margin-left: 18px;
+}
+.hero {
+  max-width: 1200px;
+  margin: auto;
+  padding: 80px 8%;
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  gap: 60px;
+  align-items: center;
+}
+.hero img {
+  width: 100%;
+  border-radius: 24px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.15);
+}
+.badge {
+  background: #dbeafe;
+  color: var(--blue);
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-weight: 700;
+}
+h1 {
+  font-size: 64px;
+  margin: 16px 0 8px;
+}
+h2 {
+  color: #2563eb;
+}
+.buttons a {
+  display: inline-block;
+  margin: 18px 12px 0 0;
+  padding: 14px 22px;
+  border-radius: 999px;
+  text-decoration: none;
+  background: #111827;
+  color: #fff;
+}
+.buttons .primary {
+  background: #2563eb;
+}
+.card {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 40px 8%;
+  background: var(--card);
+  backdrop-filter: blur(20px);
+  border-radius: 28px;
+}
+footer {
+  text-align: center;
+  padding: 40px;
+  color: #64748b;
+}
+@media (max-width: 900px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+  h1 {
+    font-size: 42px;
+  }
+}
