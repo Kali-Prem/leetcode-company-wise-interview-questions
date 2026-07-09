@@ -425,16 +425,6 @@
         padding: 34px 40px 64px;
       }
 
-      @media (max-width: 1024px) {
-        main {
-          padding: 24px 20px 48px;
-        }
-
-        .topbar-inner {
-          padding: 10px 20px;
-        }
-      }
-
       .popular-strip {
         display: flex;
         align-items: center;
@@ -792,9 +782,9 @@
         cursor: pointer;
         white-space: nowrap;
       }
-
       .table-scroll {
         overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
       }
 
       table {
@@ -926,26 +916,40 @@
         font-size: 14px;
       }
 
-      @media (max-width: 900px) {
-        .hero,
-        .controls,
-        .stats-grid {
-          grid-template-columns: 1fr;
+      /* RESPONSIVE BREAKPOINTS */
+
+      /* 1. Viewports < 1200px (Laptops / large tablets) */
+      @media (max-width: 1200px) {
+        table {
+          min-width: 100%;
+        }
+        /* Hide ID (col 2), Acceptance % (col 8), Frequency % (col 9) */
+        th:nth-child(2), td:nth-child(2),
+        th:nth-child(8), td:nth-child(8),
+        th:nth-child(9), td:nth-child(9) {
+          display: none;
+        }
+      }
+
+      /* 2. Viewports < 1024px (Tablets) */
+      @media (max-width: 1024px) {
+        main {
+          padding: 24px 20px 48px;
         }
 
         .topbar-inner {
-          align-items: flex-start;
-          flex-direction: column;
+          padding: 10px 20px;
         }
 
-        .topbar-actions {
-          width: 100%;
-          justify-content: space-between;
+        .controls {
+          grid-template-columns: repeat(3, 1fr);
         }
+      }
 
-        .github-link {
-          width: 100%;
-          text-align: center;
+      /* 3. Viewports < 900px (Medium tablets / landscape phones) */
+      @media (max-width: 900px) {
+        .hero {
+          grid-template-columns: 1fr;
         }
 
         .hero-copy {
@@ -959,33 +963,64 @@
         .hero-text {
           font-size: 18px;
         }
+
+        .roadmap-grid {
+          grid-template-columns: 1fr 1fr;
+        }
+
+        .roadmap-grid > .roadmap-block:last-child {
+          grid-column: span 2;
+        }
+
+        .popular-strip {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        .popular-strip-header {
+          min-width: 0;
+        }
+
+        .popular-strip .quick-list {
+          width: 100%;
+          -webkit-overflow-scrolling: touch;
+        }
       }
 
+      /* 4. Viewports < 800px (Portrait tablets) */
+      @media (max-width: 800px) {
+        /* Hide Pattern (col 6) and Notes (col 10) in addition */
+        th:nth-child(6), td:nth-child(6),
+        th:nth-child(10), td:nth-child(10) {
+          display: none;
+        }
+      }
+
+      /* 5. Viewports < 768px (Small tablets / large phones) */
+      @media (max-width: 768px) {
+        .brand p {
+          display: none;
+        }
+
+        .stats-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+
+        #roadmapCard {
+          grid-column: span 2;
+        }
+      }
+
+      /* 6. Viewports < 680px (Standard phones) */
       @media (max-width: 680px) {
         .brand {
           gap: 10px;
-          align-items: flex-start;
+          align-items: center;
         }
 
         .brand-mark {
           width: 140px;
           height: 38px;
-        }
-
-        .brand p {
-          font-size: 12px;
-        }
-
-        .topbar-actions {
-          flex-direction: column;
-          align-items: stretch;
-        }
-
-        .theme-toggle,
-        .github-link {
-          width: 100%;
-          justify-content: center;
-          text-align: center;
         }
 
         .hero-copy,
@@ -1007,7 +1042,12 @@
         }
 
         .controls {
+          grid-template-columns: repeat(2, 1fr);
           gap: 12px;
+        }
+
+        .controls > label:last-child {
+          grid-column: span 2;
         }
 
         .table-title {
@@ -1018,8 +1058,33 @@
         .clear-button {
           width: 100%;
         }
+
+        .popular-strip {
+          padding: 12px;
+        }
+
+        .popular-strip .quick-list {
+          gap: 10px;
+        }
       }
 
+      /* 7. Viewports < 600px (Small phones) */
+      @media (max-width: 600px) {
+        .roadmap-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .roadmap-grid > .roadmap-block:last-child {
+          grid-column: span 1;
+        }
+
+        /* Hide Topic (col 5) on mobile screens */
+        th:nth-child(5), td:nth-child(5) {
+          display: none;
+        }
+      }
+
+      /* 8. Viewports < 520px (Extra small phones) */
       @media (max-width: 520px) {
         .brand h1 {
           font-size: 16px;
@@ -1028,13 +1093,6 @@
         .brand-mark {
           width: 128px;
           height: 34px;
-        }
-
-        .hero-copy,
-        .quick-panel,
-        .toolbar,
-        .stat {
-          padding: 14px;
         }
 
         .hero h2 {
@@ -1050,6 +1108,18 @@
           font-size: 14px;
         }
       }
+
+      /* 9. Viewports < 480px (Tiny viewports) */
+      @media (max-width: 480px) {
+        main {
+          padding: 16px 12px 32px;
+        }
+
+        .topbar-inner {
+          padding: 8px 12px;
+        }
+      }
+
 
       /* Compact popular companies strip */
       .popular-strip {
@@ -1125,31 +1195,6 @@
 
       .popular-strip .quick-company:hover .company-logo-fallback {
         color: #ffffff;
-      }
-
-      @media (max-width: 900px) {
-        .popular-strip {
-          align-items: flex-start;
-          flex-direction: column;
-        }
-
-        .popular-strip-header {
-          min-width: 0;
-        }
-
-        .popular-strip .quick-list {
-          width: 100%;
-        }
-      }
-
-      @media (max-width: 680px) {
-        .popular-strip {
-          padding: 12px;
-        }
-
-        .popular-strip .quick-list {
-          gap: 10px;
-        }
       }
 
       /* Company roadmap panel */
@@ -1303,16 +1348,6 @@
         color: var(--muted);
         font-size: 13px;
         margin-top: 2px;
-      }
-
-      @media (max-width: 900px) {
-        .roadmap-grid {
-          grid-template-columns: 1fr;
-        }
-
-        .roadmap-head {
-          flex-direction: column;
-        }
       }
     </style>
   </head>
