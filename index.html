@@ -245,19 +245,23 @@
       }
 
       .theme-toggle {
-        border: 1px solid rgba(255, 255, 255, 0.75);
-        background: linear-gradient(
-          135deg,
-          rgba(255, 255, 255, 0.95) 0%,
-          rgba(239, 247, 255, 0.95) 100%
-        );
-        color: #20508f;
-        padding: 8px 10px;
+        width: 40px;
+        height: 40px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        flex: 0 0 auto;
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        background: linear-gradient(135deg, #ff7a18, #ffb347);
+        color: #fff;
+        padding: 0;
         border-radius: 999px;
         font-size: 15px;
         line-height: 1;
         cursor: pointer;
-        box-shadow: 0 6px 16px rgba(96, 165, 250, 0.12);
+        box-shadow:
+          0 6px 18px rgba(255, 122, 24, 0.28),
+          inset 0 1px 1px rgba(255, 255, 255, 0.35);
         transition:
           transform 0.2s ease,
           box-shadow 0.2s ease,
@@ -266,39 +270,36 @@
 
       .theme-toggle:hover,
       .theme-toggle:focus-visible {
-        transform: translateY(-1px);
-        box-shadow: 0 10px 20px rgba(96, 165, 250, 0.16);
-        background: linear-gradient(
-          135deg,
-          rgba(248, 252, 255, 1) 0%,
-          rgba(227, 240, 255, 1) 100%
-        );
+        transform: translateY(-2px) scale(1.04);
+        box-shadow:
+          0 12px 28px rgba(255, 122, 24, 0.4),
+          inset 0 1px 1px rgba(255, 255, 255, 0.45);
+        background: linear-gradient(135deg, #ff6b00, #ffa62b);
       }
 
       .github-link {
         display: inline-flex;
         align-items: center;
+        justify-content: center;
         gap: 8px;
-        border: 1px solid rgba(255, 255, 255, 0.75);
-        background: linear-gradient(
-          135deg,
-          rgba(255, 255, 255, 0.95) 0%,
-          rgba(239, 247, 255, 0.95) 100%
-        );
-        color: #20508f;
-        padding: 8px 12px;
+        min-height: 40px;
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        background: linear-gradient(135deg, #ff7a18, #ffb347);
+        color: #fff;
+        padding: 8px 14px;
         border-radius: 999px;
         text-decoration: none;
         font-weight: 700;
         font-size: 13px;
         white-space: nowrap;
-        box-shadow: 0 6px 16px rgba(96, 165, 250, 0.12);
+        box-shadow:
+          0 6px 18px rgba(255, 122, 24, 0.28),
+          inset 0 1px 1px rgba(255, 255, 255, 0.35);
         transition:
           transform 0.2s ease,
           box-shadow 0.2s ease,
           background 0.2s ease;
       }
-
       .github-link svg {
         width: 16px;
         height: 16px;
@@ -307,15 +308,12 @@
 
       .github-link:hover,
       .github-link:focus-visible {
-        transform: translateY(-1px);
-        box-shadow: 0 10px 20px rgba(96, 165, 250, 0.16);
-        background: linear-gradient(
-          135deg,
-          rgba(248, 252, 255, 1) 0%,
-          rgba(227, 240, 255, 1) 100%
-        );
+        transform: translateY(-2px) scale(1.04);
+        box-shadow:
+          0 12px 28px rgba(255, 122, 24, 0.4),
+          inset 0 1px 1px rgba(255, 255, 255, 0.45);
+        background: linear-gradient(135deg, #ff6b00, #ffa62b);
       }
-
       body.dark-mode .topbar {
         background: rgba(15, 23, 42, 0.7);
         border-bottom-color: rgba(148, 163, 184, 0.28);
@@ -333,27 +331,19 @@
 
       body.dark-mode .theme-toggle,
       body.dark-mode .github-link {
-        background: linear-gradient(
-          135deg,
-          rgba(30, 41, 59, 0.95) 0%,
-          rgba(17, 24, 39, 0.95) 100%
-        );
-        color: #e2e8f0;
-        border-color: rgba(148, 163, 184, 0.3);
-        box-shadow: 0 8px 20px rgba(2, 6, 23, 0.35);
+        background: linear-gradient(135deg, #ff7a18, #ffb347);
+        color: #fff;
+        border-color: rgba(255, 255, 255, 0.25);
+        box-shadow:
+          0 6px 18px rgba(255, 122, 24, 0.28),
+          inset 0 1px 1px rgba(255, 255, 255, 0.35);
       }
-
       body.dark-mode .theme-toggle:hover,
       body.dark-mode .theme-toggle:focus-visible,
       body.dark-mode .github-link:hover,
       body.dark-mode .github-link:focus-visible {
-        background: linear-gradient(
-          135deg,
-          rgba(51, 65, 85, 0.95) 0%,
-          rgba(30, 41, 59, 0.95) 100%
-        );
+        background: linear-gradient(135deg, #ff6b00, #ffa62b);
       }
-
       body.dark-mode .hero-copy,
       body.dark-mode .quick-panel,
       body.dark-mode .toolbar,
@@ -633,7 +623,6 @@
           0 12px 26px rgba(15, 23, 42, 0.08);
       }
 
-      .github-link:hover,
       .clear-button:hover {
         border-color: rgba(21, 84, 232, 0.5);
         background: linear-gradient(135deg, #1554e8, #14b8a6);
@@ -1061,15 +1050,17 @@
           gap: 10px;
         }
 
+
         .theme-toggle {
           flex-shrink: 0;
         }
 
         .github-link {
-          padding: 8px 10px;
+          width: 40px;
+          min-height: 40px;
+          padding: 0;
           gap: 0;
         }
-
         .github-link-text {
           position: absolute;
           width: 1px;
@@ -1433,6 +1424,545 @@
         font-size: 13px;
         margin-top: 2px;
       }
+
+
+      .company-mode-content,
+      .must-solve-section {
+        transition:
+          opacity 360ms ease,
+          transform 360ms ease,
+          filter 360ms ease;
+      }
+
+      .mode-fade-out {
+        opacity: 0;
+        transform: translateY(18px);
+        filter: blur(6px);
+        pointer-events: none;
+      }
+
+      .mode-fade-in {
+        animation: modeFadeIn 520ms ease both;
+      }
+
+      @keyframes modeFadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(22px);
+          filter: blur(8px);
+        }
+
+        to {
+          opacity: 1;
+          transform: translateY(0);
+          filter: blur(0);
+        }
+      }
+
+      .must-solve-section.hidden,
+      .company-mode-content.hidden {
+        display: none;
+      }
+
+      .must-solve-section {
+        display: grid;
+        gap: 18px;
+      }
+
+      .must-back-link,
+      .must-primary,
+      .must-secondary,
+      .must-reset,
+      .must-open-link {
+        border: 1px solid rgba(255, 255, 255, 0.35);
+        border-radius: 999px;
+        cursor: pointer;
+        font: inherit;
+        font-weight: 900;
+        text-decoration: none;
+        transition:
+          transform 180ms ease,
+          box-shadow 180ms ease,
+          background 180ms ease,
+          border-color 180ms ease;
+      }
+
+      .must-back-link {
+        justify-self: start;
+        background: rgba(255, 255, 255, 0.72);
+        color: #17365f;
+        padding: 10px 14px;
+        box-shadow: 0 12px 28px rgba(21, 84, 232, 0.1);
+      }
+
+      .must-hero {
+        position: relative;
+        overflow: hidden;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 320px;
+        gap: 24px;
+        align-items: stretch;
+        border: 1px solid rgba(255, 255, 255, 0.58);
+        border-radius: var(--radius);
+        padding: clamp(28px, 5vw, 58px);
+        background:
+          radial-gradient(circle at 8% 0%, rgba(255, 122, 24, 0.22), transparent 30%),
+          radial-gradient(circle at 92% 12%, rgba(20, 184, 166, 0.2), transparent 28%),
+          linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(239, 247, 255, 0.94));
+        box-shadow:
+          0 30px 90px rgba(21, 84, 232, 0.18),
+          inset 0 1px 0 rgba(255, 255, 255, 0.92);
+      }
+
+      .must-hero::before {
+        content: "";
+        position: absolute;
+        inset: 0 0 auto 0;
+        height: 6px;
+        background: linear-gradient(90deg, #ff7a18, #14b8a6, #1554e8);
+      }
+
+      .must-kicker {
+        margin: 0 0 12px;
+        color: #f97316;
+        font-size: 14px;
+        font-weight: 900;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .must-hero h2 {
+        margin: 0;
+        max-width: 920px;
+        font-size: clamp(42px, 5.2vw, 78px);
+        line-height: 1.02;
+        letter-spacing: 0;
+      }
+
+      .must-subtitle {
+        max-width: 860px;
+        margin: 18px 0 0;
+        color: #334155;
+        font-size: clamp(19px, 2.2vw, 26px);
+        font-weight: 800;
+      }
+
+      .must-small {
+        max-width: 780px;
+        margin: 12px 0 0;
+        color: var(--muted);
+        font-size: 17px;
+      }
+
+      .must-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 28px;
+      }
+
+      .must-primary,
+      .must-secondary,
+      .must-reset,
+      .must-open-link {
+        padding: 11px 16px;
+      }
+
+      .must-primary,
+      .must-open-link {
+        background: linear-gradient(135deg, #ff7a18, #ffb347);
+        color: #ffffff;
+        box-shadow:
+          0 12px 28px rgba(255, 122, 24, 0.3),
+          inset 0 1px 1px rgba(255, 255, 255, 0.35);
+      }
+
+      .must-secondary,
+      .must-reset {
+        background: rgba(255, 255, 255, 0.72);
+        color: #17365f;
+        box-shadow: 0 12px 28px rgba(21, 84, 232, 0.1);
+      }
+
+      .must-back-link:hover,
+      .must-primary:hover,
+      .must-secondary:hover,
+      .must-reset:hover,
+      .must-open-link:hover {
+        transform: translateY(-2px) scale(1.03);
+        box-shadow: 0 18px 42px rgba(255, 122, 24, 0.28);
+      }
+
+      .must-progress-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 14px;
+        min-height: 220px;
+        border: 1px solid rgba(255, 255, 255, 0.62);
+        border-radius: var(--radius);
+        padding: 24px;
+        background: rgba(255, 255, 255, 0.68);
+        backdrop-filter: blur(18px) saturate(160%);
+        -webkit-backdrop-filter: blur(18px) saturate(160%);
+        box-shadow: 0 22px 52px rgba(15, 23, 42, 0.12);
+      }
+
+      .must-progress-card span,
+      .must-stat span,
+      .must-section-head p {
+        color: var(--muted);
+        font-size: 13px;
+        font-weight: 900;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      .must-progress-card strong {
+        font-size: 48px;
+        line-height: 1;
+      }
+
+      .must-progress-track {
+        height: 12px;
+        overflow: hidden;
+        border-radius: 999px;
+        background: rgba(21, 84, 232, 0.12);
+      }
+
+      .must-progress-fill {
+        width: 0%;
+        height: 100%;
+        border-radius: inherit;
+        background: linear-gradient(90deg, #ff7a18, #14b8a6, #1554e8);
+        transition: width 420ms ease;
+      }
+
+      .must-stats {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .must-stat,
+      .must-info-card,
+      .must-pattern-card {
+        border: 1px solid rgba(255, 255, 255, 0.58);
+        border-radius: var(--radius);
+        background: rgba(255, 255, 255, 0.74);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(18px) saturate(160%);
+        -webkit-backdrop-filter: blur(18px) saturate(160%);
+        transition:
+          transform 180ms ease,
+          box-shadow 180ms ease,
+          border-color 180ms ease;
+      }
+
+      .must-stat:hover,
+      .must-info-card:hover,
+      .must-pattern-card:hover {
+        transform: translateY(-4px);
+        border-color: rgba(255, 122, 24, 0.38);
+        box-shadow:
+          0 24px 70px rgba(255, 122, 24, 0.14),
+          0 0 0 1px rgba(20, 184, 166, 0.13);
+      }
+
+      .must-stat {
+        padding: 18px;
+      }
+
+      .must-stat strong {
+        display: block;
+        margin-top: 8px;
+        font-size: clamp(24px, 3vw, 34px);
+        line-height: 1;
+      }
+
+      .must-info-card {
+        padding: 26px;
+      }
+
+      .must-info-card h3,
+      .must-section-head h3,
+      .must-pattern-card h4 {
+        margin: 0;
+      }
+
+      .must-info-card p {
+        margin: 12px 0 0;
+        color: #334155;
+        font-size: 16px;
+      }
+
+      .must-section-head {
+        display: flex;
+        align-items: end;
+        justify-content: space-between;
+        gap: 16px;
+        margin-top: 8px;
+      }
+
+      .must-section-head p {
+        margin: 4px 0 0;
+        text-transform: none;
+        letter-spacing: 0;
+      }
+
+      .must-pattern-grid {
+        display: grid;
+        gap: 16px;
+      }
+
+      .must-pattern-card {
+        overflow: hidden;
+        padding: 22px;
+      }
+
+      .must-pattern-header {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(220px, 0.5fr);
+        gap: 18px;
+        align-items: start;
+        margin-bottom: 18px;
+      }
+
+      .must-pattern-header h4 {
+        font-size: 24px;
+      }
+
+      .must-pattern-header p {
+        margin: 8px 0 0;
+        color: var(--muted);
+      }
+
+      .must-why {
+        border-left: 4px solid #ff7a18;
+        padding-left: 12px;
+        color: #17365f;
+        font-weight: 800;
+      }
+
+      .must-question-list {
+        display: grid;
+        gap: 10px;
+      }
+
+      .must-question {
+        display: grid;
+        grid-template-columns: 28px 72px minmax(0, 1fr) auto auto;
+        gap: 12px;
+        align-items: center;
+        padding: 13px;
+        border: 1px solid rgba(21, 84, 232, 0.14);
+        border-radius: var(--radius);
+        background: rgba(255, 255, 255, 0.64);
+        transition:
+          transform 160ms ease,
+          box-shadow 160ms ease,
+          border-color 160ms ease;
+      }
+
+      .must-question:hover {
+        transform: translateY(-2px);
+        border-color: rgba(255, 122, 24, 0.35);
+        box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+      }
+
+      .must-question input {
+        width: 22px;
+        height: 22px;
+        min-height: auto;
+        accent-color: #14b8a6;
+      }
+
+      .must-number {
+        color: var(--muted);
+        font-weight: 900;
+      }
+
+      .must-name {
+        min-width: 0;
+        font-weight: 900;
+      }
+
+      .must-open-link {
+        justify-self: end;
+        padding: 8px 12px;
+        font-size: 13px;
+        white-space: nowrap;
+      }
+
+      .must-question.is-complete .must-name,
+      .must-question.is-complete .must-number {
+        color: var(--muted);
+        text-decoration: line-through;
+      }
+
+      body.dark-mode .must-back-link,
+      body.dark-mode .must-secondary,
+      body.dark-mode .must-reset,
+      body.dark-mode .must-stat,
+      body.dark-mode .must-info-card,
+      body.dark-mode .must-pattern-card,
+      body.dark-mode .must-progress-card,
+      body.dark-mode .must-question {
+        background: rgba(17, 24, 39, 0.78);
+        border-color: rgba(148, 163, 184, 0.24);
+        color: var(--ink);
+      }
+
+      body.dark-mode .must-hero {
+        background:
+          radial-gradient(circle at 8% 0%, rgba(255, 122, 24, 0.18), transparent 30%),
+          radial-gradient(circle at 92% 12%, rgba(20, 184, 166, 0.16), transparent 28%),
+          linear-gradient(135deg, rgba(17, 24, 39, 0.96), rgba(15, 23, 42, 0.94));
+        border-color: rgba(148, 163, 184, 0.24);
+      }
+
+      body.dark-mode .must-subtitle,
+      body.dark-mode .must-info-card p,
+      body.dark-mode .must-why {
+        color: #dbeafe;
+      }
+
+      body.dark-mode .must-progress-track {
+        background: rgba(148, 163, 184, 0.18);
+      }
+
+      @media (max-width: 980px) {
+        .must-hero,
+        .must-pattern-header {
+          grid-template-columns: 1fr;
+        }
+
+        .must-stats {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 680px) {
+        .must-hero {
+          padding: 28px 18px;
+        }
+
+        .must-section-head {
+          align-items: stretch;
+          flex-direction: column;
+        }
+
+        .must-reset {
+          width: 100%;
+        }
+
+        .must-stats {
+          grid-template-columns: 1fr;
+        }
+
+        .must-question {
+          grid-template-columns: 28px 64px minmax(0, 1fr);
+        }
+
+        .must-question .tag,
+        .must-open-link {
+          grid-column: 3;
+          justify-self: start;
+        }
+      }
+
+      @media (max-width: 460px) {
+        .must-actions {
+          flex-direction: column;
+        }
+
+        .must-primary,
+        .must-secondary {
+          width: 100%;
+        }
+
+        .must-progress-card strong {
+          font-size: 38px;
+        }
+      }
+
+      /*--------- Must Sove---------- */
+      .must-solve-btn {
+        width: 146px;
+        height: 40px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        flex: 0 0 auto;
+        gap: 8px;
+        padding: 10px 14px;
+        background: linear-gradient(135deg, #ff7a18, #ffb347);
+        color: #fff;
+        border-radius: 999px;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: 0.2px;
+        white-space: nowrap;
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        box-shadow:
+          0 6px 18px rgba(255, 122, 24, 0.28),
+          inset 0 1px 1px rgba(255, 255, 255, 0.35);
+        transition: all 0.25s ease;
+      }
+
+      .must-solve-btn:hover {
+        transform: translateY(-2px) scale(1.04);
+        box-shadow:
+          0 12px 28px rgba(255, 122, 24, 0.4),
+          inset 0 1px 1px rgba(255, 255, 255, 0.45);
+        background: linear-gradient(135deg, #ff6b00, #ffa62b);
+      }
+
+      .must-solve-btn:active {
+        transform: scale(0.96);
+      }
+
+      .must-solve-btn span {
+        font-size: 18px;
+        line-height: 1;
+      }
+
+
+      @media (max-width: 768px) {
+        .must-solve-btn {
+          width: 118px;
+          padding: 8px 10px;
+          font-size: 13px;
+          gap: 6px;
+        }
+      }
+      @media (max-width: 420px) {
+        .topbar-inner {
+          gap: 8px;
+          padding: 10px 12px;
+        }
+
+        .brand-mark {
+          width: 104px;
+        }
+
+        .topbar-actions {
+          gap: 8px;
+        }
+
+        .must-solve-btn {
+          width: 40px;
+          padding: 0;
+          gap: 0;
+          font-size: 0;
+        }
+
+        .must-solve-btn span {
+          font-size: 18px;
+        }
+      }
     </style>
   </head>
   <body>
@@ -1451,6 +1981,15 @@
               </p>
             </div>
           </div>
+
+          <!-- Must solve -->
+          <a href="#must-solve" class="must-solve-btn" id="mustSolveNav">
+            <span>🔥</span>
+            Must Solve
+          </a>
+
+          <!-- ------------------------------- -->
+
           <div class="topbar-actions">
             <button
               class="theme-toggle"
@@ -1485,7 +2024,8 @@
         </div>
       </header>
 
-      <main>
+      <main id="pageMain">
+        <div class="company-mode-content" id="companyModeContent">
         <section class="toolbar" aria-labelledby="filters-title">
           <h3 id="filters-title">🎛️ Filters</h3>
           <div class="controls">
@@ -1638,6 +2178,80 @@
           </div>
         </section>
 
+        </div>
+
+        <section
+          class="must-solve-section hidden"
+          id="mustSolveSection"
+          aria-labelledby="mustSolveTitle"
+        >
+          <button class="must-back-link" id="mustSolveBackTop" type="button">
+            ← Company Questions
+          </button>
+
+          <div class="must-hero">
+            <div>
+              <p class="must-kicker">🔥 Must Solve</p>
+              <h2 id="mustSolveTitle">🔥 Must Solve Interview Roadmap</h2>
+              <p class="must-subtitle">
+                The highest-impact interview roadmap for students with limited preparation time.
+              </p>
+              <p class="must-small">
+                Master these carefully selected questions to build strong pattern recognition for coding interviews.
+              </p>
+              <div class="must-actions">
+                <button class="must-primary" id="mustStartSolving" type="button">
+                  Start Solving →
+                </button>
+                <button class="must-secondary" id="mustSolveBackHero" type="button">
+                  Back to Company Questions
+                </button>
+              </div>
+            </div>
+            <div class="must-progress-card" aria-live="polite">
+              <span>Completed</span>
+              <strong><span id="mustCompletedCount">0</span> / 33</strong>
+              <div class="must-progress-track">
+                <div class="must-progress-fill" id="mustProgressFill"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="must-stats" aria-label="Must solve roadmap stats">
+            <div class="must-stat"><span>📚 Patterns</span><strong>8</strong></div>
+            <div class="must-stat"><span>✅ Questions</span><strong>33</strong></div>
+            <div class="must-stat"><span>⏱ Estimated Time</span><strong>20–25 Hours</strong></div>
+            <div class="must-stat"><span>🎯 Interview Focus</span><strong>High</strong></div>
+          </div>
+
+          <div class="must-info-card">
+            <h3>Why this roadmap?</h3>
+            <p>
+              This roadmap contains carefully selected LeetCode problems that teach the most important coding interview patterns.
+            </p>
+            <p>
+              Instead of solving hundreds of random questions, focus on mastering these core concepts first.
+            </p>
+            <p>
+              These patterns appear repeatedly in interviews conducted by companies like Amazon, Google, Microsoft, Meta, Apple, Adobe, Uber and many others.
+            </p>
+            <p>
+              This roadmap is intended to maximize interview preparation efficiency. While no fixed list can guarantee success, mastering these problems provides excellent coverage of common interview patterns.
+            </p>
+          </div>
+
+          <div class="must-section-head">
+            <div>
+              <h3>Core Pattern Sections</h3>
+              <p>Track each problem as you build interview-ready pattern recognition.</p>
+            </div>
+            <button class="must-reset" id="mustResetProgress" type="button">
+              Reset Progress
+            </button>
+          </div>
+
+          <div class="must-pattern-grid" id="mustPatternGrid"></div>
+        </section>
         <p class="footer-note">
           © 2026 DSA Doctor • Founded by
           <a href="/founder">Prem Kumar</a>
@@ -1702,7 +2316,18 @@
       const roadmapPanel = document.getElementById("roadmapPanel");
       const roadmapClose = document.getElementById("roadmapClose");
       const roadmapStatus = document.getElementById("roadmapStatus");
-
+      const pageMain = document.getElementById("pageMain");
+      const companyModeContent = document.getElementById("companyModeContent");
+      const mustSolveNav = document.getElementById("mustSolveNav");
+      const mustSolveSection = document.getElementById("mustSolveSection");
+      const mustSolveBackTop = document.getElementById("mustSolveBackTop");
+      const mustSolveBackHero = document.getElementById("mustSolveBackHero");
+      const mustStartSolving = document.getElementById("mustStartSolving");
+      const mustResetProgress = document.getElementById("mustResetProgress");
+      const mustPatternGrid = document.getElementById("mustPatternGrid");
+      const mustCompletedCount = document.getElementById("mustCompletedCount");
+      const mustProgressFill = document.getElementById("mustProgressFill");
+      let companyScrollY = 0;
       const datasetOrder = [
         "thirty-days.csv",
         "three-months.csv",
@@ -1719,6 +2344,192 @@
         "more-than-six-months.csv": "Older than 6 months",
       };
 
+
+      const mustSolveStoragePrefix = "dsa-doctor:must-solve:";
+      const mustSolvePatterns = [
+        {
+          name: "Two Pointer",
+          description: "Use two moving indexes to compare, shrink, or build answers in linear time.",
+          why: "It turns many array and string problems from nested loops into clean O(n) scans.",
+          questions: [
+            { id: "283", title: "Move Zeroes", difficulty: "Easy", slug: "move-zeroes" },
+            { id: "167", title: "Two Sum II", difficulty: "Medium", slug: "two-sum-ii-input-array-is-sorted" },
+            { id: "15", title: "3Sum", difficulty: "Medium", slug: "3sum" },
+            { id: "11", title: "Container With Most Water", difficulty: "Medium", slug: "container-with-most-water" },
+          ],
+        },
+        {
+          name: "Sliding Window",
+          description: "Track a changing range while maintaining just enough state to update answers fast.",
+          why: "It is a core interview pattern for substrings, subarrays, and constraint-based optimization.",
+          questions: [
+            { id: "643", title: "Maximum Average Subarray I", difficulty: "Easy", slug: "maximum-average-subarray-i" },
+            { id: "3", title: "Longest Substring Without Repeating Characters", difficulty: "Medium", slug: "longest-substring-without-repeating-characters" },
+            { id: "424", title: "Longest Repeating Character Replacement", difficulty: "Medium", slug: "longest-repeating-character-replacement" },
+            { id: "76", title: "Minimum Window Substring", difficulty: "Hard", slug: "minimum-window-substring" },
+          ],
+        },
+        {
+          name: "Binary Search on Answer",
+          description: "Search a valid answer space instead of searching only an array index.",
+          why: "It unlocks scheduling, capacity, speed, and minimum-feasible-value interview problems.",
+          questions: [
+            { id: "33", title: "Search in Rotated Sorted Array", difficulty: "Medium", slug: "search-in-rotated-sorted-array" },
+            { id: "875", title: "Koko Eating Bananas", difficulty: "Medium", slug: "koko-eating-bananas" },
+            { id: "74", title: "Search a 2D Matrix", difficulty: "Medium", slug: "search-a-2d-matrix" },
+            { id: "1011", title: "Capacity To Ship Packages Within D Days", difficulty: "Medium", slug: "capacity-to-ship-packages-within-d-days" },
+          ],
+        },
+        {
+          name: "HashMap / HashSet",
+          description: "Store seen values, counts, groups, and constant-time lookups as you scan data.",
+          why: "Hashing is one of the fastest ways to simplify frequency, duplicate, and grouping questions.",
+          questions: [
+            { id: "1", title: "Two Sum", difficulty: "Easy", slug: "two-sum" },
+            { id: "169", title: "Majority Element", difficulty: "Easy", slug: "majority-element" },
+            { id: "49", title: "Group Anagrams", difficulty: "Medium", slug: "group-anagrams" },
+            { id: "128", title: "Longest Consecutive Sequence", difficulty: "Medium", slug: "longest-consecutive-sequence" },
+          ],
+        },
+        {
+          name: "Stack / Monotonic Stack",
+          description: "Use stack state to remember previous candidates, boundaries, and next greater values.",
+          why: "It appears in parsing, ranges, daily temperatures, prefix logic, and contribution-style problems.",
+          questions: [
+            { id: "724", title: "Find Pivot Index", difficulty: "Easy", slug: "find-pivot-index" },
+            { id: "560", title: "Subarray Sum Equals K", difficulty: "Medium", slug: "subarray-sum-equals-k" },
+            { id: "303", title: "Range Sum Query - Immutable", difficulty: "Easy", slug: "range-sum-query-immutable" },
+            { id: "739", title: "Daily Temperatures", difficulty: "Medium", slug: "daily-temperatures" },
+          ],
+        },
+        {
+          name: "BFS / DFS",
+          description: "Traverse trees, graphs, and grids layer by layer or depth first with visited state.",
+          why: "Traversal fluency is essential for graph reachability, connected components, and tree views.",
+          questions: [
+            { id: "104", title: "Maximum Depth of Binary Tree", difficulty: "Easy", slug: "maximum-depth-of-binary-tree" },
+            { id: "200", title: "Number of Islands", difficulty: "Medium", slug: "number-of-islands" },
+            { id: "127", title: "Word Ladder", difficulty: "Hard", slug: "word-ladder" },
+            { id: "417", title: "Pacific Atlantic Water Flow", difficulty: "Medium", slug: "pacific-atlantic-water-flow" },
+            { id: "199", title: "Binary Tree Right Side View", difficulty: "Medium", slug: "binary-tree-right-side-view" },
+          ],
+        },
+        {
+          name: "Recursion + Memoization",
+          description: "Break problems into overlapping subproblems and cache results before optimizing further.",
+          why: "It builds the mental bridge to dynamic programming questions interviewers love to vary.",
+          questions: [
+            { id: "70", title: "Climbing Stairs", difficulty: "Easy", slug: "climbing-stairs" },
+            { id: "322", title: "Coin Change", difficulty: "Medium", slug: "coin-change" },
+            { id: "1143", title: "Longest Common Subsequence", difficulty: "Medium", slug: "longest-common-subsequence" },
+            { id: "198", title: "House Robber", difficulty: "Medium", slug: "house-robber" },
+          ],
+        },
+        {
+          name: "Heap / Priority Queue",
+          description: "Keep the most important item available while streaming, ranking, or merging data.",
+          why: "Heaps make top-k, kth element, and live ranking problems efficient and interview-friendly.",
+          questions: [
+            { id: "1046", title: "Last Stone Weight", difficulty: "Easy", slug: "last-stone-weight" },
+            { id: "215", title: "Kth Largest Element in an Array", difficulty: "Medium", slug: "kth-largest-element-in-an-array" },
+            { id: "347", title: "Top K Frequent Elements", difficulty: "Medium", slug: "top-k-frequent-elements" },
+            { id: "703", title: "Kth Largest Element in a Stream", difficulty: "Easy", slug: "kth-largest-element-in-a-stream" },
+          ],
+        },
+      ];
+
+      const mustSolveQuestions = mustSolvePatterns.flatMap((pattern) =>
+        pattern.questions.map((question) => ({ ...question, pattern: pattern.name })),
+      );
+
+      function mustSolveKey(id) {
+        return `${mustSolveStoragePrefix}${id}`;
+      }
+
+      function isMustSolved(id) {
+        return localStorage.getItem(mustSolveKey(id)) === "1";
+      }
+
+      function setMustSolved(id, solved) {
+        if (solved) {
+          localStorage.setItem(mustSolveKey(id), "1");
+        } else {
+          localStorage.removeItem(mustSolveKey(id));
+        }
+      }
+
+      function updateMustProgress() {
+        const completed = mustSolveQuestions.filter((question) => isMustSolved(question.id)).length;
+        const total = mustSolveQuestions.length;
+        mustCompletedCount.textContent = completed;
+        mustProgressFill.style.width = `${(completed / total) * 100}%`;
+        mustPatternGrid.querySelectorAll(".must-question").forEach((item) => {
+          item.classList.toggle("is-complete", isMustSolved(item.dataset.id));
+        });
+      }
+
+      function renderMustSolveRoadmap() {
+        mustPatternGrid.innerHTML = mustSolvePatterns
+          .map(
+            (pattern) => `
+        <article class="must-pattern-card">
+          <div class="must-pattern-header">
+            <div>
+              <h4>${escapeHTML(pattern.name)}</h4>
+              <p>${escapeHTML(pattern.description)}</p>
+            </div>
+            <div class="must-why">${escapeHTML(pattern.why)}</div>
+          </div>
+          <div class="must-question-list">
+            ${pattern.questions
+              .map(
+                (question) => `
+            <div class="must-question" data-id="${escapeHTML(question.id)}">
+              <input class="must-check" type="checkbox" data-id="${escapeHTML(question.id)}" ${isMustSolved(question.id) ? "checked" : ""} aria-label="Mark ${escapeHTML(question.title)} complete" />
+              <span class="must-number">LC ${escapeHTML(question.id)}</span>
+              <span class="must-name">${escapeHTML(question.title)}</span>
+              <span class="tag ${escapeHTML(question.difficulty.toLowerCase())}">${escapeHTML(question.difficulty)}</span>
+              <a class="must-open-link" href="https://leetcode.com/problems/${escapeHTML(question.slug)}/" target="_blank" rel="noopener noreferrer">Open LeetCode</a>
+            </div>`,
+              )
+              .join("")}
+          </div>
+        </article>`,
+          )
+          .join("");
+        updateMustProgress();
+      }
+
+      function showMustSolveMode() {
+        companyScrollY = window.scrollY;
+        pageMain.scrollIntoView({ behavior: "smooth", block: "start" });
+        companyModeContent.classList.add("mode-fade-out");
+        mustSolveNav.classList.add("active");
+
+        window.setTimeout(() => {
+          companyModeContent.classList.add("hidden");
+          companyModeContent.classList.remove("mode-fade-out", "mode-fade-in");
+          mustSolveSection.classList.remove("hidden", "mode-fade-out");
+          mustSolveSection.classList.add("mode-fade-in");
+          document.body.classList.add("must-solve-mode");
+          mustSolveSection.setAttribute("aria-hidden", "false");
+        }, 280);
+      }
+
+      function showCompanyMode() {
+        mustSolveSection.classList.add("mode-fade-out");
+        mustSolveNav.classList.remove("active");
+
+        window.setTimeout(() => {
+          mustSolveSection.classList.add("hidden");
+          mustSolveSection.classList.remove("mode-fade-out", "mode-fade-in");
+          companyModeContent.classList.remove("hidden", "mode-fade-out");
+          companyModeContent.classList.add("mode-fade-in");
+          document.body.classList.remove("must-solve-mode");
+          mustSolveSection.setAttribute("aria-hidden", "true");
+          window.scrollTo({ top: companyScrollY, behavior: "smooth" });
+        }, 280);
+      }
       function titleCase(slug) {
         return slug
           .split("-")
@@ -2164,6 +2975,39 @@
         renderRows(state.filteredRows);
       });
 
+      renderMustSolveRoadmap();
+      mustSolveSection.setAttribute("aria-hidden", "true");
+
+      mustSolveNav.addEventListener("click", (event) => {
+        event.preventDefault();
+        if (!mustSolveSection.classList.contains("hidden")) {
+          mustSolveSection.scrollIntoView({ behavior: "smooth", block: "start" });
+          return;
+        }
+        showMustSolveMode();
+      });
+
+      [mustSolveBackTop, mustSolveBackHero].forEach((button) => {
+        button.addEventListener("click", showCompanyMode);
+      });
+
+      mustStartSolving.addEventListener("click", () => {
+        mustPatternGrid.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+
+      mustPatternGrid.addEventListener("change", (event) => {
+        if (!event.target.matches(".must-check")) return;
+        setMustSolved(event.target.dataset.id, event.target.checked);
+        updateMustProgress();
+      });
+
+      mustResetProgress.addEventListener("click", () => {
+        mustSolveQuestions.forEach((question) => setMustSolved(question.id, false));
+        mustPatternGrid.querySelectorAll(".must-check").forEach((checkbox) => {
+          checkbox.checked = false;
+        });
+        updateMustProgress();
+      });
       boot();
     </script>
   </body>
