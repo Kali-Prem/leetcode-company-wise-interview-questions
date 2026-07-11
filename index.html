@@ -76,9 +76,14 @@
         --green: #15803d;
         --amber: #b45309;
         --red: #b91c1c;
-        --shadow: 0 24px 70px rgba(21, 84, 232, 0.13);
+        --shadow:
+          0 18px 42px rgba(21, 84, 232, 0.12),
+          0 8px 22px rgba(20, 184, 166, 0.08),
+          0 2px 8px rgba(245, 158, 11, 0.05);
         --glow:
-          0 26px 80px rgba(21, 84, 232, 0.22), 0 0 0 1px rgba(20, 184, 166, 0.2);
+          0 28px 72px rgba(21, 84, 232, 0.2),
+          0 16px 38px rgba(20, 184, 166, 0.14),
+          0 0 0 1px rgba(245, 158, 11, 0.12);
         --radius: 8px;
       }
 
@@ -93,10 +98,14 @@
         --green: #34d399;
         --amber: #fbbf24;
         --red: #f87171;
-        --shadow: 0 24px 70px rgba(2, 6, 23, 0.52);
+        --shadow:
+          0 22px 58px rgba(2, 6, 23, 0.58),
+          0 10px 28px rgba(96, 165, 250, 0.12),
+          0 2px 10px rgba(52, 211, 153, 0.08);
         --glow:
-          0 18px 42px rgba(96, 165, 250, 0.2),
-          0 0 0 1px rgba(148, 163, 184, 0.16);
+          0 26px 64px rgba(96, 165, 250, 0.22),
+          0 14px 34px rgba(52, 211, 153, 0.12),
+          0 0 0 1px rgba(251, 191, 36, 0.1);
       }
 
       * {
@@ -163,7 +172,9 @@
         background: rgba(255, 255, 255, 0.28);
         backdrop-filter: blur(24px) saturate(160%);
         -webkit-backdrop-filter: blur(24px) saturate(160%);
-        box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+        box-shadow:
+          0 12px 34px rgba(21, 84, 232, 0.1),
+          0 4px 18px rgba(20, 184, 166, 0.08);
       }
 
       .topbar-inner {
@@ -172,7 +183,7 @@
         padding: 10px 32px;
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: flex-start;
         gap: 16px;
         flex-wrap: wrap;
       }
@@ -181,6 +192,7 @@
         display: flex;
         align-items: center;
         gap: 16px;
+        margin-right: auto;
         min-width: 0;
       }
 
@@ -317,7 +329,9 @@
       body.dark-mode .topbar {
         background: rgba(15, 23, 42, 0.7);
         border-bottom-color: rgba(148, 163, 184, 0.28);
-        box-shadow: 0 10px 30px rgba(2, 6, 23, 0.3);
+        box-shadow:
+          0 14px 36px rgba(2, 6, 23, 0.34),
+          0 5px 18px rgba(96, 165, 250, 0.12);
       }
 
       body.dark-mode .brand h1 {
@@ -485,7 +499,9 @@
         gap: 12px;
         background: linear-gradient(135deg, #ffffff, #f3f8ff);
         border-color: rgba(21, 84, 232, 0.22);
-        box-shadow: 0 10px 24px rgba(21, 84, 232, 0.08);
+        box-shadow:
+          0 12px 28px rgba(21, 84, 232, 0.1),
+          0 6px 16px rgba(20, 184, 166, 0.07);
       }
 
       .popular-strip .quick-company:hover {
@@ -580,6 +596,7 @@
         color: #17365f;
         font-size: 15px;
         font-weight: 700;
+        box-shadow: 0 8px 22px rgba(21, 84, 232, 0.08);
       }
 
       .quick-panel {
@@ -612,6 +629,9 @@
         gap: 10px;
         font-weight: 800;
         color: var(--ink);
+        box-shadow:
+          0 10px 24px rgba(21, 84, 232, 0.08),
+          0 4px 14px rgba(20, 184, 166, 0.05);
       }
 
       .quick-company:hover {
@@ -685,7 +705,8 @@
           ),
           linear-gradient(135deg, #ffffff 0%, #f4f8ff 48%, #edf7ff 100%);
         box-shadow:
-          0 24px 70px rgba(21, 84, 232, 0.16),
+          0 24px 62px rgba(21, 84, 232, 0.16),
+          0 12px 32px rgba(20, 184, 166, 0.11),
           inset 0 1px 0 rgba(255, 255, 255, 0.9);
       }
 
@@ -711,7 +732,9 @@
       .toolbar select {
         border-color: rgba(21, 84, 232, 0.22);
         background: rgba(255, 255, 255, 0.86);
-        box-shadow: 0 10px 26px rgba(15, 23, 42, 0.05);
+        box-shadow:
+          0 10px 24px rgba(21, 84, 232, 0.07),
+          0 4px 12px rgba(20, 184, 166, 0.05);
       }
 
       .controls {
@@ -1230,7 +1253,9 @@
         gap: 10px;
         background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%);
         border-color: rgba(21, 84, 232, 0.24);
-        box-shadow: 0 10px 24px rgba(21, 84, 232, 0.08);
+        box-shadow:
+          0 12px 28px rgba(21, 84, 232, 0.1),
+          0 6px 16px rgba(20, 184, 166, 0.07);
       }
 
       .popular-strip .quick-company:hover {
@@ -1837,55 +1862,176 @@
           grid-template-columns: 1fr;
         }
 
+        .must-hero {
+          gap: 18px;
+        }
+
         .must-stats {
           grid-template-columns: repeat(2, minmax(0, 1fr));
         }
       }
 
       @media (max-width: 680px) {
-        .must-hero {
-          padding: 28px 18px;
+        .must-solve-section {
+          gap: 14px;
         }
 
+        .must-back-link {
+          justify-self: stretch;
+          text-align: center;
+        }
+
+        .must-hero {
+          padding: 24px 16px;
+        }
+
+        .must-hero h2 {
+          font-size: clamp(32px, 10vw, 42px);
+          line-height: 1.08;
+        }
+
+        .must-subtitle {
+          margin-top: 12px;
+          font-size: 17px;
+        }
+
+        .must-small {
+          font-size: 15px;
+        }
+
+        .must-actions,
         .must-section-head {
           align-items: stretch;
           flex-direction: column;
         }
 
+        .must-primary,
+        .must-secondary,
         .must-reset {
           width: 100%;
+          text-align: center;
         }
 
-        .must-stats {
-          grid-template-columns: 1fr;
-        }
-
-        .must-question {
-          grid-template-columns: 28px 64px minmax(0, 1fr);
-        }
-
-        .must-question .tag,
-        .must-open-link {
-          grid-column: 3;
-          justify-self: start;
-        }
-      }
-
-      @media (max-width: 460px) {
-        .must-actions {
-          flex-direction: column;
-        }
-
-        .must-primary,
-        .must-secondary {
-          width: 100%;
+        .must-progress-card {
+          min-height: 0;
+          padding: 18px;
         }
 
         .must-progress-card strong {
           font-size: 38px;
         }
+
+        .must-stats {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 10px;
+        }
+
+        .must-stat {
+          min-height: 92px;
+          padding: 14px 12px;
+        }
+
+        .must-stat span {
+          font-size: 11px;
+          line-height: 1.25;
+        }
+
+        .must-stat strong {
+          margin-top: 8px;
+          font-size: 24px;
+          line-height: 1.05;
+          overflow-wrap: anywhere;
+        }
+
+        .must-info-card,
+        .must-pattern-card {
+          padding: 18px;
+        }
+
+        .must-pattern-header {
+          gap: 10px;
+          margin-bottom: 14px;
+        }
+
+        .must-pattern-header h4 {
+          font-size: 20px;
+        }
+
+        .must-why {
+          font-size: 14px;
+        }
+
+        .must-question {
+          grid-template-columns: 26px minmax(0, 1fr);
+          gap: 8px 10px;
+          padding: 12px;
+          align-items: start;
+        }
+
+        .must-question input {
+          grid-row: 1 / span 3;
+          margin-top: 2px;
+        }
+
+        .must-number,
+        .must-name,
+        .must-question .tag,
+        .must-open-link {
+          grid-column: 2;
+          justify-self: start;
+        }
+
+        .must-name {
+          line-height: 1.35;
+        }
+
+        .must-open-link {
+          width: 100%;
+          text-align: center;
+        }
       }
 
+      @media (max-width: 460px) {
+        .must-hero {
+          padding: 22px 14px;
+        }
+
+        .must-kicker {
+          font-size: 12px;
+          margin-bottom: 8px;
+        }
+
+        .must-actions {
+          gap: 10px;
+          margin-top: 20px;
+        }
+
+        .must-stats {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 8px;
+        }
+
+        .must-stat {
+          min-height: 84px;
+          padding: 12px;
+        }
+
+        .must-stat span {
+          font-size: 10px;
+        }
+
+        .must-stat strong {
+          font-size: 22px;
+        }
+
+        .must-progress-card strong {
+          font-size: 34px;
+        }
+
+        .must-info-card p {
+          font-size: 14px;
+        }
+      }
       /*--------- Must Sove---------- */
       .must-solve-btn {
         width: 146px;
