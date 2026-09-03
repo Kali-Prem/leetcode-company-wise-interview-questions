@@ -277,26 +277,7 @@ This project is available under the [MIT License](LICENSE).
 
 
 ## Included
-leetcode-company-wise
-leetcode-company-wise-questions
-leetcode-company-wise-problems
-leetcode-company-wise-solutions
-leetcode-interview-preparation
-leetcode-interview-prep
-leetcode-dsa-sheet
-leetcode-dsa-practice
-leetcode-important-questions
-leetcode-questions-for-interviews
-leetcode-questions-with-solutions
-coding-interview-questions
-coding-interview-problems
-dsa-interview-questions
-dsa-interview-preparation
-software-engineering-interview-questions
-faang-interview-questions
-faang-coding-interview
-top-coding-interview-questions
-most-asked-coding-questions
+leetcode-company-wise, leetcode-company-wise-questions, leetcode-company-wise-problems, leetcode-company-wise-solutions, leetcode-interview-preparation, leetcode-interview-prep, leetcode-dsa-sheet, leetcode-dsa-practice, leetcode-important-questions, leetcode-questions-for-interviews, leetcode-questions-with-solutions, coding-interview-questions, coding-interview-problems, dsa-interview-questions, dsa-interview-preparation, software-engineering-interview-questions, faang-interview-questions, faang-coding-interview, top-coding-interview-questions, most-asked-coding-questions
 
 
 
