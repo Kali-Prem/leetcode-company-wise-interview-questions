@@ -1,3 +1,9 @@
+/*
+ * Copyright © 2026 Prem Kumar. All Rights Reserved.
+ * Proprietary and confidential. Unauthorized copying, modification,
+ * distribution, publication, or use is strictly prohibited.
+ */
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;

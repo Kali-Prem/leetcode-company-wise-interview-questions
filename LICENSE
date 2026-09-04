@@ -1,21 +1,36 @@
-MIT License
+PROPRIETARY LICENSE AGREEMENT
 
-Copyright (c) 2026 Prem Kumar
+Copyright © 2026 Prem Kumar. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE VIEWING, ACCESSING, OR BROWSING THIS REPOSITORY AND ITS ASSOCIATED FILES.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PROPRIETARY AND NON-OPEN-SOURCE STATUS
+This repository, including but not limited to all source code, software, datasets, compilations, algorithms, scripts, documentation, and design assets (collectively, the "Software"), is the exclusive, confidential, and proprietary property of Prem Kumar ("Copyright Holder").
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THIS REPOSITORY IS STRICTLY PROPRIETARY AND IS NOT OPEN SOURCE.
+
+2. NO GRANT OF RIGHTS
+Except as expressly set forth herein, no license, right, title, or interest of any kind is granted to you. You are NOT granted any permission to:
+  (a) Copy, reproduce, clone, fork, or mirror the Software or any portion thereof;
+  (b) Modify, adapt, translate, alter, or create derivative works of the Software;
+  (c) Distribute, publish, display, sublicense, rent, lease, lend, or transfer the Software to any third party;
+  (d) Sell, monetize, or exploit the Software or any portion thereof for commercial or non-commercial purposes;
+  (e) Reverse engineer, decompile, or disassemble any part of the Software;
+  (f) Scrape, ingest, or extract datasets or algorithms for use in any database, application, platform, or automated system.
+
+3. GITHUB VISIBILITY AND ACCESS NOTICE
+The public hosting, visibility, or availability of this repository on GitHub, GitHub Pages, or any other hosting service is provided solely for informational and inspection purposes by the Copyright Holder. Viewing or accessing this repository does NOT confer, imply, or grant any license, right, or permission to reuse, distribute, run, or build upon the Software or its datasets in any form.
+
+4. COMMERCIAL AND NON-COMMERCIAL USE PROHIBITED
+Both commercial use and non-commercial reuse, redistribution, and reproduction of this repository or any portion thereof are strictly prohibited without prior express written authorization from the Copyright Holder.
+
+5. RESERVATION OF ALL RIGHTS
+The Copyright Holder reserves all rights, remedies, and protections under applicable copyright, trade secret, trademark, and intellectual property laws globally. Any unauthorized use, reproduction, or distribution constitutes a violation of copyright law and will be subject to appropriate legal action.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------------
+For permissions, licensing inquiries, or written authorization requests:
+Contact: Prem Kumar (https://github.com/Kali-Prem)
+--------------------------------------------------------------------------------

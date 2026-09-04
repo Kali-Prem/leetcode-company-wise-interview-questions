@@ -17,7 +17,7 @@
   <a href="https://dsadoctor.com"><img src="https://img.shields.io/badge/🌐%20Official%20Site-dsadoctor.com-2563eb?style=for-the-badge" alt="DSA Doctor Official Website dsadoctor.com" /></a>
   <a href="#-target-company-directory"><img src="https://img.shields.io/badge/🏢%20Companies-650%2B-0f172a?style=for-the-badge" alt="Companies Count" /></a>
   <a href="#-repository-at-a-glance"><img src="https://img.shields.io/badge/🧩%20Problems-17K%2B-16a34a?style=for-the-badge" alt="Problems Count" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/⚖️%20License-MIT-f59e0b?style=for-the-badge" alt="License" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/⚖️%20License-All%20Rights%20Reserved-red?style=for-the-badge" alt="License: Proprietary" /></a>
 </p>
 
 <!-- Quick Navigation Bar -->
@@ -373,7 +373,7 @@ Build your own customized `progress.md` file in your personal branch to monitor 
   <a href="founder/"><img src="https://img.shields.io/badge/📖%20Founder-Story-10B981?style=for-the-badge&logo=readme&logoColor=white" alt="Founder Story" /></a>
 </p>
 
-*"Building open-source tools that empower developers to prepare with intention, eliminate interview guesswork, and secure life-changing opportunities."*
+*"Building tools that empower developers to prepare with intention, eliminate interview guesswork, and secure life-changing opportunities."*
 
 </div>
 
@@ -386,7 +386,7 @@ Build your own customized `progress.md` file in your personal branch to monitor 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 ### 🔍 What is DSA Doctor (dsadoctor.com)?
-**DSA Doctor** (also searched as **DSADoctor**, **dsa doctor**, **dsa-doctor**, or **dsadoctor.com**) is an open-source algorithmic diagnostic engine and interview preparation platform created by **Prem Kumar**. It organizes and curates over 17,640+ verified coding interview questions across 650+ tech companies into structured, recency-aware problem banks.
+**DSA Doctor** (also searched as **DSADoctor**, **dsa doctor**, **dsa-doctor**, or **dsadoctor.com**) is a proprietary algorithmic diagnostic engine and interview preparation platform created by **Prem Kumar**. It organizes and curates over 17,640+ verified coding interview questions across 650+ tech companies into structured, recency-aware problem banks.
 
 ### 🌐 Where can I access the official DSA Doctor website?
 The official web application is live at **[dsadoctor.com](https://dsadoctor.com)**. You can also access the interactive companion mirror at [kali-prem.github.io/leetcode-company-wise-interview-questions](https://kali-prem.github.io/leetcode-company-wise-interview-questions/).
@@ -398,8 +398,8 @@ Instead of grinding random problems, **DSA Doctor** allows you to:
 - Focus on high-frequency questions first to get maximum preparation ROI in minimum time.
 - Identify algorithmic patterns (Two Pointers, Sliding Window, Graphs, DP) rather than memorizing solutions.
 
-### 💸 Is DSA Doctor (dsadoctor.com) completely free?
-Yes, **DSA Doctor (dsadoctor.com)** is 100% free and open-source under the MIT License. All CSV datasets, roadmaps, and the web application are freely available to the global developer community.
+### 💸 Can I access DSA Doctor (dsadoctor.com) for free?
+Yes, **DSA Doctor (dsadoctor.com)** is freely accessible for individual, personal interview preparation. However, all source code, software, datasets, and compilations are **Proprietary with All Rights Reserved**. Copying, redistributing, scraping, sublicensing, or republishing any portion of this repository for commercial or non-commercial purposes without express prior written permission is strictly prohibited.
 
 <p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
 
@@ -417,6 +417,9 @@ We welcome community contributions! If you recently interviewed at a company or 
 4. 🧹 **Verify CSV Formatting** ensuring clean commas, quotes, and no corrupted rows.
 5. 🚀 **Submit a Pull Request** with details of recent interview trends.
 
+> [!NOTE]
+> By submitting a pull request, issue, or contribution, you agree that your contribution is provided to the Copyright Holder and incorporated into this proprietary project under these terms, without granting any ownership or reuse rights to third parties.
+
 <p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
@@ -433,11 +436,21 @@ This repository is maintained independently for educational and career-preparati
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
-## 📜 License
+## 📜 License & Copyright
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
-This project is open-source and released under the **[MIT License](LICENSE)**. Feel free to use, modify, and distribute for your personal interview preparation.
+**Copyright © 2026 Prem Kumar. All Rights Reserved.**
+
+This repository, including all source code, software, CSV datasets, diagnostic algorithms, documentation, and design assets, is **strictly proprietary and confidential**. This project is **NOT open source**.
+
+- **All Rights Reserved**: No permission is granted to copy, clone, reproduce, modify, distribute, sublicense, publish, sell, or reuse this source code, datasets, or substantial portions of it without prior written permission from the Copyright Holder (Prem Kumar).
+- **GitHub Visibility Notice**: Viewing this repository on GitHub or accessing it via GitHub Pages does not grant any rights or license to reuse, fork, copy, or redistribute the code or data.
+- **Commercial & Non-Commercial Use Prohibited**: Both commercial exploitation and non-commercial redistribution or mirroring are strictly prohibited without prior written authorization.
+- **Personal Preparation**: You are permitted solely to view and study the materials for your personal, individual technical interview preparation through official interfaces.
+
+For licensing inquiries, permissions, or corporate use requests:  
+👉 **Contact:** [Prem Kumar](https://github.com/Kali-Prem) | [Official Platform](https://dsadoctor.com)
 
 <p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
 
