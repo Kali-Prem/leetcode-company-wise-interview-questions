@@ -40,9 +40,11 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## 💡 Core Philosophy
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 > [!IMPORTANT]
 > **Grinding 1,000+ random LeetCode problems does NOT guarantee an interview offer.**
@@ -53,20 +55,11 @@
 
 <br />
 
-### ⚖️ The Paradigm Shift: Blind Grind vs. DSA Doctor
 
-| Dimension | ❌ Traditional Blind Grinding | 🩺 The DSA Doctor Framework |
-| :--- | :--- | :--- |
-| **Strategy** | Solving whatever problem appears on the daily page | Targeted problem sets extracted from verified company interview rounds |
-| **Recency Relevance** | Solving questions popular in 2018 that are no longer asked | Pinpoint questions reported in the **last 30 days, 3 months, or 6 months** |
-| **Time Investment** | 500+ unstructured hours with diminishing returns | **80% faster preparation** by attacking top 20% high-frequency questions |
-| **Solving Approach** | Memorizing code syntax for individual problems | Identifying underlying **Patterns** (Two Pointers, Sliding Window, Monotonic Stack, etc.) |
-| **Retention** | Forgetting solutions within 2 weeks | Structured **1-3-7-14 Day Spaced Repetition Engine** |
-| **Readiness** | Panic during unexpected OA problem types | Total confidence backed by real interview frequency data |
 
----
+<!-- --- -->
 
-## 📊 Repository at a Glance
+<!-- ## 📊 Repository at a Glance
 
 <div align="center">
 
@@ -81,11 +74,15 @@
 | **Enriched Metadata Fields** | Topic Tags, Pattern Type, Revision Priority, Frequency %, Acceptance % |
 | **Interactive Companion Platform** | [Web App Live on GitHub Pages](https://kali-prem.github.io/leetcode-company-wise-interview-questions/) |
 
-</div>
+</div> -->
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## 🗺️ Visual Diagnostic Pipeline
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 Follow this proven tactical pipeline to prepare systematically for any upcoming assessment or technical interview:
 
@@ -112,9 +109,13 @@ flowchart TD
     H --> I["🏆 Step 6: Clear OA & Ace Technical Interviews!"]:::outcome
 ```
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## 🏢 Target Company Directory
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 Jump straight into your target company's curated question bank. Below is a categorized directory of premier hiring companies available in this repository:
 
@@ -151,7 +152,24 @@ Jump straight into your target company's curated question bank. Below is a categ
 
 ---
 
+### ⚖️ The Paradigm Shift: Blind Grind vs. DSA Doctor
+
+| Dimension | ❌ Traditional Blind Grinding | 🩺 The DSA Doctor Framework |
+| :--- | :--- | :--- |
+| **Strategy** | Solving whatever problem appears on the daily page | Targeted problem sets extracted from verified company interview rounds |
+| **Recency Relevance** | Solving questions popular in 2018 that are no longer asked | Pinpoint questions reported in the **last 30 days, 3 months, or 6 months** |
+| **Time Investment** | 500+ unstructured hours with diminishing returns | **80% faster preparation** by attacking top 20% high-frequency questions |
+| **Solving Approach** | Memorizing code syntax for individual problems | Identifying underlying **Patterns** (Two Pointers, Sliding Window, Monotonic Stack, etc.) |
+| **Retention** | Forgetting solutions within 2 weeks | Structured **1-3-7-14 Day Spaced Repetition Engine** |
+| **Readiness** | Panic during unexpected OA problem types | Total confidence backed by real interview frequency data |
+
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
+
 ## 📑 Dataset Anatomy & Schema
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 Each company folder contains structured CSV files partitioned by recency windows, giving you precise control over your preparation timeline:
 
@@ -172,7 +190,7 @@ leetcode-company-wise-interview-questions/
 
 <br />
 
-### 🏷️ Complete Schema Specification
+<!-- ### 🏷️ Complete Schema Specification
 
 Every CSV dataset is standardized with enriched analytical attributes:
 
@@ -189,7 +207,7 @@ Every CSV dataset is standardized with enriched analytical attributes:
 | `Revision Priority`| Enum | `High` \| `Medium` \| `Low` | Triage label indicating what must be revised before interview day |
 | `Notes` | String | Diagnostic Guidance | Short strategic cues on how to approach and master the problem |
 
-<br />
+<br /> -->
 
 ### 🎯 The Optimal Practice Hierarchy
 
@@ -213,9 +231,13 @@ Low Frequency + Hard Difficulty
    │  (Only after core patterns are mastered; for bar-raiser rounds)
 ```
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## ⏱️ Battle-Tested Study Sprints
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 Whether you have 7 days before an emergency assessment or a full month for campus placements and job switching, execute these structured plans:
 
@@ -248,7 +270,7 @@ Designed for thorough preparation for product-based company hiring drives and ca
 
 ---
 
-## 🔁 The 1-3-7-14 Spaced Repetition Engine
+<!-- ## 🔁 The 1-3-7-14 Spaced Repetition Engine
 
 Solving a problem once is almost useless if you can't reproduce the optimal approach 3 weeks later in front of an interviewer. Use the **1-3-7-14 Spaced Repetition Engine**:
 
@@ -264,20 +286,26 @@ Problem Solved
      └── 🕒 Day 14: Re-solve a harder variation or solve under strict 20-minute timer
 ```
 
----
+--- -->
+
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## ⚡ Quick Start & Usage
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 ### 1. 🌐 Instant Access via Live Web App
 Visit the interactive dashboard to search, filter, and inspect roadmaps directly in your browser:  
 👉 **[Open DSA Doctor Web App](https://kali-prem.github.io/leetcode-company-wise-interview-questions/)**
 
-### 2. 📊 Import into Spreadsheets (Notion / Google Sheets / Excel)
+<!-- ### 2. 📊 Import into Spreadsheets (Notion / Google Sheets / Excel)
 1. Navigate to your target company folder (e.g., `amazon/`).
 2. Open `thirty-days.csv` or `three-months.csv`.
-3. Import the raw CSV into **Google Sheets**, **Excel**, or **Notion Databases** to create your personal custom tracking dashboard.
+3. Import the raw CSV into **Google Sheets**, **Excel**, or **Notion Databases** to create your personal custom tracking dashboard. -->
 
-### 3. 🐍 Command-Line & Data Science Filtering
+<!-- ### 3. 🐍 Command-Line & Data Science Filtering
 
 Filter high-frequency questions directly using Python and Pandas:
 
@@ -303,9 +331,9 @@ Or query in the terminal using standard bash tools:
 head -n 1 google/three-months.csv && tail -n +2 google/three-months.csv | sort -t',' -k6 -nr | head -n 15
 ```
 
----
+--- -->
 
-## 🛠️ Personal Tracker Template
+<!-- ## 🛠️ Personal Tracker Template
 
 Build your own customized `progress.md` file in your personal branch to monitor your preparation velocity:
 
@@ -319,9 +347,15 @@ Build your own customized `progress.md` file in your personal branch to monitor 
 | **Microsoft**| [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | `Medium` | Doubly LL + Map | 2026-09-07 | 🔲 | 🔲 | 🕒 Scheduled |
 ```
 
----
+--- -->
+
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## 👨‍💻 Founder & Creator
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 <div align="center">
 
@@ -343,9 +377,13 @@ Build your own customized `progress.md` file in your personal branch to monitor 
 
 </div>
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## ❓ Frequently Asked Questions (FAQ)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 ### 🔍 What is DSA Doctor (dsadoctor.com)?
 **DSA Doctor** (also searched as **DSADoctor**, **dsa doctor**, **dsa-doctor**, or **dsadoctor.com**) is an open-source algorithmic diagnostic engine and interview preparation platform created by **Prem Kumar**. It organizes and curates over 17,640+ verified coding interview questions across 650+ tech companies into structured, recency-aware problem banks.
@@ -363,9 +401,13 @@ Instead of grinding random problems, **DSA Doctor** allows you to:
 ### 💸 Is DSA Doctor (dsadoctor.com) completely free?
 Yes, **DSA Doctor (dsadoctor.com)** is 100% free and open-source under the MIT License. All CSV datasets, roadmaps, and the web application are freely available to the global developer community.
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## 🤝 Contributing
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 We welcome community contributions! If you recently interviewed at a company or noticed new recurring questions:
 
@@ -375,41 +417,35 @@ We welcome community contributions! If you recently interviewed at a company or 
 4. 🧹 **Verify CSV Formatting** ensuring clean commas, quotes, and no corrupted rows.
 5. 🚀 **Submit a Pull Request** with details of recent interview trends.
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## ⚠️ Disclaimer
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 This repository is maintained independently for educational and career-preparation purposes. All problem titles, identifiers, and conceptual frameworks are referenced from publicly accessible interview experiences, community submissions, and public technical preparation sources.
 
 *LeetCode is a registered trademark of LeetCode LLC. This repository is not affiliated with, endorsed by, or sponsored by LeetCode or any of the corporate organizations listed herein.*
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## 📜 License
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
+
 This project is open-source and released under the **[MIT License](LICENSE)**. Feel free to use, modify, and distribute for your personal interview preparation.
 
----
+<p align="right"><a href="#-dsa-doctor--dsadoctorcom"><img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=flat-square&color=00f5ff&labelColor=0d1117" alt="Back to Top" /></a></p>
 
-<div align="center">
-
-### ⭐ If DSA Doctor assists you in clearing your technical interviews, leave a star!
-
-**Stay Disciplined • Master Patterns • Claim Your Engineering Offer 🚀**
-
-<br />
-
-<a href="#-dsa-doctor--dsadoctorcom">
-  <img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=for-the-badge&color=00f5ff&labelColor=0d1117" alt="Back to Top" />
-</a>
-
-</div>
-
-<br />
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=4&width=100%" width="100%" />
 
 ## 🔍 Google Search & SEO Index for DSA Doctor (dsadoctor.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:2563eb,100:7928ca&height=2&width=100%" width="100%" />
 
 To help developers, students, and engineers easily discover this platform on Google and search engines across all spelling and spacing variations:
 
@@ -434,3 +470,23 @@ To help developers, students, and engineers easily discover this platform on Goo
   `leetcode-company-wise` • `leetcode-company-wise-questions` • `leetcode-company-wise-problems` • `leetcode-company-wise-solutions` • `leetcode-interview-preparation` • `leetcode-interview-prep` • `leetcode-dsa-sheet` • `leetcode-dsa-practice` • `leetcode-important-questions` • `leetcode-questions-for-interviews` • `leetcode-questions-with-solutions` • `coding-interview-questions` • `coding-interview-problems` • `dsa-interview-questions` • `dsa-interview-preparation` • `software-engineering-interview-questions` • `faang-interview-questions` • `faang-coding-interview` • `top-coding-interview-questions` • `most-asked-coding-questions` • `company-wise-coding-questions` • `online-assessment-questions`
 
 </details>
+
+<br />
+
+<div align="center">
+
+### ⭐ If DSA Doctor assists you in clearing your technical interviews, leave a star!
+
+**Stay Disciplined • Master Patterns • Claim Your Engineering Offer 🚀**
+
+<br />
+
+<a href="#-dsa-doctor--dsadoctorcom">
+  <img src="https://img.shields.io/badge/⬆️%20Back%20To%20Top-0d1117?style=for-the-badge&color=00f5ff&labelColor=0d1117" alt="Back to Top" />
+</a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7928ca,50:2563eb,100:00f5ff&height=4&width=100%" width="100%" />
+
+</div>
